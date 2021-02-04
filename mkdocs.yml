@@ -1,0 +1,15 @@
+site_name: My Docs
+
+theme:
+  name: material
+  language: pt
+  # logo:
+  # favicon:
+
+# extra_css:
+#    - stylesheets/extra.css
+
+repo_url: https://github.com/Requisitos-de-Software/2020.2-Grupo7
+
+nav:
+  - Sobre: index.md
