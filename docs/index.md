@@ -1,17 +1,39 @@
-# Welcome to MkDocs
+# Sobre
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<div align="center">
+  <img src= "assets/logos/logo.png"/>
+</div>
 
-## Commands
+<br />
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+&emsp;&emsp; Este repositório é destinado ao **Grupo 7 - [Carteira Digital de Trânsito](https://campanhas.serpro.gov.br/cdt/#home)**, contém toda a documentação do projeto da disciplina de Requisitos de Software, ministrado pelo professor André Barros, na Universidade de Brasília - Gama, durante o período 2020/2.
 
-## Project layout
+&emsp;&emsp; A Carteira Digital de Trânsito - CDT é o app oficial do Denatran que reúne toda sua documentação de trânsito de forma digital no seu celular, com segurança e com o mesmo valor legal dos documentos impressos.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<br/>
+
+# Contribuidores
+
+|Foto | Nome | GitHub | E-mail |
+|:--:|:--:|:--:|:--:|
+| <img width=100 style="border-radius:50%" src="./assets/integrantes/daniel.jpeg"/> | Daniel Porto | [@DanielPortods][daniel-github] | daniel.porto@aluno.unb.br
+| <img width=100 style="border-radius:50%" src="./assets/integrantes/emily.jpeg"/> | Emily Dias | [@emysdias][emily-github] | emilydiassousa26@gmail.com
+| <img width=100 style="border-radius:50%" src="./assets/integrantes/enzo.jpeg"/> | Enzo Gabriel | [@enzoggqs][enzo-github] | eggqsaraiva@gmail.com
+| <img width=100 style="border-radius:50%" src="./assets/integrantes/estevao.jpeg"/> | Estevao Reis | [@estevaoreis25][estevao-github] | estevao.reis@aluno.unb.br
+| <img width=100 style="border-radius:50%" src="./assets/integrantes/sergio.jpeg"/> | Sergio Cipriano | [@sergiosacj][sergio-github] | sergiosacj@hotmail.com.br
+| <img width=100 style="border-radius:50%" src="./assets/integrantes/yan.jpeg"/> | Yan Andrade | [@yandrade1305][yan-github] | yan13052001@gmail.com
+
+[daniel-github]:https://github.com/DanielPortods
+[emily-github]:https://github.com/emysdias
+[enzo-github]:https://github.com/enzoggqs
+[estevao-github]:https://github.com/estevaoreis25
+[sergio-github]:https://github.com/sergiosacj
+[yan-github]:https://github.com/yandrade1305
+
+<br/>
+
+# Versionamento
+
+|Data|Versão|Descrição|Autor|
+|:-:|:-:|:-:|:-:|
+|13/02/2021|1.0|Criação do documento|Sérgio Cipriano|
