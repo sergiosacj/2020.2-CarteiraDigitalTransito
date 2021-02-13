@@ -1,15 +1,15 @@
-site_name: My Docs
+site_name: Carteira Digital Trânsito
 
 theme:
   name: material
   language: pt
-  # logo:
+  logo: assets/logos/logo.png
   # favicon:
 
-# extra_css:
-#    - stylesheets/extra.css
+extra_css:
+    - stylesheets/extra.css
 
-repo_url: https://github.com/Requisitos-de-Software/2020.2-Grupo7
+repo_url: https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito
 
 nav:
   - Sobre: index.md
