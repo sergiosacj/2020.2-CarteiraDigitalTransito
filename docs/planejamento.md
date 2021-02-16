@@ -74,6 +74,10 @@
 
 ## 4. Horários disponíveis dos integrantes
 
+A tabela a seguir mostra os horários diários dos integrantes da equipe, visando o melhor aproveitamento do tempo para possíveis reuniões futuras.
+
+![](https://i.imgur.com/mf1Ri1F.png)
+
 ## 5. Ferramentas Utilizadas
 
 ## 6. Versionamento
