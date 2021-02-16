@@ -24,7 +24,7 @@
 <p align="justify"> &emsp;&emsp; Cada artefato ou atividade será revisado por um ou mais integrantes da equipe alheios ao desenvolvimento do que será avaliado. Isso será feito por meio de Pull Requests.</p>
 
 ### 3.6 Reuniões de planejamento:
-<p align="justify"> &emsp;&emsp; Inspiradas nos plannings da metodoligia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada pr de artefatos e qualquer aspecto pertinente da disciplina.</p>
+<p align="justify"> &emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina.</p>
 
 ## 4. Horários disponíveis dos integrantes
 
