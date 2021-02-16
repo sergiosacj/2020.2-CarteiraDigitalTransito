@@ -74,6 +74,10 @@
 
 ## 4. Horários disponíveis dos integrantes
 
+A tabela a seguir mostra os horários diários dos integrantes da equipe, visando o melhor aproveitamento do tempo para possíveis reuniões futuras.
+
+![](https://i.imgur.com/mf1Ri1F.png)
+
 ## 5. Ferramentas Utilizadas
 
 ## 6. Versionamento
@@ -83,3 +87,4 @@
 |15/02/2021|1.0|Adição dos tópicos e descrição das metodologias|Daniel Porto|
 |15/02/2021|1.1|Descrição da Introdução e criação do Cronograma das etapas|Estevao Reis|
 |16/02/2021|1.2|Criação do Cronograma completo|Estevao Reis e Sérgio Cipriano|
+|16/02/2021|1.3|Inclusão dos horários da equipe|Enzo Gabriel|
