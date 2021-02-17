@@ -53,7 +53,7 @@
 
 ## 3. Metodologia
 ### 3.1 GitHub Kanbam:
-&emsp;&emsp; É uma maneira de se aplicar o Kanbam utilizando as funcionalidades do GitHub. As atividades serão identificadas e especificadas por issues as quais terão os responsáveis e o registro do andamento. Tabém será feito o uso de labels para auxiliar na identificação das atividades.
+&emsp;&emsp; É uma maneira de se aplicar o Kanbam utilizando as funcionalidades do GitHub. As atividades serão identificadas e especificadas por issues as quais terão os responsáveis e o registro do andamento. Também será feito o uso de labels para auxiliar na identificação das atividades.
 
 ### 3.1 eXtreme Programming (XP):
 &emsp;&emsp; Serão incorporados os valores de comunicação, simplicidade, feedback e coragem da metodologia eXtreme Programming.
