@@ -1,5 +1,5 @@
 ## Introdução
-<p align="justify"> &emsp;&emsp; O Rich Picture é uma forma de representar o sistema e suas interaçõe por meio de diagramas gráficos. É uma ferramenta que cabe muito bem em momentos iniciais ou de revisões do projeto fornecendo um modelo mental preliminar.</p>
+&emsp;&emsp; O Rich Picture é uma forma de representar o sistema e suas interaçõe por meio de diagramas gráficos. É uma ferramenta que cabe muito bem em momentos iniciais ou de revisões do projeto fornecendo um modelo mental preliminar.
 
 ## RP1 - Funcionalidades Principais
 ![Funcionalidades Principais](https://user-images.githubusercontent.com/48573556/108143785-1e971800-70a7-11eb-9c19-3271177b1341.png)
