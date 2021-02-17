@@ -20,4 +20,6 @@ O grupo produziu alguns documentos entre o início do projeto e a gravação da 
 |    Data    | Versão |            Descrição             |      Autor      |
 | :--------: | :----: | :------------------------------: | :-------------: |
 | 13/01/2021 |  1.0   | Criação do template do documento | Sérgio Cipriano |
-| 17/01/2021 |  1.1   |  Adição do vídeo e dos tópicos   |   Emily Dias    |
+| 17/01/2021 |  1.1   |  Gravação do vídeo   |Todos integrantes|
+| 17/01/2021 |  1.2   |  Edição do vídeo   |   Estevão Reis    |
+| 17/01/2021 |  1.3   |  Adição do vídeo e dos tópicos   |   Emily Dias    |
