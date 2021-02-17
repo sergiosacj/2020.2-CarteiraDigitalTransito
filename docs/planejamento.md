@@ -4,7 +4,7 @@
 &emsp;&emsp; O propósito deste documento é exibir o planejamento do projeto em detalhes, onde será apresentado as etapas de desenvolvimento. O documento está dividido em seis tópicos: Introdução, cronograma de atividades e entregas, metodologias, horários disponíveis dos integrantes da equipe, ferramentas utilizadas, referência bibliográfica e versionamento do documento.
 
 ## 2. Cronograma
-&emsp;&emsp; AO cronograma das tarefas do projeto foi baseado nas datas de entregas das atividades descritas no plano de ensino da disciplina de Requisitos de Software, visando atender às exigências de cada ponto de controle. É importante ressaltar que as datas podem ser alteradas futuramente, caso seja necessário.
+&emsp;&emsp; O cronograma das tarefas do projeto foi baseado nas datas de entregas das atividades descritas no plano de ensino da disciplina de Requisitos de Software, visando atender às exigências de cada ponto de controle. É importante ressaltar que as datas podem ser alteradas futuramente, caso seja necessário.
 
 ### 2.1 Cronograma das etapas
 |Etapas|Título|Data|Descrição|
@@ -53,38 +53,38 @@
 
 ## 3. Metodologia
 ### 3.1 GitHub Kanbam:
-<p align="justify"> &emsp;&emsp; É uma maneira de se aplicar o Kanbam utilizando as funcionalidades do GitHub. As atividades serão identificadas e especificadas por issues as quais terão os responsáveis e o registro do andamento. Tabém será feito o uso de labels para auxiliar na identificação das atividades.</p>
+&emsp;&emsp; É uma maneira de se aplicar o Kanbam utilizando as funcionalidades do GitHub. As atividades serão identificadas e especificadas por issues as quais terão os responsáveis e o registro do andamento. Tabém será feito o uso de labels para auxiliar na identificação das atividades.
 
 ### 3.1 eXtreme Programming (XP):
-<p align="justify"> &emsp;&emsp; Serão incorporados os valores de comunicação, simplicidade, feedback e coragem da metodologia eXtreme Programming.</p>
+&emsp;&emsp; Serão incorporados os valores de comunicação, simplicidade, feedback e coragem da metodologia eXtreme Programming.
 
 ### 3.2 Política de branchs:
-<p align="justify"> &emsp;&emsp; Para o desenvolvimento de artefatos e a realização de atividades em conjunto, será utilizada uma politica de branchs bem simples em que cada branch será criada com base em uma issue existente. As branchs serão nomeadas de acordo com os padrões "x_nome_da_issue" ou "x_nome_do_artefato", onde x é o número da issue.<br>
+&emsp;&emsp; Para o desenvolvimento de artefatos e a realização de atividades em conjunto, será utilizada uma politica de branchs bem simples em que cada branch será criada com base em uma issue existente. As branchs serão nomeadas de acordo com os padrões "x_nome_da_issue" ou "x_nome_do_artefato", onde x é o número da issue.<br>
 &emsp;&emsp; As branchs serão os espaços usados pelos responsáveis pela issue correspondente para a realização das atividades, que terão as atualizações registradas por commits. Ao final das atividades em uma branch, o conteúdo será adicionado a branch Main por meio de Pull Request.
-</p>
 
 ### 3.3 Política de commits:
-<p align="justify"> &emsp;&emsp; A cada modificação significativa em artefatos do repositório ou quando o responsável achar cabível, será feito o commit das mudança. A mensagem do commit deve ser feita em Português utilizando o gerûndio explicando sucintamente as alterações feitas. O commit deve sempre apontar para o número da issue base da branch e para o de qualquer outra que se relacione com a alteração.</p>
+&emsp;&emsp; A cada modificação significativa em artefatos do repositório ou quando o responsável achar cabível, será feito o commit das mudança. A mensagem do commit deve ser feita em Português utilizando o gerûndio explicando sucintamente as alterações feitas. O commit deve sempre apontar para o número da issue base da branch e para o de qualquer outra que se relacione com a alteração.
 
 ### 3.5 Política de pull requests:
-<p align="justify"> &emsp;&emsp; Cada artefato ou atividade será revisado por um ou mais integrantes da equipe alheios ao desenvolvimento do que será avaliado. Isso será feito por meio de Pull Requests.</p>
+&emsp;&emsp; Cada artefato ou atividade será revisado por um ou mais integrantes da equipe alheios ao desenvolvimento do que será avaliado. Isso será feito por meio de Pull Requests.
 
 ### 3.6 Reuniões de planejamento:
-<p align="justify"> &emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina.</p>
+&emsp;&emsp; Inspiradas nos plannings da metodologia Scrum, serão feitas reuniões após as estregas para o planejamento das atividades referentes a entrega seguinte. Dentre outras coisas, serão discutidos e decididos nessas reuniões: os responsáveis por cada artefato e issue, os revisores de cada PR de artefatos e qualquer aspecto pertinente da disciplina.
 
 ## 4. Horários disponíveis dos integrantes
 
-A tabela a seguir mostra os horários diários dos integrantes da equipe, visando o melhor aproveitamento do tempo para possíveis reuniões futuras.
+&emsp;&emsp; A tabela a seguir mostra os horários diários dos integrantes da equipe, visando o melhor aproveitamento do tempo para possíveis reuniões futuras.
 
 ![](https://i.imgur.com/mf1Ri1F.png)
 
 ## 5. Ferramentas Utilizadas
 
-## 6. Versionamento
+## Versionamento
 			
-|Data|Versão|Descrição|Auto|			
+|Data|Versão|Descrição|Autor|			
 |----|------|---------|----|			
 |15/02/2021|1.0|Adição dos tópicos e descrição das metodologias|Daniel Porto|
 |15/02/2021|1.1|Descrição da Introdução e criação do Cronograma das etapas|Estevao Reis|
 |16/02/2021|1.2|Criação do Cronograma completo|Estevao Reis e Sérgio Cipriano|
 |16/02/2021|1.3|Inclusão dos horários da equipe|Enzo Gabriel|
+|17/02/2021|1.4|Pequenas correções de padronização|Daniel Porto|
