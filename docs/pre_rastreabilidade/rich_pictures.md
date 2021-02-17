@@ -21,3 +21,4 @@
 |Data|Versão|Descrição|Autor|
 |----|------|---------|-----|
 |17/02/2021|1.0|Criação do documento, adição da introdução e dos Rich Pictures|Daniel Porto|
+17/02/2021|1.1|Correções de erros de digitação|Daniel Porto|

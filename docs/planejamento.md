@@ -88,3 +88,4 @@
 |16/02/2021|1.2|Criação do Cronograma completo|Estevao Reis e Sérgio Cipriano|
 |16/02/2021|1.3|Inclusão dos horários da equipe|Enzo Gabriel|
 |17/02/2021|1.4|Pequenas correções de padronização|Daniel Porto|
+|17/02/2021|1.5|Correções de erros de digitação|Daniel Porto|
