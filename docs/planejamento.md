@@ -79,8 +79,19 @@
 
 ## 5. Ferramentas Utilizadas
 
-## Versionamento
-			
+Ferramenta | Nome | Descrição 
+ :--: | :--: | :--: 
+![Alt text](./assets/logos/logo151.png) | Carteira Digital de Trânsito (CDT) | O aplicativo carrega versões digitais da CNH (Carteira Nacional de Habilitação)  e do CRLV (Certificado de registro e licenciamento de veículo).
+![Alt text](./assets/logos/Microsoft_Office_Excel.svg.png) | Excel | Ferramenta para criação de planilhas.
+![Alt text](./assets/logos/Telegram.png) | Telegram | Ferramenta de comunicação rápida entre os integrantes.
+![Alt text](./assets/logos/Lucidchart.png) | Lucidchart | Ferramenta utilizada para a elaboração da Rich Picture.
+![Alt text](./assets/logos/Google_Slides_logo.svg.png) | Apresentações Google | Ferramenta utilizada para criação de slides simultaneamente entre os integrantes.
+![Alt text](./assets/logos/GitHub.png) | GitHub | Plataforma de versionamento em que iremos armazenar todos os artefatos relacionados ao projeto.
+![Alt text](./assets/logos/Teams.png) | Microsoft Teams | Plataforma usada para reunião e para gravação das apresentações do projeto.
+![Alt text](./assets/logos/mkdocs.png) | MKdocs | Plataforma utilizada para gerar um site estático na web.
+
+## 6. Versionamento
+
 |Data|Versão|Descrição|Autor|			
 |----|------|---------|----|			
 |15/02/2021|1.0|Adição dos tópicos e descrição das metodologias|Daniel Porto|
@@ -89,3 +100,5 @@
 |16/02/2021|1.3|Inclusão dos horários da equipe|Enzo Gabriel|
 |17/02/2021|1.4|Pequenas correções de padronização|Daniel Porto|
 |17/02/2021|1.5|Correções de erros de digitação|Daniel Porto|
+|17/02/2021|1.6|Adicionando ferramentas utilizadas|Yan Andrade|
+|17/02/2021|1.7|Realizando merge do tópico 5 com o restante do documento|Sérgio Cipriano|
