@@ -1,12 +1,6 @@
-## Description
+## Descrição
 
-<!-- Please provide a brief description of the PR -->
+## Tarefas Realizadas
+- Tarefa 1...
 
-## Solves issue
-
-<!-- Issues that have been resolved with this PR -->
-
-## Tasks performed
-
-- Task 1
-- Task 2
+## Issues Relacionadas
