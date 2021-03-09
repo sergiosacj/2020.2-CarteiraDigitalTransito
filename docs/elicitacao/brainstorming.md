@@ -59,5 +59,6 @@
 ## 5. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 08/03/2021 | Adição da Introdução, Aplicação e Bibliografia | Daniel Porto |
+| 0.1 | 02/03/2021 | Realização da sessão de brainstorming | Daniel Porto, Emily Dias, Enzo Gabriel, Estevão Reis, Sérgio Cipriano e Yan Andrade |
+| 1.0 | 08/03/2021 | Criação do documento e adição da Introdução, Aplicação e Bibliografia | Daniel Porto |
 | 1.1 | 08/03/2021 | Adição dos requisitos elicitados | Daniel Porto |
