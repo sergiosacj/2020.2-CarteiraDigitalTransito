@@ -83,7 +83,7 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 | 13 | Ser acessível | Não funcional |
 
 
-## Referências Bibliográficas
+## Bibliografia
 
 >SOUSA. Julio Martins, Levantamento de Requisitos – O ponto de partida do projeto de software Disponível em: https://blog.cedrotech.com/levantamento-de-requisitos-o-ponto-de-partida-do-projeto-de-software/ Acesso em: 10 Mar. 2021.
 
@@ -94,4 +94,5 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 | 1.1 | 04/03/2021 | Criação de mais perguntas para o questionário | Emily Dias, Yan Andrade e Daniel Porto|
 | 1.2 | 10/03/2021 | Levantamento dos requisitos do questionário | Emily Dias |
 | 1.3 | 10/03/2021 | Levantamento de mais requisitos do questionário | Emily Dias e Yan Andrade |
+| 1.4 | 10/03/2021 | Arrumando alguns erros | Emily Dias |
 
