@@ -70,11 +70,17 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 |--|--|--|
 | 1 | O aplicativo ter aspecto gráfico | Não funcional |
 | 2 | Ter facilidade com o acesso  | Funcional |
-| 3 | Não possuir burocracia ao usar o aplicativo | Funcional |
+| 3 | Possuir uma interface simples | Não funcional |
 | 4 | Levar documentos em algo portátil | Funcional |
-| 5 | Ter um acesso mais seguro | Funcional |
+| 5 | Ter um acesso mais seguro | Não funcional |
 | 6 | Usar um aplicativo mais simples | Funcional |
-| 7 | Utilizar o aplicativo de maneira off-line | Não funcional |
+| 7 | Possuir CNH e CRLV de maneira digital | Funcional |
+| 8 | Utilizar o aplicativo de maneira off-line | Não funcional |
+| 9 | Possuir aba dedicada a consulta da CNH | Funcional |
+| 10 | Possuir aba dedicada a consulta de CRLV e de outras questões voltadas ao veículo | Funcional |
+| 11 | Possuir aba dedicada a consulta de infrações de trânsito | Funcional |
+| 12 | Procurar ser menos burocrático que o órgãos de trânsito | Não funcional |
+| 13 | Ser acessível | Não funcional |
 
 
 ## Referências Bibliográficas
@@ -85,5 +91,7 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 02/03/2021 | Criação do questionário | Emily Dias e Yan Andrade|
-| 1.1 | 10/03/2021 | Levantamento dos requisitos do questionário | Emily Dias |
+| 1.1 | 04/03/2021 | Criação de mais perguntas para o questionário | Emily Dias, Yan Andrade e Daniel Porto|
+| 1.2 | 10/03/2021 | Levantamento dos requisitos do questionário | Emily Dias |
+| 1.3 | 10/03/2021 | Levantamento de mais requisitos do questionário | Emily Dias e Yan Andrade |
 
