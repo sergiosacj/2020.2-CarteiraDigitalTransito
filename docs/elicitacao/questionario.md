@@ -1,6 +1,6 @@
 ## Metodologia
 
-O Questionário é uma técnica na qual é feito uma pesquisa com diversas perguntas para que os usuários possam responder, e através das respostas é levantado os requisitos. Na fase de preparação deve ser indicado o tipo de informação que deseja obter, de forma clara e objetiva para captar respostas mais coesas.
+O Questionário é uma técnica na qual é feito uma pesquisa com diversas perguntas para que os usuários possam responder e, por meio das respostas, é levantado os requisitos. Na fase de preparação deve ser indicado o tipo de informação que deseja obter, de forma clara e objetiva para captar respostas mais coesas.
 Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de como o usuário pensa, e ajuda a melhorar todos os pontos levantados por eles.
 
 ## Resultados
