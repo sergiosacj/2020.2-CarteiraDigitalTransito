@@ -74,3 +74,4 @@ Para esse método de priorização, utilizamos os requisitos elicitados nos docu
 |10/03/2021|0.1|Criação da planilha com os requisitos|Daniel Porto|
 |11/03/2021|1.0|Primeiros passos na estruturação do documento|Estevão Reis|
 |11/03/2021|2.0|Remodelando estrutura: aprimoramento da introdução, adição da bibliografia e descrição melhor definida da metodologia|Sérgio Cipriano|
+|11/03/2021|2.1|Adição dos Resultados do Método First Things First|Estevão Reis|
