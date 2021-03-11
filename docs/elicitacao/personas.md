@@ -63,7 +63,7 @@
 | Escolaridade: | Granduada em Odontologia |
 | Objetivos: | Ter controle das multas do veículo |
 | Relacionamentos: | Casada |
-| Tarefas: | Emprestar o carro para o filho ir para a faculdade |
+| Tarefas: | Emprestar o carro para o sobrinho ir para a faculdade |
 | Expectativas: | Ter acesso rápido as multas de um veículo específico |
 
 ### 4.4 Anti-Persona 1
@@ -81,18 +81,18 @@
 
 ## 4. Referência Bibliográfica
 
-&emsp;&emsp; BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010. 
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010. 
 
 ## 5. Bibliografia
 
-&emsp;&emsp; Cooper, A.; Reimann, R.; Cronin, D. About Face 3: The Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
-
-&emsp;&emsp; Courage, C. & Baxter, K. Understanding your users: a practical guide to user requirements, methods, tools, and techniques. San Francisco, CA: Morgan Kaufmann Publishers, 2005.
-
-&emsp;&emsp; Pruitt, J. & Adlin, T. Th e Persona Lifecycle: keeping people in mind throughout product design. San Francisco, CA: Morgan Kaufmann Publishers, 2006. 
+> - Cooper, A.; Reimann, R.; Cronin, D. About Face 3: The Essentials of Interaction Design. New York, NY: John Wiley & Sons, 2007.
+  - Courage, C. & Baxter, K. Understanding your users: a practical guide to user requirements, methods, tools, and techniques. San Francisco, CA: Morgan Kaufmann Publishers, 2005.
+  - Pruitt, J. & Adlin, T. Th e Persona Lifecycle: keeping people in mind throughout product design. San Francisco, CA: Morgan Kaufmann Publishers, 2006. 
 
 ## 6. Versionamento
 
 |Data|Versão|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
 |01/03/2021|1.0|Criação das personas e do documento|Sérgio Cipriano|
+|11/03/2021|1.1|Correção de tarefas da Juliana Figo Sabugueiro|Sérgio Cipriano|
+|11/03/2021|1.2|Correções de formatação da bibliografia e das referências|Sérgio Cipriano|
