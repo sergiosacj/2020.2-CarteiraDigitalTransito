@@ -7,10 +7,10 @@
 ## Requisitos Funcionais
 | Identificação | Requisito | Técnicas |
 |:-:|--|--|
-| **RF1** | Ter login integrado com o sistema GOV.br | Brainstorming |
-| **RF2** | Ter acesso às multas do seu veículo | Brainstorming, Introspecção |
-| **RF3** | Ter acesso a versão digital da CNH | Brainstorming, Introspecção |
-| **RF4** | Ter acesso a versão digital do CRLV | Brainstorming, Introspecção |
+| **RF1** | Ter login integrado com o sistema GOV.br | Brainstorming, Questionário |
+| **RF2** | Ter acesso às multas do seu veículo | Brainstorming, Introspecção, Questionário |
+| **RF3** | Ter acesso a versão digital da CNH | Brainstorming, Introspecção, Questionário |
+| **RF4** | Ter acesso a versão digital do CRLV | Brainstorming, Introspecção, Questionário |
 | **RF5** | Ter todas as informações dos documentos | Brainstorming, Instrospecção |
 | **RF6** | Poder marcar a renovação da CNH | Brainstorming |
 | **RF7** | Checar quantidades de pontos da CNH | Brainstorming |
@@ -36,18 +36,20 @@
 ## Requisitos Não Funcionais
 | Identificação | Requisito | Técnicas |
 |:-:|--|--|
-| **RNF1** | Ter acessibilidade | Brainstorming |
+| **RNF1** | Ter acessibilidade | Brainstorming, Questionário |
 | **RNF2** | Ter acesso rápido e eficiente aos documentos | Brainstorming, Introspecção |
-| **RNF3** | Desburocratizar demandas relativas a DETRAN e DENATRAN | Brainstorming, introspecção |
+| **RNF3** | Desburocratizar demandas relativas a DETRAN e DENATRAN | Brainstorming, Introspecção, Questionário |
 | **RNF4** | Ser compatível com todos dispositivos disponíveis no mercado | Brainstorming |
 | **RNF5** | Centralizar o máximo de documentos relacionados ao veículo possível | Brainstorming |
-| **RNF6** | Ser prático e intuitivo | Brainstorming, Introspecção |
-| **RNF7** | Ser minimalista | Brainstorming |
+| **RNF6** | Ser prático e intuitivo | Brainstorming, Introspecção, Questionário |
+| **RNF7** | Ser minimalista | Brainstorming, Questionário |
 | **RNF8** | Ser objetivo | Brainstorming |
-| **RNF9** | Possuir recursos off-line | Brainstorming |
+| **RNF9** | Possuir recursos off-line | Brainstorming, Questionário |
 | **RNF10** | Ser responsivo | Introspecção |
+| **RNF11** | Ser seguro | Questionário |
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 |1.0| 11/03/2021 | Criação do documento e adição dos requisitos do brainstorming e da introspecção | Daniel Porto |
+|1.1| 11/03/2021 | Adição dos requisitos do questionário | Daniel Porto | 
