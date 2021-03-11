@@ -1,6 +1,6 @@
 ## Metodologia
 
-O Questionário é uma técnica na qual é feito uma pesquisa com diversas perguntas para que os usuários possam responder e, por meio das respostas, é levantado os requisitos. Na fase de preparação deve ser indicado o tipo de informação que deseja obter, de forma clara e objetiva para captar respostas mais coesas.
+&emsp;&emsp;O Questionário é uma técnica na qual é feito uma pesquisa com diversas perguntas para que os usuários possam responder e, por meio das respostas, é levantado os requisitos. Na fase de preparação deve ser indicado o tipo de informação que deseja obter, de forma clara e objetiva para captar respostas mais coesas.
 Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de como o usuário pensa, e ajuda a melhorar todos os pontos levantados por eles.
 
 ## Resultados
@@ -67,25 +67,23 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 ## Requisitos
 
 |Número| Requisito | Tipo de Requisito
-|--|--|--|
-| 1 | O aplicativo ter aspecto gráfico | Não funcional |
-| 2 | Ter facilidade com o acesso  | Funcional |
-| 3 | Possuir uma interface simples | Não funcional |
-| 4 | Levar documentos em algo portátil | Funcional |
-| 5 | Ter um acesso mais seguro | Não funcional |
-| 6 | Usar um aplicativo mais simples | Funcional |
-| 7 | Possuir CNH e CRLV de maneira digital | Funcional |
-| 8 | Utilizar o aplicativo de maneira off-line | Não funcional |
-| 9 | Possuir aba dedicada a consulta da CNH | Funcional |
-| 10 | Possuir aba dedicada a consulta de CRLV e de outras questões voltadas ao veículo | Funcional |
-| 11 | Possuir aba dedicada a consulta de infrações de trânsito | Funcional |
-| 12 | Procurar ser menos burocrático que o órgãos de trânsito | Não funcional |
-| 13 | Ser acessível | Não funcional |
-
+|:-:|--|--|
+| 1 | Usar um aplicativo mais simples | Funcional |
+| 2 | Ter acesso a CNH digital | Funcional |
+| 3 | Ter acesso ao CRLV digital | Funcional |
+| 4 | Ter acesso as infrações de trânsito | Funcional |
+| 5 | Ter login integrado com o GOV.br | Funcional |
+| 6 | Utilizar o aplicativo de maneira off-line | Não Funcional |
+| 7 | Ser menos burocrático que o órgãos de trânsito | Não Funcional |
+| 8 | Ter facilidade com o acesso  | Não Funcional |
+| 9 | Possuir uma interface simples | Não funcional |
+| 10 | Ter um aspecto gráfico agradável | Não Funcional |
+| 11 | Ser seguro | Não funcional |
+| 12 | Ser acessível | Não Funcional |
 
 ## Bibliografia
 
->SOUSA. Julio Martins, Levantamento de Requisitos – O ponto de partida do projeto de software Disponível em: https://blog.cedrotech.com/levantamento-de-requisitos-o-ponto-de-partida-do-projeto-de-software/ Acesso em: 10 Mar. 2021.
+> - SOUSA. Julio Martins, Levantamento de Requisitos – O ponto de partida do projeto de software Disponível em: https://blog.cedrotech.com/levantamento-de-requisitos-o-ponto-de-partida-do-projeto-de-software/ Acesso em: 10 Mar. 2021.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
@@ -95,4 +93,4 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 | 1.2 | 10/03/2021 | Levantamento dos requisitos do questionário | Emily Dias |
 | 1.3 | 10/03/2021 | Levantamento de mais requisitos do questionário | Emily Dias e Yan Andrade |
 | 1.4 | 10/03/2021 | Arrumando alguns erros | Emily Dias |
-
+| 1.5 | 11/03/2021 | Correção e organização | Emily Dias, Daniel Porto |
