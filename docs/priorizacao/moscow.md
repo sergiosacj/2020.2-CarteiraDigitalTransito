@@ -1,3 +1,14 @@
+# MoSCoW
+
+## Introdução
+
+MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a importância das tarefas  que compõe um projeto. As tarefas são classificadas por Must, Should, Could e Won't, que juntas formam o acrônimo MoSCow.
+
+* Must: são os requisitos indispensáveis para a entrega. Se forem atrasados, todo o produto final atrasará em consequência.
+* Should: são importantes, mas não são vitais do ponto de vista estratégico para o produto final.
+* Could: são as tarefas desejáveis, mas também não são essenciais. São tarefas que devem ser feitas apenas se houver tempo e recursos para finalizá-la.
+* Won't: são requisitos menos críticos, que a princípio não serão implementados.
+
 ## Requisitos Funcionais
 | Identificação | Requisito | Prioridade |
 |:-:|--|--|
@@ -41,7 +52,12 @@
 | **RNF9** | Possuir recursos off-line | Should |
 | **RNF10** | Ser responsivo | Must |
 
+## Bibliografia
+
+> - Aprenda como o método MoSCoW poderá ajudá-lo a priorizar as tarefas da sua empresa. Disponível em: https://www.voitto.com.br/blog/artigo/metodo-moscow. Acesso em 11 de Mar. de 2021
+
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 11/02/2021 | Criação do documento e priorização dos requisitos | Daniel Porto, Emily Dias |
+| 1.0 | 11/03/2021 | Criação do documento e priorização dos requisitos | Daniel Porto, Emily Dias |
+| 1.1 | 11/03/2021 | Explicação do método | Enzo Gabriel |
