@@ -18,16 +18,16 @@ A introspecção é o primeiro e mais óbvio métodos para tentar entender quais
 | 9 | Juliana | Saber se sistema do app é reponsiva | Não funcional
 
 
-## Referências Bibliográficas
+## Bibliografia
 
->SOMMERVILLE. Ian. 2011. Engenharia de Software.
-
->Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf Acesso em: 26 fev. 2021.
+> - SOMMERVILLE. Ian. 2011. Engenharia de Software.
+  - Software Requeriments Engineering. Disponível em: https://web.uettaxila.edu.pk/CMS/SP2013/seSREbs/notes%5CSRE%20Lec_%204.pdf Acesso em: 26 fev. 2021.
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 26/02/2021 | Criação da estrutura e explicação da metodologia | Enzo Gabriel e Estevão Reis|
-| 1.1 | 01/02/2021 | Adição das Referências Bibliográfias | Enzo Gabriel e Estevão Reis|
-| 1.2 | 02/02/2021 | Levantamento dos requisitos por introspecção | Enzo Gabriel e Estevão Reis|
+| 1.1 | 01/03/2021 | Adição das Referências Bibliográfias | Enzo Gabriel e Estevão Reis|
+| 1.2 | 02/03/2021 | Levantamento dos requisitos por introspecção | Enzo Gabriel e Estevão Reis|
+| 1.3 | 11/03/2021 | Mudando "Referência Bibliográfica" por "Bibliografia" | Sérgio Cipriano|
 
