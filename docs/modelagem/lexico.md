@@ -4,12 +4,12 @@
 
 &emsp;&emsp; Léxico é a técnica que se baseia na ideia de aquisição de
 vocabulário. Desse modo, o foco é entender a linguagem do problema, sem
-necessariamente precisar se preocupar em entender o problema.
+necessariamente precisar se preocupar em entender o problema como um todo.
 
 ## 2. Motivação
 
 &emsp;&emsp; Com essa técnica é possível representar aspectos abstratos de
-maneira mais concreta, o que simplifica o entendimento dos aspectos técnicos.
+maneira mais concreta, o que irá simplificar o entendimento dos aspectos técnicos.
 
 ## 3. Metodologia
 
@@ -27,7 +27,7 @@ definir cada léxico:
 | ------------- | ----- | ------- | --------- |
 | Objeto/Estado/Verbo | Denotação | Conotação | Opcional |
 
-&emsp;&emsp; Padrão do símbolo:
+&emsp;&emsp; Padrão dos símbolos:
 
 **L [primeira letra da classificação em minúsculo] [número de criação da classificação] - [nome do símbolo]**
 
