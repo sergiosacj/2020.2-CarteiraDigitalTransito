@@ -4,37 +4,96 @@
 
 ### 1.1 Finalidade
 
-O documento
+Este documento tem o objetivo de apresentar os requisitos não-funcionais da aplicação CDT. A Especificação Suplementar mostra requisitos que não foram identificados em um primeiro momento.
 
 ### 1.2 Escopo
 
-A Carteira Digital de Trânsito é um aplicativo de dispositivo móvel que tem o intuito de facilitar a vida do motorista, fazendo com que o mesmo não precise mais sair com documentos como sua CNH e os documentos de seu carro quando for digirir.
+A CDT é um aplicativo de dispositivo móvel que tem o intuito de facilitar a vida do motorista, fazendo com que o mesmo não precise mais sair com documentos como sua CNH e os documentos de seu carro quando for digirir.
 
-## 2. Descrição Geral
+## 2. Definições, Acrônimos e Abreviações
 
-### 2.1 Funções do produto
+| Abreviação | Definição|
+|--|--|
+| CDT | Carteira Digital de Trânsito |
+| CNH | Carteira Nacional de Habilitação |
+| FURPS+ | Acrônimo de Funcionality(funcionalidade), Usability(usabilidade), Reliability(confiabilidade), Performance(Desempenho), Suportability(suportabilidade) e '+' que representa outros atributos |
 
-O aplicativo CDT permite ao usuário registrar sua CNH, mantendo-a salva no aplicativo, bem como os documentos pertencentes aos veículos em seu nome. O usuário também pode consultar as infrações no seu nome ou no nome de seus veículos, e pode consultar as campanhas do DETRAN e do DENATRAN.
+## 3. Metodologia
 
-### 2.2 Características do usuário
+O levantamento de requisitos no documento foi feito com base no método FURPS+, aplicando-o de acordo com as características da aplicação.
 
-Os usuários desse aplicativo são bem definidos: os motoristas ou portadores de carros em seu nome. O governo é o responsável por administrar o aplicativo.
+## 4. Levantamento dos Requisitos
 
-### 2.3 Restrições
+### 4.1 Requisitos de Funcionalidades
 
-A única restrição para o funcionamento da aplicação é a conexão com a internet, que não é necessária para a consulta de sua CNH, mas para as demais funções é fundamental.
+Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em documentos anteriores.
 
-## 2.4 Suposições e dependências
+### 4.2 Requisitos de Usabilidade
 
+* Intuitividade
 
+    A interface deve ter fácil compreensão e memorização para qualquer pessoa ser capaz de utilizar.
 
-## Bibliografia
+* Linguagem simples e clara
 
-> Projeto de Requisitos de Software Nubank Especificação Suplementar https://requisitos-2017-2-nubank.github.io/Nubank/siki/esp-suplementar.html#:~:text=Finalidade,%2C%20confiabilidade%2C%20desempenho%20e%20suportabilidade.
+    A linguagem da aplicação não deve ser um problema pra nenhum tipo de usuário, portatno uma lingugaem simples é o ideal.
+
+* Padrão de cores
+
+    A aplicação deve ter um padrão de cores de telas e botões para não causar confusão em nenhum usuário.
+
+### 4.3 Requisitos de Confiabilidade
+
+* Segurança de dados
+    
+    É imprescindível a seguranças dos dados dos usuários, tendo em vista que são dedos pessoais como CPF, número da CNH, CRLV e CRV dos carros em seu nome.
+
+* Login com o sistema gov.br
+
+    Por motivos de segurança na aplicação, o login no sistema deve ser feito com o sistema gov.br, usando as credencias cadastradas no mesmo.
+
+* Avisos de login indesejados
+
+    O sistema deve informar caso a conta de um usuário seja logada em outros dispositivos.
+
+* Multas apresentadas no aplicativo condizentes
+
+    A tela de consulta de multas na aplicação deve ser condizente com as multas registradas no DETRAN.
+
+### 4.4 Requisitos de Perfomance
+
+* Aplicação leve
+
+    Por ser uma aplicação simples, não deve consumir muitos recursos.
+
+* Tempo de resposta
+
+    O tempo de resposta da aplicação deve ser rápido para evitar problema de satisfação dos usuário.
+
+* Funcionamento offline
+
+    O sistema deve ser capaz de mostrar algumas telas offline, como a tela da CNH digital, pois os usuários podem precisar em momentos que não possuam conexão.
+
+### 4.5 Requisitos de Suportabilidade
+
+* Compatibilidade
+
+    A aplicação CDT deve ser capaz de servir usuários de sistema iOS e Android.
+
+* Responsividade
+
+    A aplicação deve ser capz de se ajustar ao tamanho da tela do dispositivo do usuário.
+
+## 6. Bibliografia
+
+> Projeto de Requisitos de Software Nubank Especificação Suplementar. Disponível em: https://requisitos-2017-2-nubank.github.io/Nubank/siki/esp-suplementar.html#:~:text=Finalidade%2C%20confiabilidade%2C%20desempenho%20e%20suportabilidade, acesso em: 18 de Mar. de 2021
+> Projeto de Software Floricultura Beija-flor Especificação Suplementar. Disponível em: https://silo.tips/download/php-software-company-samily-rocha-gois-francisco-luiz-sobrinho-projeto-de-softwa, acesso em: 20 de Mar. de 2021
+>Software Requirements Specification Amazing Lunch Indicator. Disponível em: http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf, acesso em: 20 de Mar. de 2021
+
 
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 18/03/2021 | Criação do documento | Enzo Gabriel |
-| 1.1 | 18/03/2021 | Atualização do documento | Enzo Gabriel |
+| 1.1 | 20/03/2021 | Atualização do documento | Enzo Gabriel |
 
