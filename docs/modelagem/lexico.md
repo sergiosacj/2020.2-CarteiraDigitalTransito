@@ -114,6 +114,41 @@ o projeto dê seguimento, é possível adicionar uma quantidade maior de fontes.
 | ------------- | ----- | ------- | --------- |
 | Objeto | Disponibiliza acesso à campanhas de concientização | Informa todos os usuários do CDT acerca de qualquer campanha vigente | Concientização, Informações, Campanhas |
 
+### *Lo13 - Permissão Internacional para Dirigir*
+
+| Classificação | Noção | Impacto(s) | Sinônimos(s) |
+| ------------- | ----- | ------- | --------- |
+| Objeto | A Permissão Internacional para Dirigir (PID) é emitida para que o condutor habilitado no Brasil (com Permissão para Dirigir ou CNH definitiva) possa dirigir nos países signatários da Convenção de Viena e nos países que atendam o princípio de reciprocidade. | Usuário ter acesso ao PID digitalmente | PID |
+
+### *Lo14 - Histórico*
+
+| Classificação | Noção | Impacto(s) | Sinônimos(s) |
+| ------------- | ----- | ------- | --------- |
+| Objeto | Disponibiliza acesso à um histórico detalhado de informações relacionadas à CNH | Usuário acessa dados identificatórios, dados da habilitação, PID, habilitação estrangeira, bloqueios ativos, dados de imagens da CNH, histórico de CNHs vencidas | Rastreamento |
+
+### *Lv1 - Acessar conta*
+
+| Classificação | Noção | Impacto(s) | Sinônimos(s) |
+| ------------- | ----- | ------- | --------- |
+| Verbo | Acesso ao aplicativo (impossível visualizar e interagir com qualquer informação sem logar) | O usuário realiza o login inserindo os dados necessários para o mesmo. | Login, Conectar. |
+
+### *Lv2 - Sair da conta*
+
+| Classificação | Noção | Impacto(s) | Sinônimos(s) |
+| ------------- | ----- | ------- | --------- |
+| Verbo | Sair da sessão de usuário atual e voltar para a tela de login do aplicativo | O usuário encerra a sua sessão de acesso. | Encerrar Sessão, Logout |
+
+### *Lv3 - Cadastrar*
+
+| Classificação | Noção | Impacto(s) | Sinônimos(s) |
+| ------------- | ----- | ------- | --------- |
+| Verbo | Cadastro de senha e obtenção de acesso aos dados armazenados no Denatran | O usuário criar uma senha para acessar seus dados pessoais disponíveis no CDT | Registrar, Inscrever |
+
+### *Lv4 - Excluir*
+
+| Classificação | Noção | Impacto(s) | Sinônimos(s) |
+| ------------- | ----- | ------- | --------- |
+| Verbo | Ação para remover a CNH cadastrada no aplicativo | O usuário remove CNH cadastrada e, consequente, remove veículos relacionados | Remover |
 
 ## 5. Bibliografia
 
@@ -125,3 +160,4 @@ o projeto dê seguimento, é possível adicionar uma quantidade maior de fontes.
 |:-:|:-:|:-:|:-:|
 |19/03/2021|1.0|Criação do template do documento|Sérgio Cipriano|
 |20/03/2021|2.0|Adição da introdução, motivação e metodologia|Sérgio Cipriano|
+|20/03/2021|3.0|Adição dos léxicos de Lo1 até Lo14 e Lv1 até Lv4|Sérgio Cipriano|
