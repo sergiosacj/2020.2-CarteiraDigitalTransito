@@ -84,6 +84,10 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
 
     A aplicação deve ser capz de se ajustar ao tamanho da tela do dispositivo do usuário.
 
+## 5. Licenciamento
+
+O uso das informações obtidas na aplicação é limitado ao cumprimento do que dispõe o Código de Trânsito Brasileiro(Lei 9.503, de 23 de setembro de 1997).
+
 ## 6. Bibliografia
 
 > Projeto de Requisitos de Software Nubank Especificação Suplementar. Disponível em: https://requisitos-2017-2-nubank.github.io/Nubank/siki/esp-suplementar.html#:~:text=Finalidade%2C%20confiabilidade%2C%20desempenho%20e%20suportabilidade, acesso em: 18 de Mar. de 2021
