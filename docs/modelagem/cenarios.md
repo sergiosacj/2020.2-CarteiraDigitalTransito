@@ -1,12 +1,13 @@
 ## Introdução
 &emsp;&emsp;O propósito desse documento é exibir a metodologia utilizada para aplicar o método de cenários na modelagem dos requsitos e seus resultados.<br> 
 &emsp;&emsp;A técnica de cenários se trata de utilizar um conjunto de narrativas de situações e caminhos que se encontram no escopo do sistema e que possibilita a identificação de componentes de design. Em outras palavras, os cenários descrevem, narrando de forma textual, o sistema da perspectiva de um ou mais atores em determinadas situações de uso das funcionalidades.
+
 ## Metodologia 
-&emsp;&emsp;A aplicação da técnica deu-se com auxílio dos participantes da equipe que utilizam a aplicação. É interessante mostrar que, por ter u escopo razoavelmente grande, o CDT tem uma maga muito ramificada de usuários por funcionalidades. Por exemplo, nem sempre um usuário tem veículos em seu nome e, se ele fosse utilizado para traçar os cenários, as funcionalidades referentes a veículos ficariam de fora da técnica.<br>
+&emsp;&emsp;A aplicação da técnica deu-se com auxílio dos participantes da equipe que utilizam a aplicação. É interessante mostrar que, por ter um escopo razoavelmente grande, o CDT tem uma gama muito ramificada de usuários por funcionalidades. Por exemplo, nem sempre um usuário tem veículos em seu nome e, se ele fosse utilizado para traçar os cenários, as funcionalidades referentes a veículos ficariam de fora da técnica.<br>
 &emsp;&emsp;Sendo assim, foi utilizado também o [**tutorial de utilização do CDT**](https://portalservicos.denatran.serpro.gov.br/carteiradigital/tutoriais/html/demo_1.html) disponibilizado pelo DENATRAN, para identificar o máximo de possibilidades de cenários.
 
 ### Nomenclatura 
-&emsp;&emsp;Para especificar os cénarios será foram utilizadas tabelas contendo os seguintes Elementos:
+&emsp;&emsp;Para especificar os cénarios foram utilizadas tabelas contendo os seguintes Elementos:
 
 - **Objetivo:** o que os atores tem como finalidade nesse cenário;
 - **Contexto:** onde se inicia a interação, quanto tempo dura, e qual o estado dos atores antes de iniciar;
@@ -131,7 +132,7 @@
 ### C11 - Acessar Histórico da CNH
 | Elementos | Respostas |
 | -- | -- |
-| **Objetivo** | Acessar o Histótico de habilitações.  |
+| **Objetivo** | Acessar o Histórico de habilitações.  |
 | **Contexto** |  - Local: Home do CDT <br> - Tempo: 30 segundos <br> - Pré-condição: Estar logado no CDT, ter habilitação baixada e conta validada. |
 | **Atores** | Usuário |
 | **Recursos** | Smartphone, CDT instalado. |
@@ -329,7 +330,7 @@
 ### C29 - Informar real infrator
 | Elementos | Respostas |
 | -- | -- |
-| **Objetivo** | Declarar o real responsável por uma infrção. |
+| **Objetivo** | Declarar o real responsável por uma infração. |
 | **Contexto** | - Local: Home do CDT <br> - Tempo: 30 segundos <br> - Pré-condição: Estar logado no CDT, ter veículo  cadastrado e com infrações. |
 | **Atores** | Usuário |
 | **Recursos** | Smartphone, internet e CDT instalado. |
@@ -367,7 +368,7 @@
 | **Atores** | Usuário |
 | **Recursos** | Smartphone, internet e CDT instalado. |
 | **Exceção** | - Smartphone descarrega;<br> - Perda de conexão.|
-| **Episódios** | - Usuário toca no íconde de câmera a baixo do cículo onde está a inicial do seu nome. |
+| **Episódios** | - Usuário toca no ícone de câmera a baixo do círculo onde está a inicial do seu nome. |
 | **Rastreabilidade** | RF10 |
 
 ### C33 - Acessar a política de privaciadade
@@ -414,3 +415,4 @@
 |2.0|19/03/2021| Adição dos cenários 9 a 16 e correção de pequenos erros ortográficos | Yan Andrade |
 |3.0|20/03/2021| Correção dos cenários e adição do restante. | Daniel Porto |
 |3.1|20/03/2021| Adição da introdução e da descrição da metodologia| Daniel Porto |
+|3.2|21/03/2021| Correção de erros de digitação após revisão | Daniel Porto |
