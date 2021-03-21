@@ -13,9 +13,9 @@ maneira mais concreta, o que irá simplificar o entendimento dos aspectos técni
 
 ## 3. Metodologia
 
-&emsp;&emsp; **LAL - Léxico Ampliado da Linguagem**, técnica trabalhada nesse
-documento, trata-se de um método para compor os cenários, descrevendo termos
-relacionados ao software avaliado.
+&emsp;&emsp; **LAL - Léxico Ampliado da Linguagem**, metodologia trabalhada
+nesse documento, trata-se de um método para compor os cenários, descrevendo
+termos relacionados ao software avaliado.
 
 &emsp;&emsp; Cada símbolo possui um nome, uma classificação, uma noção, um ou
 mais impactos e zero ou mais sinônimos. O padrão a seguir será usado para
@@ -94,7 +94,7 @@ o projeto dê seguimento, é possível adicionar uma quantidade maior de fontes.
 
 | Classificação | Noção | Impacto(s) | Sinônimos(s) |
 | ------------- | ----- | ------- | --------- |
-| Objeto | Carteira Nacional de Trânsito | Ter acesso online à carteira e ter um QR Code para facilitar a verificação por agentes de trânsito | Carteira, Carteira Nacional de Habilitação, CNH |
+| Objeto | Carteira Nacional de Trânsito | Usuário ter acesso online à carteira e ter um QR Code para facilitar a verificação por agentes de trânsito | Carteira, Carteira Nacional de Habilitação, CNH |
 
 ### *Lo10 - Veículos*
 
@@ -161,3 +161,4 @@ o projeto dê seguimento, é possível adicionar uma quantidade maior de fontes.
 |19/03/2021|1.0|Criação do template do documento|Sérgio Cipriano|
 |20/03/2021|2.0|Adição da introdução, motivação e metodologia|Sérgio Cipriano|
 |20/03/2021|3.0|Adição dos léxicos de Lo1 até Lo14 e Lv1 até Lv4|Sérgio Cipriano|
+|21/03/2021|3.1|Revisão do documento|Sérgio Cipriano|
