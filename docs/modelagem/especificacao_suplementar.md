@@ -36,7 +36,7 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
 
 * Linguagem simples e clara
 
-    A linguagem da aplicação não deve ser um problema pra nenhum tipo de usuário, portatno uma lingugaem simples é o ideal.
+    A linguagem da aplicação não deve ser um problema pra nenhum tipo de usuário, portatno uma linguagem simples é o ideal.
 
 * Padrão de cores
 
