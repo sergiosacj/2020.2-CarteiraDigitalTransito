@@ -68,7 +68,7 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
 
 * Tempo de resposta
 
-    O tempo de resposta da aplicação deve ser rápido para evitar problema de satisfação dos usuário.
+    O tempo de resposta da aplicação deve ser rápido para evitar problema de satisfação dos usuários.
 
 * Funcionamento offline
 
@@ -100,4 +100,3 @@ O uso das informações obtidas na aplicação é limitado ao cumprimento do que
 |--|--|--|--|
 | 1.0 | 18/03/2021 | Criação do documento | Enzo Gabriel |
 | 1.1 | 20/03/2021 | Atualização do documento | Enzo Gabriel |
-
