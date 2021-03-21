@@ -94,3 +94,4 @@
 | 0.2    | 19/03/2021 | Adição de algumas UCs no documento                  | Emily Dias   |
 | 0.3    | 20/03/2021 | Adição de um parágrafo na Introdução e bibliografia | Estevao Reis |
 | 0.4    | 20/03/2021 | Adição de Fluxos                                    | Estevao Reis |
+| 0.5    | 20/03/2021 | Adição do diagrama                                  | Emily Dias   |
