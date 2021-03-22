@@ -36,7 +36,7 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
 
 * Linguagem simples e clara
 
-    A linguagem da aplicação não deve ser um problema pra nenhum tipo de usuário, portatno uma linguagem simples é o ideal.
+    A linguagem da aplicação não deve ser um problema pra nenhum tipo de usuário, portanto uma linguagem simples é o ideal.
 
 * Padrão de cores
 
@@ -50,7 +50,7 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
 
 * Login com o sistema gov.br
 
-    Por motivos de segurança na aplicação, o login no sistema deve ser feito com o sistema gov.br, usando as credencias cadastradas no mesmo.
+    Por motivos de segurança na aplicação, o login no sistema deve ser feito com o sistema gov.br, usando as credenciais cadastradas no mesmo.
 
 * Avisos de login indesejados
 
@@ -60,7 +60,7 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
 
     A tela de consulta de multas na aplicação deve ser condizente com as multas registradas no DETRAN.
 
-### 4.4 Requisitos de Perfomance
+### 4.4 Requisitos de Performance
 
 * Aplicação leve
 
@@ -82,7 +82,7 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
 
 * Responsividade
 
-    A aplicação deve ser capz de se ajustar ao tamanho da tela do dispositivo do usuário.
+    A aplicação deve ser capaz de se ajustar ao tamanho da tela do dispositivo do usuário.
 
 ## 5. Licenciamento
 
