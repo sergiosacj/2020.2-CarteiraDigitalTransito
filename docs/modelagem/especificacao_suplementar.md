@@ -46,7 +46,7 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
 
 * Segurança de dados
     
-    É imprescindível a seguranças dos dados dos usuários, tendo em vista que são dedos pessoais como CPF, número da CNH, CRLV e CRV dos carros em seu nome.
+    É imprescindível a segurança dos dados dos usuários, tendo em vista que são dados pessoais como CPF, número da CNH, CRLV e CRV dos carros em seu nome.
 
 * Login com o sistema gov.br
 
