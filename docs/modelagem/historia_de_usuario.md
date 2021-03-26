@@ -6,6 +6,20 @@
 &emsp;&emsp;Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação.(VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
 
 ## Metodologia
+Para criarmos as histórias de usuário nos baseamos no cenários da aplicação, criando as histórias apartir deles.
+A organização das histórias ficaram da seguinte maneira: 
+utilizamos a sigla 'EP' signficando que será abordado os casos de uso de um dado épico seguido do número do épico e logo após o nome do épico. Exemplo: 
+
+EP01: Conta de Usuário
+
+Em cada épico será descritos as suas histórias de usuário, iniciando com a sigla 'US' para identificar que é uma história de usuário seguido do numero da história e em seguida o nome da história.Exemplo:
+
+US01:Cadastrar
+
+O padrão de escrita será assim:
+
+Eu, como < TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
+
 
 ## Histórias de Usuário
 
@@ -77,3 +91,4 @@
 | ------ | ---------- | --------------------------------------------------------- | ------------  |
 |  0.1   | 25/03/2021 | Criação dos tópicos do documento e inserção da Introdução | Estevão Reis  |
 |  0.2   | 26/03/2021 | Criação de 6 histórias de usuário                         | Estevao e Yan |
+|  0.3   | 26/03/2021 | Descrição da metodologia utilizada                        | Estevao Reis  |
