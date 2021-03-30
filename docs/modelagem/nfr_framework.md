@@ -22,10 +22,10 @@
 # Eficiência
 
 ## Sem propagação
-![image](https://user-images.githubusercontent.com/52640974/113037525-da01a080-916b-11eb-83f5-f113d78f8391.png)
+![image](https://user-images.githubusercontent.com/52640974/113038359-d0c50380-916c-11eb-9f95-e998a338f9d5.png)
 
 ## Com propagação
-![image](https://user-images.githubusercontent.com/52640974/113037651-fd2c5000-916b-11eb-82cd-de3c10003d68.png)
+![image](https://user-images.githubusercontent.com/52640974/113038300-c0148d80-916c-11eb-9fe2-ca6e1e01f6fc.png)
 
 ## Bibliografia
 
