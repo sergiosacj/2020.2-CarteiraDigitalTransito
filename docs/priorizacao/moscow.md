@@ -51,6 +51,7 @@ MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a
 | **RNF8** | Ser objetivo | Must |
 | **RNF9** | Possuir recursos off-line | Should |
 | **RNF10** | Ser responsivo | Must |
+| **RNF11** | Ser seguro | Should |
 
 ## Bibliografia
 
@@ -61,3 +62,4 @@ MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a
 |--|--|--|--|
 | 1.0 | 11/03/2021 | Criação do documento e priorização dos requisitos | Daniel Porto, Emily Dias |
 | 1.1 | 11/03/2021 | Explicação do método | Enzo Gabriel |
+| 1.2 | 30/03/2021 | Adição do  requisito RFN11 que estava faltando  | Sérgio Cipriano |
