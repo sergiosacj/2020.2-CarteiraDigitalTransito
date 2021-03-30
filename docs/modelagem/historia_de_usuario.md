@@ -1,27 +1,31 @@
 # História de Usuário 
 
 ## 1.Introdução 
-&emsp;&emsp;Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos "ágeis".(VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio.)<br>
-&emsp;&emsp;Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação.(VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
+
+&emsp;&emsp; "Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos 'ageis'. Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação." (VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
 
 ## 2.Metodologia
-&emsp;&emsp;Para criarmos as histórias de usuário nos baseamos nos cenários da aplicação, criando as histórias a partir deles.
+
+&emsp;&emsp; Para criarmos as histórias de usuário nos baseamos nos cenários da aplicação, criando as histórias a partir deles.
 A organização das histórias ficaram da seguinte maneira:utilizamos a sigla 'EP' significando que será abordado os casos de uso de um dado épico seguido do número do épico e logo após o nome do épico. Exemplo:
 
 EP01: Conta de Usuário
 
- &emsp;&emsp;Em cada épico será descritos as suas histórias de usuário, iniciando com a sigla 'US' para identificar que é uma história de usuário seguido do número da história e em seguida o nome da história.Exemplo:
+&emsp;&emsp; Em cada épico será descritos as suas histórias de usuário, iniciando com a sigla 'US' para identificar que é uma história de usuário seguido do número da história e em seguida o nome da história.Exemplo:
 
-US01:Cadastrar<br>
+US01:Cadastrar
 
-O padrão de escrita será assim:<br>
+O padrão de escrita será assim:
 
-Eu, como um< TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
+Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
 
 ## 3.Histórias de Usuário
+
 ### EP01: Conta de Usuário
+
 #### **US01:Cadastrar**
- &emsp;&emsp;Eu, como um usuário, desejo fazer o cadastro na conta do GOV.br para ter acesso ao sistema do CDT.
+
+&emsp;&emsp; Eu, como um usuário, desejo fazer o cadastro na conta do GOV.br para ter acesso ao sistema do CDT.
 
 Critérios de aceitação:
 
@@ -31,7 +35,8 @@ Critérios de aceitação:
  - Deve ser possível acessar o CDT após o cadastro no GOV.br
 
 #### **US02:Realizar o login**
-&emsp;&emsp;Eu, como um usuário, desejo realizar o login na aplicação, para ter acesso às funcionalidades do CDT
+
+&emsp;&emsp; Eu, como um usuário, desejo realizar o login na aplicação, para ter acesso às funcionalidades do CDT
 
 Critérios de aceitação:
 
@@ -40,9 +45,9 @@ Critérios de aceitação:
 - Deve ter um campo para preencher com a senha do usuário
 - Deve realizar a conexão com o CDT
 
-
 #### **US03:Alterar foto do perfil de usuário**
-&emsp;&emsp;Eu, como um usuário, desejo alterar a foto de usuário, para atualizar a foto do perfil de usuário
+
+&emsp;&emsp; Eu, como um usuário, desejo alterar a foto de usuário, para atualizar a foto do perfil de usuário
 
 Critérios de aceitação:
 
@@ -53,7 +58,8 @@ Critérios de aceitação:
 - Deve concluir a alteração exibindo a imagem atualizada
 
 #### **US04:Realizar Logout**
-&emsp;&emsp;Eu, como um usuário, desejo sair da minha conta no CDT, para que eu consiga apagar meus registros de usuário
+
+&emsp;&emsp; Eu, como um usuário, desejo sair da minha conta no CDT, para que eu consiga apagar meus registros de usuário
 
 Critérios de aceitação:
 
@@ -62,7 +68,8 @@ Critérios de aceitação:
 - Deve apresentar uma informação sobre a realização bem sucedida do logout da conta
 
 #### **US05: Acessar mensagens do sistema**
-&emsp;&emsp;Eu, como usuário, desejo acessar as mensagens do sistema, para que eu consiga ter acesso as notificações do sistema
+
+&emsp;&emsp; Eu, como usuário, desejo acessar as mensagens do sistema, para que eu consiga ter acesso as notificações do sistema
 
 Critérios de aceitação:
 
@@ -70,7 +77,8 @@ Critérios de aceitação:
 - Deve ser exibidas as últimas mensagens recebidas
 
 #### **US06: Acessar a política de privacidade**
-&emsp;&emsp;Eu, como usuário, desejo acessar o documento de política de privacidade, para que eu possa ter conhecimento de como meus dados estão sendo utilizados
+
+&emsp;&emsp; Eu, como usuário, desejo acessar o documento de política de privacidade, para que eu possa ter conhecimento de como meus dados estão sendo utilizados
 
 Critérios de aceitação:
 
@@ -78,7 +86,8 @@ Critérios de aceitação:
 - Deve ser exibido o documento de política de privacidade
 
 #### **US07: Acessar o termo de responsabilidade**
-&emsp;&emsp;Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da resposabilidade em utilizar o sistema, sabendo que o mesmo pode me punir por descumprir as regras impostas
+
+&emsp;&emsp; Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da resposabilidade em utilizar o sistema, sabendo que o mesmo pode me punir por descumprir as regras impostas
 
 Critérios de aceitação:
 
@@ -86,7 +95,8 @@ Critérios de aceitação:
 - Deve ser exibido o termo de responsabilidade
 
 #### **US08: Aderir ao SNE**
-&emsp;&emsp;Eu, como usuário, desejo aderir ao SNE, para que o pagamento de infrações seja realizado com mais facilidade
+
+&emsp;&emsp; Eu, como usuário, desejo aderir ao SNE, para que o pagamento de infrações seja realizado com mais facilidade
 
 Critérios de aceitação:
 
@@ -96,8 +106,10 @@ Critérios de aceitação:
 
 
 ### EP02: Habilitação
+
 #### **US09: Acessar Habilitação**
-&emsp;&emsp;Eu, como um usuário, desejo acessar a habilitação, para ter acesso a ela dentro do aplicativo
+
+&emsp;&emsp; Eu, como um usuário, desejo acessar a habilitação, para ter acesso a ela dentro do aplicativo
 
 Critérios de aceitação:
 
@@ -107,7 +119,8 @@ Critérios de aceitação:
 - Deve exibir a CNH
 
 #### **US10: Baixar a CNH digital**
-&emsp;&emsp;Eu, como um usuário, desejo baixar a CNH digital, para manter o documento no aparelho
+
+&emsp;&emsp; Eu, como um usuário, desejo baixar a CNH digital, para manter o documento no aparelho
 
 Critérios de aceitação:
 
@@ -117,7 +130,8 @@ Critérios de aceitação:
 - Deve baixar a CNH
 
 #### **US11: Exportar a CNH digital**
-&emsp;&emsp;Eu, como usuário, desejo exportar a CNH digital, para que consiga a CNH no formato .pdf
+
+&emsp;&emsp; Eu, como usuário, desejo exportar a CNH digital, para que consiga a CNH no formato .pdf
 
 Critérios de aceitação:
 
@@ -126,7 +140,8 @@ Critérios de aceitação:
 - Deve exibir a CNH no formato .pdf no local de importação
 
 #### **US12: Remover CNH**
-&emsp;&emsp;Eu, como usuário, desejo remover a CNH, para que eu consiga apagar meus dados da CNH do meu dispositivo
+
+&emsp;&emsp; Eu, como usuário, desejo remover a CNH, para que eu consiga apagar meus dados da CNH do meu dispositivo
 
 Critérios de aceitação:
 
@@ -136,7 +151,8 @@ Critérios de aceitação:
 - Deve apresentar uma informação sobre a realização bem sucedida da remoção da CNH
 
 #### **US13: Acessar histórico da CNH**
-&emsp;&emsp;Eu, como usuário, desejo acessar o histórico da minha CNH, para que eu conisga ter dados detalhados da minha CNH
+
+&emsp;&emsp; Eu, como usuário, desejo acessar o histórico da minha CNH, para que eu conisga ter dados detalhados da minha CNH
 
 Critérios de aceitação:
 
@@ -149,7 +165,8 @@ Critérios de aceitação:
 ### EP03: Veículos
 
 #### **US14: Acessar CRLV dos veículos cadastrados**
-&emsp;&emsp;Eu, como usuário, desejo acessar o CRLV dos meu veículo cadastrado, para que consiga ter acesso ao CRLV dentro do sistema
+
+&emsp;&emsp; Eu, como usuário, desejo acessar o CRLV dos meu veículo cadastrado, para que consiga ter acesso ao CRLV dentro do sistema
 
 Critérios de aceitação:
 
@@ -161,7 +178,8 @@ Critérios de aceitação:
 - Deve exibir o CRLV do veículo selecionado
 
 #### **US15: Baixar CRLV dos veículos cadastrados**
-&emsp;&emsp;Eu, como usuário, desejo baixar o CRLV do meu veículo cadastrado, para manter o CRLV no aparelho
+
+&emsp;&emsp; Eu, como usuário, desejo baixar o CRLV do meu veículo cadastrado, para manter o CRLV no aparelho
 
 Critérios de aceitação:
 
@@ -174,7 +192,8 @@ Critérios de aceitação:
 - Deve baixar o CRLV
 
 #### **US16: Exportar CRLV dos veículos cadastrados**
-&emsp;&emsp;Eu, como usuário, desejo exportar o CRLV do meu veículo cadastrado, para que consiga o CRLV nop formato .pdf
+
+&emsp;&emsp; Eu, como usuário, desejo exportar o CRLV do meu veículo cadastrado, para que consiga o CRLV nop formato .pdf
 
 Critérios de aceitação:
 
@@ -187,7 +206,8 @@ Critérios de aceitação:
 - Deve exibir o CRLV no formato .pdf no local de importação
 
 #### **US17: Remover CRLV dos veículos cadastrados**
-&emsp;&emsp;Eu, como usuário, desejo remover o CRLV do meu veículo cadastrado, para que eu consiga apagar meus dados do CRLV do meu dispositivo
+
+&emsp;&emsp; Eu, como usuário, desejo remover o CRLV do meu veículo cadastrado, para que eu consiga apagar meus dados do CRLV do meu dispositivo
 
 Critérios de aceitação:
 
@@ -199,7 +219,8 @@ Critérios de aceitação:
 - Deve apresentar uma informação sobre a realização bem sucedida da remoção do CRLV
 
 #### **US18: Consultar Recall**
-&emsp;&emsp;Eu, como usuário, desejo consultar recall do meu veículo cadastrado, para que eu consiga acessar os detalhes de recall dos meus veículos
+
+&emsp;&emsp; Eu, como usuário, desejo consultar recall do meu veículo cadastrado, para que eu consiga acessar os detalhes de recall dos meus veículos
 
 Critérios de aceitação:
 
@@ -211,7 +232,8 @@ Critérios de aceitação:
 - Deve apresentar os detalhes do recall do veículo selecionado
 
 #### **US19: Indicar o principal condutor** 
-&emsp;&emsp;Eu, como usuário, desejo indicar o principal condutor de um veículo, para que o devido responsável responda pelas multas de tráfego de veículo
+
+&emsp;&emsp; Eu, como usuário, desejo indicar o principal condutor de um veículo, para que o devido responsável responda pelas multas de tráfego de veículo
 
 Critérios de aceitação:
 
@@ -226,7 +248,8 @@ Critérios de aceitação:
 
 
 #### **US20: Excluir o principal condutor** 
-&emsp;&emsp;Eu, como usuário, desejo excluir o principal condutor de um veículo, para que o mesmo não responda mais pelas multas de tráfego de veículo
+
+&emsp;&emsp; Eu, como usuário, desejo excluir o principal condutor de um veículo, para que o mesmo não responda mais pelas multas de tráfego de veículo
 
 Critérios de aceitação:
 
@@ -239,7 +262,8 @@ Critérios de aceitação:
 - Deve conter um botão para confirmar a remoção do principal condutor
 
 #### **US21: Aceitar o principal condutor** 
-&emsp;&emsp;Eu, como usuário, desejo aceitar um convite para ser o principal condutor de um veículo, para que eu seja responsável pelas multas de tráfego de veículo e portar dados do veículo
+
+&emsp;&emsp; Eu, como usuário, desejo aceitar um convite para ser o principal condutor de um veículo, para que eu seja responsável pelas multas de tráfego de veículo e portar dados do veículo
 
 Critérios de aceitação:
 
@@ -248,7 +272,8 @@ Critérios de aceitação:
 
 
 #### **US22: Recusar o principal condutor** 
-&emsp;&emsp;Eu, como usuário, desejo recusar um convite para ser o principal condutor de um veículo, para que eu não mais seja responsável pelas multas de tráfego de veículo e portar dados do veículo
+
+&emsp;&emsp; Eu, como usuário, desejo recusar um convite para ser o principal condutor de um veículo, para que eu não mais seja responsável pelas multas de tráfego de veículo e portar dados do veículo
 
 Critérios de aceitação:
 
@@ -260,7 +285,8 @@ Critérios de aceitação:
 - Deve conter um botão para confirmar recusar ser o principal condutor
 
 #### **US23: Compartilhar o CRLV** 
-&emsp;&emsp;Eu, como usuário, desejo compartilhar o CRLV do meu veículo cadastrado, para que outros condutores possam utilizar o CRLV do meu veículo
+
+&emsp;&emsp; Eu, como usuário, desejo compartilhar o CRLV do meu veículo cadastrado, para que outros condutores possam utilizar o CRLV do meu veículo
 
 Critérios de aceitação:
 
@@ -274,7 +300,8 @@ Critérios de aceitação:
 - Deve conter um botão de afirmação para permitir o compartilhamento
 
 #### **US24: Parar de compartilhar o CRLV** 
-&emsp;&emsp;Eu, como usuário, desejo parar de compartilhar o CRLV do meu veículo com outro condutor, para que eu tenha controle de quem eu consigo compartilhar o CRLV
+
+&emsp;&emsp; Eu, como usuário, desejo parar de compartilhar o CRLV do meu veículo com outro condutor, para que eu tenha controle de quem eu consigo compartilhar o CRLV
 
 Critérios de aceitação:
 
@@ -286,7 +313,8 @@ Critérios de aceitação:
 - Deve apresentar uma informação sobre a realização bem sucedida da remoção do compartilhamento do CRLV com o condutor
 
 #### **US25: Aceitar compartilhamento do CRLV**
-&emsp;&emsp;Eu, como usuário, desejo aceitar o compartilhamento do CRLV, para que eu consiga acessar o CRLV compartilhado pelo proprietário do veículo
+
+&emsp;&emsp; Eu, como usuário, desejo aceitar o compartilhamento do CRLV, para que eu consiga acessar o CRLV compartilhado pelo proprietário do veículo
 
 Critérios de aceitação:
 
@@ -295,7 +323,8 @@ Critérios de aceitação:
 - Deve exibir o CRLV do veículo selecionado
 
 #### **US26: Remover compartilhamento do CRLV**
-&emsp;&emsp;Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha mais o CRLV do veículo compartilhado
+
+&emsp;&emsp; Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha mais o CRLV do veículo compartilhado
 
 Critérios de aceitação:
 
@@ -304,8 +333,10 @@ Critérios de aceitação:
 - Deve apresentar uma informação sobre a realização bem sucedida da remoção do compartilhamento do CRLV com o proprietário do veículo
 
 ### EP04: Infrações
+
 #### **US27**: Consultar Infrações por Infrator
-&emsp;&emsp;Eu, como um usuário, desejo consultar as infrações por infrator, para saber quem foi o responsável pela infração naquele veículo
+
+&emsp;&emsp; Eu, como um usuário, desejo consultar as infrações por infrator, para saber quem foi o responsável pela infração naquele veículo
 
 Critérios de aceitação:
 
@@ -315,7 +346,8 @@ Critérios de aceitação:
 - Deve ser possível verificar as informações detalhadas de cada infração
 
 #### **US28**: Solicitar Boleto para Infrações por Infrator
-&emsp;&emsp;Eu, como um usuário, desejo solicitar boleto para infrações por infrator, para poder fazer o pagamento da infração
+
+&emsp;&emsp; Eu, como um usuário, desejo solicitar boleto para infrações por infrator, para poder fazer o pagamento da infração
 
 Critérios de aceitação:
 
@@ -327,7 +359,8 @@ Critérios de aceitação:
 - Deve baixar o boleto em pdf para o dispositivo utilizado no momento da solicitação
 
 #### **US29**: Consultar Infrações por Veículo
-&emsp;&emsp;Eu, como um usuário, desejo consultar as infrações por veículo, para ter a relação de infrações em cada veículo que eu possuo
+
+&emsp;&emsp; Eu, como um usuário, desejo consultar as infrações por veículo, para ter a relação de infrações em cada veículo que eu possuo
 
 Critérios de aceitação:
 
@@ -339,7 +372,8 @@ Critérios de aceitação:
 - Deve ser possível verificar as informações detalhadas de cada infração
 
 #### **US30**: Solicitar Boleto para Infrações por Veículo
-&emsp;&emsp;Eu, como um usuário, desejo solicitar boleto para infrações por veículo, para poder fazer o pagamento da infração
+
+&emsp;&emsp; Eu, como um usuário, desejo solicitar boleto para infrações por veículo, para poder fazer o pagamento da infração
 
 Critérios de aceitação:
 
@@ -353,7 +387,8 @@ Critérios de aceitação:
 - Deve baixar o boleto em pdf para o dispositivo utilizado no momento da solicitação.
 
 #### **US31**: Informar real infrator
-&emsp;&emsp;Eu, como um usuário, desejo informar o real infrator, para que o real responsável pela infração seja penalizado
+
+&emsp;&emsp; Eu, como um usuário, desejo informar o real infrator, para que o real responsável pela infração seja penalizado
 
 Critérios de aceitação:
 
@@ -364,8 +399,10 @@ Critérios de aceitação:
 - Deve conter um formulário para que eu possa informar o real infrator
 
 ### EP05: Educação
+
 #### **US32**: Consultar campanhas educacionais
-&emsp;&emsp;Eu, como um usuário, desejo consultar campanhas educacionais, para aprender e me conscientizar mais sobre sobre os cuidados e boas práticas que se deve ter no trânsito
+
+&emsp;&emsp; Eu, como um usuário, desejo consultar campanhas educacionais, para aprender e me conscientizar mais sobre sobre os cuidados e boas práticas que se deve ter no trânsito
 
 Critérios de aceitação:
 
@@ -378,11 +415,12 @@ Critérios de aceitação:
 
 ## Versionamento
 
-| Versão | Data       | Modificação                                                                               |    Autor      |
-| ------ | ---------- | ----------------------------------------------------------------------------------------- | ------------- |
-|  0.1   | 25/03/2021 | Criação dos tópicos do documento e inserção da Introdução                                 |  Estevão Reis |
-|  1.0   | 26/03/2021 | Criação de 6 histórias de usuário                                                         | Estevão e Yan |
-|  1.1   | 26/03/2021 | Descrição da metodologia utilizada                                                        |  Estevão Reis |
-|  2.0   | 28/03/2021 | Criação das histórias de usuário referente as Infrações e Educação                        |  Estevão Reis |
-|  3.0   | 29/03/2021 | Criação de novas histórias de usuário referente a Veículos, Habilitação e Conta de Usuário|      Yan      |
-|  3.1   | 30/03/2021 | Correções de Erros Ortográficos e versionamento                                           |  Estevao Reis |
+| Versão | Data       | Modificação                                                                               |       Autor      |
+| ------ | ---------- | ----------------------------------------------------------------------------------------- | ---------------- |
+|  0.1   | 25/03/2021 | Criação dos tópicos do documento e inserção da Introdução                                 |  Estevão Reis    |
+|  1.0   | 26/03/2021 | Criação de 6 histórias de usuário                                                         |  Estevão e Yan   |
+|  1.1   | 26/03/2021 | Descrição da metodologia utilizada                                                        |  Estevão Reis    |
+|  2.0   | 28/03/2021 | Criação das histórias de usuário referente as Infrações e Educação                        |  Estevão Reis    |
+|  3.0   | 29/03/2021 | Criação de novas histórias de usuário referente a Veículos, Habilitação e Conta de Usuário|      Yan         |
+|  3.1   | 30/03/2021 | Correções de Erros Ortográficos e versionamento                                           |  Estevao Reis    |
+|  3.2   | 30/03/2021 | Ajustando a formatação e corrigindo na citação                                            |  Sérgio Cipriano |
