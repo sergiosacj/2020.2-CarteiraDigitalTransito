@@ -1,7 +1,7 @@
 # História de Usuário 
 
 ## 1.Introdução 
-&emsp;&emsp;Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos "ageis".<br>
+&emsp;&emsp;Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos "ágeis".(VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio.)<br>
 &emsp;&emsp;Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação.(VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
 
 ## 2.Metodologia
@@ -307,7 +307,7 @@ Critérios de aceitação:
 #### **US27**: Consultar Infrações por Infrator
 &emsp;&emsp;Eu, como um usuário, desejo consultar as infrações por infrator, para saber quem foi o responsável pela infração naquele veículo
 
-Critériosde aceitação:
+Critérios de aceitação:
 
 - Deve conter um botão na tela inicial para acessar a área de infrações
 - Deve possuir a opção de verificar infrações por infrator
@@ -317,7 +317,7 @@ Critériosde aceitação:
 #### **US28**: Solicitar Boleto para Infrações por Infrator
 &emsp;&emsp;Eu, como um usuário, desejo solicitar boleto para infrações por infrator, para poder fazer o pagamento da infração
 
-Critériosde aceitação:
+Critérios de aceitação:
 
 - Deve conter um botão na tela inicial para acessar a área de infrações
 - Deve possuir a opção de verificar infrações por infrator
@@ -329,7 +329,7 @@ Critériosde aceitação:
 #### **US29**: Consultar Infrações por Veículo
 &emsp;&emsp;Eu, como um usuário, desejo consultar as infrações por veículo, para ter a relação de infrações em cada veículo que eu possuo
 
-Critériosde aceitação:
+Critérios de aceitação:
 
 - Deve conter um botão na tela inicial para acessar a área de infrações
 - Deve possuir a opção de verificar infrações por veículo
@@ -341,7 +341,7 @@ Critériosde aceitação:
 #### **US30**: Solicitar Boleto para Infrações por Veículo
 &emsp;&emsp;Eu, como um usuário, desejo solicitar boleto para infrações por veículo, para poder fazer o pagamento da infração
 
-Critériosde aceitação:
+Critérios de aceitação:
 
 - Deve conter um botão na tela inicial para acessar a área de infrações
 - Deve possuir a opção de verificar infrações por veículo
@@ -355,7 +355,7 @@ Critériosde aceitação:
 #### **US31**: Informar real infrator
 &emsp;&emsp;Eu, como um usuário, desejo informar o real infrator, para que o real responsável pela infração seja penalizado
 
-Critériosde aceitação:
+Critérios de aceitação:
 
 - Deve conter um botão na tela inicial para acessar a área de infrações
 - Deve mostrar a lista com todas as infrações cometidas
@@ -367,7 +367,7 @@ Critériosde aceitação:
 #### **US32**: Consultar campanhas educacionais
 &emsp;&emsp;Eu, como um usuário, desejo consultar campanhas educacionais, para aprender e me conscientizar mais sobre sobre os cuidados e boas práticas que se deve ter no trânsito
 
-Critériosde aceitação:
+Critérios de aceitação:
 
 - Deve conter um botão na tela inicial para acessar a área de educação
 - Deve conter todo o material educacional e campanhas vigente no momento do acesso
@@ -381,7 +381,8 @@ Critériosde aceitação:
 | Versão | Data       | Modificação                                                                               |    Autor      |
 | ------ | ---------- | ----------------------------------------------------------------------------------------- | ------------- |
 |  0.1   | 25/03/2021 | Criação dos tópicos do documento e inserção da Introdução                                 |  Estevão Reis |
-|  0.2   | 26/03/2021 | Criação de 6 histórias de usuário                                                         | Estevão e Yan |
-|  0.3   | 26/03/2021 | Descrição da metodologia utilizada                                                        |  Estevão Reis |
-|  0.4   | 28/03/2021 | Criação das histórias de usuário referente as Infrações e Educação                        |  Estevão Reis |
-|  0.5   | 29/03/2021 | Criação de novas histórias de usuário referente a Veículos, Habilitação e Conta de Usuário|      Yan      |
+|  1.0   | 26/03/2021 | Criação de 6 histórias de usuário                                                         | Estevão e Yan |
+|  1.1   | 26/03/2021 | Descrição da metodologia utilizada                                                        |  Estevão Reis |
+|  2.0   | 28/03/2021 | Criação das histórias de usuário referente as Infrações e Educação                        |  Estevão Reis |
+|  3.0   | 29/03/2021 | Criação de novas histórias de usuário referente a Veículos, Habilitação e Conta de Usuário|      Yan      |
+|  3.1   | 30/03/2021 | Correções de Erros Ortográficos e versionamento                                           |  Estevao Reis |
