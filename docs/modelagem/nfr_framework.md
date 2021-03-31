@@ -34,10 +34,12 @@
 ## Portabilidade
 
 ### Sem propagação
-![image](https://user-images.githubusercontent.com/52640974/113037174-80997180-916b-11eb-981d-0d0e5c4eaabb.png)
+![SIG Portabilidade](../assets/imagens/nfr/nfr-portabilidade.png)
+<center>Figura 4: SIG Portabilidade com propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113037174-80997180-916b-11eb-981d-0d0e5c4eaabb.png)</center>
 
 ### Com propagação
-![image](https://user-images.githubusercontent.com/52640974/113037426-bd656880-916b-11eb-83c1-7730383638ea.png)
+![SIG Portabilidade](../assets/imagens/nfr/nfr-portabilidade-p.png)
+<center>Figura 5: SIG Portabilidade com propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113144699-eb968700-9203-11eb-8ea6-29bcdfccd2ff.png)</center>
 
 ## Confiabilidade
 ### Sem propagação
@@ -51,10 +53,12 @@
 ## Eficiência
 
 ### Sem propagação
-![image](https://user-images.githubusercontent.com/52640974/113038359-d0c50380-916c-11eb-9f95-e998a338f9d5.png)
+![SIG Eficiência](../assets/imagens/nfr/nfr-eficiencia.png)
+<center>Figura 8: SIG Eficiência com propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113145063-5d6ed080-9204-11eb-9d49-57ce22849b58.png)</center>
 
 ### Com propagação
-![image](https://user-images.githubusercontent.com/52640974/113038300-c0148d80-916c-11eb-9fe2-ca6e1e01f6fc.png)
+![SIG Eficiência](../assets/imagens/nfr/nfr-eficiencia-p.png)
+<center>Figura 9: SIG Eficiência com propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113145257-9d35b800-9204-11eb-9e00-134905b99764.png)</center>
 
 ## Bibliografia
 
@@ -68,5 +72,6 @@
 |  0.1	 | 25/03/201  | Análise dos requisitos não funcionais e definição dos softgoals | Daniel e Emily |
 |  1.0   | 25/03/2021 | Adição da introdução | Emily Dias |
 |  1.1   | 27/03/2021 | Adição dos participantes | Emily Dias |
-|  1.2   | 27/03/2021 | Adição dos ítens de portabilidade e eficiência | Emily Dias |
+|  1.2   | 30/03/2021 | Adição dos ítens de portabilidade e eficiência | Emily Dias |
 |  1.3   | 30/03/2021 | Padronização do documento e adição da metodologia e dos ítens de usabilidade e confiabilidade | Daniel Porto |
+|  1.4   | 31/03/2021 | Padronização dos ítens de portabilidade e eficiência | Emily Dias |
