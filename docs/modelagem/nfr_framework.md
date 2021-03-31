@@ -8,7 +8,7 @@
 
 ## Metodologia
 
-&emsp;&emsp;Podem ser abordados diversos tipos de softgoals no NFR framewok como: Usabilidade, Performance, Segurança, etc. Sendo assim, a aplicação da técnica deu-se, primeiramente, pela análise dos [requisitos não funcionais](../../elicitacao/requisitos/#requisitos-nao-funcionais) elicitados anteriormente. Tal análise teve como objetivo a identificação dos tipos de softgoals que os requisitos tentam cobrir.<br>
+&emsp;&emsp;Podem ser abordados diversos tipos de softgoals no NFR framework como: Usabilidade, Performance, Segurança, etc. Sendo assim, a aplicação da técnica deu-se, primeiramente, pela análise dos [requisitos não funcionais](../../elicitacao/requisitos/#requisitos-nao-funcionais) elicitados anteriormente. Tal análise teve como objetivo a identificação dos tipos de softgoals que os requisitos tentam cobrir.<br>
 &emsp;&emsp;Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals:
 
 - Usabilidade;
