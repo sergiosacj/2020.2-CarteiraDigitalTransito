@@ -8,7 +8,7 @@
 
 ## Metodologia
 
-&emsp;&emsp;Podem ser abordados diversos tipos de softgoals no NFR framewok como: Usabilidade, Perrformance, Segurança, etc. Sendo assim, a aplicação da técnica deu-se, primeiramente, pela análise dos [requisitos não funcionais](../../elicitacao/requisitos/#requisitos-nao-funcionais) elicitados anteriormente. Tal análise teve como objetivo a identificação dos tipos de softgoals que os requisitos tentam cobrir.<br>
+&emsp;&emsp;Podem ser abordados diversos tipos de softgoals no NFR framewok como: Usabilidade, Performance, Segurança, etc. Sendo assim, a aplicação da técnica deu-se, primeiramente, pela análise dos [requisitos não funcionais](../../elicitacao/requisitos/#requisitos-nao-funcionais) elicitados anteriormente. Tal análise teve como objetivo a identificação dos tipos de softgoals que os requisitos tentam cobrir.<br>
 &emsp;&emsp;Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals:
 
 - Usabilidade;
@@ -35,7 +35,7 @@
 
 ### Sem propagação
 ![SIG Portabilidade](../assets/imagens/nfr/nfr-portabilidade.png)
-<center>Figura 4: SIG Portabilidade com propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113037174-80997180-916b-11eb-981d-0d0e5c4eaabb.png)</center>
+<center>Figura 4: SIG Portabilidade sem propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113037174-80997180-916b-11eb-981d-0d0e5c4eaabb.png)</center>
 
 ### Com propagação
 ![SIG Portabilidade](../assets/imagens/nfr/nfr-portabilidade-p.png)
@@ -54,7 +54,7 @@
 
 ### Sem propagação
 ![SIG Eficiência](../assets/imagens/nfr/nfr-eficiencia.png)
-<center>Figura 8: SIG Eficiência com propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113145063-5d6ed080-9204-11eb-9d49-57ce22849b58.png)</center>
+<center>Figura 8: SIG Eficiência sem propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113145063-5d6ed080-9204-11eb-9d49-57ce22849b58.png)</center>
 
 ### Com propagação
 ![SIG Eficiência](../assets/imagens/nfr/nfr-eficiencia-p.png)
