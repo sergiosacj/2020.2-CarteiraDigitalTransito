@@ -33,7 +33,7 @@
 | Habilitação | US13 | RF5, RF10 | usuário | acessar histórico de habilitações | conseguir ter dados detalhados da CNH | Média |
 | Veículos | US14 | RF4, RF5, RF13, RF15 | usuário | acessar o CRLV do meu veículo cadastrado | para que consiga ter acesso ao CRLV dentro do sistema | Alta |
 | Veículos | US15 | RF4, RF10 | usuário | baixar o CRLV do meu veículo cadastrado | para manter o CRLV no aparelho | Alta |
-| Veículos | US16 | RF4, RF5, RF10, RF13 | usuário | exportar o CRLV do meu veículo cadastrado | para que consiga o CRLV nop formato .pdf | Alta |
+| Veículos | US16 | RF4, RF5, RF10, RF13 | usuário | exportar o CRLV do meu veículo cadastrado | para que consiga o CRLV no formato .pdf | Alta |
 | Veículos | US17 | RF10, RF11 | usuário | remover o CRLV do meu veículo cadastrado | para que eu consiga apagar meus dados do CRLV do meu dispositivo | Média |
 | Veículos | US18 | RF4, RF5, RF10, RF13, RF15 | usuário | consultar recall do meu veículo cadastrado |  acessar os detalhes de recall dos meus veículos | Alta |
 | Veículos | US19 | RF10, RF23 | usuário | indicar o principal condutor de um veículo | indicar o responsável pelas multas de tráfego de veículo | Média |
@@ -47,7 +47,7 @@
 | Infrações | US27 | RF7, RF15, RF17 | usuário | solicitar boleto para infrações por infrator | poder fazer o pagamento da infração | Média |
 | Infrações | US28 | RF7, RF15 | usuário | consultar as infrações por veículo | ter a relação de infrações em cada veículo cadastrado | Média |
 | Infrações | US29 | RF2, RF15 | usuário | consultar infrações por veículo | ter a relação de de infrações de cada veículo separadas | Média |
-| Infrações | US30 | RF17 | usuário | solicitar boleto para infrações por veículo | fazer pagamento de infrações | Média |
+| Infrações | US30 | RF17 | usuário | solicitar boleto para infrações por veículo | fazer pagamento de infrações | Alta |
 | Infrações | US31 | RF20 | usuário | informar o real infrator | real responsável pela infração ser penalizado | Média |
 | Educação | US32 | RF12, RF25 | usuário | consultar campanhas educacionais | aprender mais sobre os cuidados e boas práticas que se deve ter no trânsito | Média |
 
