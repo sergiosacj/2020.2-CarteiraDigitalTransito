@@ -28,7 +28,7 @@
 | Cadastrar | US08 | RF21 | usuário | aderir ao SNE | realizar o pagamento de infrações com mais facilidade | Média |
 | Habilitação | US09 | RF3, RF8, RF19 | usuário | acessar a habilitação | ter acesso a ela dentro do aplicativo | Alta |
 | Habilitação | US10 | RF3, RF10, RF19 | usuário | baixar a CNH digital | manter o documento no aparelho | Alta |
-| Habilitação | US11 | RF3, RF5, RF10 | usuário | exportar a CNH digital | conseguir a CNH no formato PDF | Alta |
+| Habilitação | US11 | RF3, RF5, RF10 | usuário | exportar a CNH digital | conseguir a CNH no formato .pdf | Alta |
 | Habilitação | US12 | RF10, RF11 | usuário | remover a CNH do aplicativo | conseguir apagar meus dados da CNH do dispositivo | Média |
 | Habilitação | US13 | RF5, RF10 | usuário | acessar histórico de habilitações | conseguir ter dados detalhados da CNH | Média |
 | Veículos | US14 | RF4, RF5, RF13, RF15 | usuário | acessar o CRLV do meu veículo cadastrado | para que consiga ter acesso ao CRLV dentro do sistema | Alta |
@@ -46,7 +46,7 @@
 | Veículos | US26 | RF10 | usuário | recusar o compartilhamento do CRLV realizado pelo proprietário do veículo | para que não tenha mais o CRLV do veículo compartilhado | Média |
 | Infrações | US27 | RF7, RF15, RF17 | usuário | solicitar boleto para infrações por infrator | poder fazer o pagamento da infração | Média |
 | Infrações | US28 | RF7, RF15 | usuário | consultar as infrações por veículo | ter a relação de infrações em cada veículo cadastrado | Média |
-| Infrações | US29 | RF2, RF15 | usuário | consultar infrações por veículo | ter a relação de de infrações de cada veículo separadas | Média |
+| Infrações | US29 | RF2, RF15 | usuário | consultar infrações por veículo | ter a relação de infrações de cada veículo separadas | Média |
 | Infrações | US30 | RF17 | usuário | solicitar boleto para infrações por veículo | fazer pagamento de infrações | Alta |
 | Infrações | US31 | RF20 | usuário | informar o real infrator | real responsável pela infração ser penalizado | Média |
 | Educação | US32 | RF12, RF25 | usuário | consultar campanhas educacionais | aprender mais sobre os cuidados e boas práticas que se deve ter no trânsito | Média |
