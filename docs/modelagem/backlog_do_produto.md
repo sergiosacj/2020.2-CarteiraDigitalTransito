@@ -16,6 +16,14 @@
 
 ## Backlog
 
+&emsp;&emsp; Para facilitar a visualização, a tabela está disponível de duas maneiras diferentes (excel e markdown).
+
+### Tabela em excel
+
+![backlog](https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/01eea60432a697ade96e1c03e96d88a571a3f23a/docs/assets/imagens/backlog.png)
+
+### Tabela em markdown
+
 | Épico | História de Usuário | Rastreabilidade | Ator | Desejo | Objetivo | Prioridade |
 | - | - | - | - | - | - | - |
 | Cadastrar | US01 | RF01 | usuário | fazer o cadastro com a conta GOV.br | acessar o sistema do app CDT | Alta |
@@ -64,3 +72,5 @@
 | 2.0 | 30/03/2021 | Adição de todos os elementos no backlog (32 Histórias de Usuário) | Sérgio Cipriano e Enzo Gabriel |
 | 2.1 | 31/03/2021 | Correções semânticas e adicionando espaços entre colunas |  Sérgio Cipriano |
 | 2.2 | 31/03/2021 | Adição da coluna prioridade |  Enzo Gabriel |
+| 2.3 | 31/03/2021 | Criação da imagem em excel |  Enzo Gabriel |
+| 2.4 | 01/03/2021 | Adição da imagem criada em excel |  Sérgio Cipriano |
