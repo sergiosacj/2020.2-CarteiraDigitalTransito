@@ -1,8 +1,14 @@
 # Verificação - NFR Framework
 
-<strong>Verificação do artefato: </strong>[NFR](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/nfr_framework/)<br>
-
 Para a verificação do NFR foi utilizado a estratégia de verificação por checklist, por ser mais simples, por ter uma visualização melhor do Framework e por ser mais objetivo. Este documento é bom para identificar as possíveis falhas e erros encontrados neste artefato.
+
+## Contexto
+
+- Técnica utilizada: Técnica de Leitura Check-List
+- Autor do documento: Emily Dias.
+- Inspetor: Yan Andrade.
+
+O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/nfr_framework/)
 
 ## Checklist
 
@@ -13,7 +19,7 @@ Para a verificação do NFR foi utilizado a estratégia de verificação por che
 |OK|Contém|
 |X|Não contém|
 
-### Tabela
+### Resultados
 
 |Itens|NFR Usabilidade|NFR Eficiência|NFR Confiabilidade|NFR Portabilidade|
 |:-|:-:|:-:|:-:|:-:|
@@ -34,11 +40,9 @@ Para a verificação do NFR foi utilizado a estratégia de verificação por che
 |15. NFR condiz com requisitos já apresentados?|OK|OK|OK|OK|
 |**Porcentagem de sucesso**|**93%**|**93%**|**93%**|**87%**|
 
-### Autor
+## Conclusão
 
-|Nome|Função|
-|:-|:-|
-|Emily Dias|Autor, Inspetor|
+Com este documento de verificação foi detectado que o documento de NFR ficou como esperado com resalvas em algumas coisas por exemplo, os critérios do app não são completamente satisfatórios e o NFR de Portabilidade não tem operadores que geram impactos em outros.
 
 ## Referências
 
@@ -50,3 +54,4 @@ Para a verificação do NFR foi utilizado a estratégia de verificação por che
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 10/04/2021 | Adição dos itens do documento | Emily Dias |
+| 1.1 | 10/04/2021 | Padronizando o documento | Emily Dias |
