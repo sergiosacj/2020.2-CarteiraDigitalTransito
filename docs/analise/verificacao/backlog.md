@@ -3,13 +3,13 @@
 &emsp; &emsp;Para a verificação do backlog foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
 
 
-## Contexto
+## 1. Contexto
  - Técnica: Inspeção
  - Autores: Sérgio Cipriano e Enzo Gabriel
  - Revisores: Estevão Reis e Daniel Porto
  - Inspetores: Estevão Reis
-## Checklist
-### Perguntas
+## 2. Checklist
+### 2.1.Perguntas
 | Número | Pergunta |
 |:--:|--|
 | 1 | Todas as informações necessárias estão presentes? |
@@ -23,13 +23,13 @@
 | 9 | Possui ator coerente? |
 |10 | Desejo e objetivo coerentes?|
 
-### Legenda
+### 2.2. Legenda
 |Símbolo|Descrição|
 |-------|---------|
 |✔     | Contém   |
 |✖     |Não Contém|
 
-### Resultados
+### 2.3. Resultados
 
 |US  |1|2 |3|4 |5|6|7|8 |9|10
 |----|-|--|-|--|-|-|-|--|-|--|
@@ -69,8 +69,8 @@
 |US31|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
 |US32|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
 
-## Conclusão
-### Problemas Encontrados
+## 3. Conclusão
+### 3.1. Problemas Encontrados
 #### US02:Realizar o login
 ##### Problemas 
 
@@ -117,11 +117,67 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 ##### Possíveis soluções
 10 - Mudar OBJETIVO para "Para ter controle de quem pode ter acesso ao CRLV do meu veículo";
 
-## Bibliografia
+### 3.2. Dados Percentuais
+#### 3.2.1.Backlog do Produto
+|US  |Porcentagem de Sucesso|
+|----|-|
+|US01|100%|
+|US02|90%|
+|US03|100%|
+|US04|70%|
+|US05|90%|
+|US06|100%|
+|US07|100%|
+|US08|100%|
+|US09|100%|
+|US10|100%|
+|US11|100%|
+|US12|100%|
+|US13|100%|
+|US14|90%|
+|US15|100%|
+|US16|100%|
+|US17|100%|
+|US18|100%|
+|US19|90%|
+|US20|100%|
+|US21|100%|
+|US22|100%|
+|US23|100%|
+|US24|90%|
+|US25|100%|
+|US26|100%|
+|US27|100%|
+|US28|100%|
+|US29|100%|
+|US30|100%|
+|US31|100%|
+|US32|100%|
+
+### 3.2.2.Perguntas
+| Número | Pergunta |Porcentagem de Sucesso|
+|:--:|--|---|
+| 1 | Todas as informações necessárias estão presentes? |96,88%|
+| 2 | As informações são consistentes? |100%|
+| 3 | As informações são concisas? |90,63%|
+| 4 | Há apenas informações necessárias? |100% |
+| 5 | Uso de linguagem compreensível e agradável ao público? |96,88%|
+| 6 | Possui rastreabilidade? | 100%|
+| 7 | O épico associado é coerente? |100%|
+| 8 | A ortografia está correta? |96,88%|
+| 9 | Possui ator coerente? |100%|
+|10 | Desejo e objetivo coerentes?|93,75%|
+
+
+
+## 4. Acompanhamento
+&emsp; &emsp; Ainda não foi feito as correções necessárias.
+
+## 5. Bibliografia
 
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 09 de Abril de 2021
 
-## Versionamento
+## 6.Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 08/04/2021 | Criação do documento com os checklist em todas as histórias de usuário do Backlog | Estevão Reis |
@@ -129,3 +185,4 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 | 3.0 | 11/04/2021 | Mudança na organização e layout dos Resultados| Estevão Reis|
 | 4.0 | 11/04/2021 | Mudanças nos critérios 9 e 10 e nova verificação de todos os US| Estevão Reis|
 | 5.0 | 11/04/2021 | Correção no título, correções ortográficas em todo documento, mudança na introdução, inserção do subtópico "Perguntas" em "Checklist" e mudança do nome da coluna "Questões" para "Perguntas"| Estevão Reis|
+| 6.0 | 11/04/2021 | Inserção dos Dados percentuais | Estevão Reis|
