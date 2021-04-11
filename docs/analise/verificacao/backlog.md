@@ -1,16 +1,16 @@
-# Verificação do Backlog e História de Usuários
-&emsp; &emsp;Este documento visa verificar o backlog de produto para detectar os erros e defeitos antes de finalizar o projeto. O backlog será analisado a forma como foram escritas e organizadas as histórias de usuário.</br>
+# Verificação do Backlog
+&emsp; &emsp;Este documento visa verificar o backlog de produto para detectar os erros e defeitos antes de finalizar o projeto.</br>
 &emsp; &emsp;Para a verificação do backlog foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
 
 
 ## Contexto
  - Técnica: Inspeção
  - Autores: Sérgio Cipriano e Enzo Gabriel
- - Revisores: Estevao Reis e Daniel Porto
- - Inspetores: Estevao Reis
+ - Revisores: Estevão Reis e Daniel Porto
+ - Inspetores: Estevão Reis
 ## Checklist
-
-| Número | Questão |
+### Perguntas
+| Número | Pergunta |
 |:--:|--|
 | 1 | Todas as informações necessárias estão presentes? |
 | 2 | As informações são consistentes? |
@@ -22,8 +22,9 @@
 | 8 | A ortografia está correta? |
 | 9 | Possui ator coerente? |
 |10 | Desejo e objetivo coerentes?|
+
 ### Legenda
-|Simbolo|Descrição|
+|Símbolo|Descrição|
 |-------|---------|
 |✔     | Contém   |
 |✖     |Não Contém|
@@ -69,7 +70,7 @@
 |US32|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
 
 ## Conclusão
-### Problemas Encotrados
+### Problemas Encontrados
 #### US02:Realizar o login
 ##### Problemas 
 
@@ -78,7 +79,7 @@
  
 8 - Mudar para "Ter acesso às funcionalidades".
 
-### US04:Realizar Logout
+#### US04:Realizar Logout
 
 ##### Problemas 
 1 - Não é dito de onde é apagado os registros do usuário, se na base de dados do CDT ou se no aparelho onde se está utilizando o aplicativo</br>
@@ -88,29 +89,28 @@
 Devido a incoerência entre desejo e objetivo, não será apontado soluções para os outros problemas.</br>
 10 - Mudar DESEJO para "sair da conta"; e OBJETIVO para: "Impedir que outras pessoas acessem minha conta em meu aparelho"
 
-
-### US05: Acessar mensagens do sistema
+#### US05: Acessar mensagens do sistema
 ##### Problemas 
 3 - As expressões "acessar" e "ter acesso" levam a redundância.
 
 ##### Possíveis soluções
 3 - Mudar DESEJO para "Visualizar as mensagens do sistema";
 
-### US14: Acessar CRLV dos veículos cadastrados
+#### US14: Acessar CRLV dos veículos cadastrados
 ##### Problemas 
 3 - As expressões "acessar" e "ter acesso" levam a redundância.
 
 ##### Possíveis soluções
 3 - Mudar DESEJO para "Visualizar o CRLV do meu veículo cadastrado".
 
-### US19: Indicar o principal condutor
+#### US19: Indicar o principal condutor
 ##### Problemas 
-3 - A indicar "indicar" se repete em DESEJO e OBJETIVO, causando rendundância.
+3 - A indicar "indicar" se repete em DESEJO e OBJETIVO, causando redundância.
 
 ##### Possíveis soluções
 3 - Mudar DESEJO para "Definir o principal condutor de um veículo;
 
-### US24: Parar de compartilhar o CRLV
+#### US24: Parar de compartilhar o CRLV
 ##### Problemas 
 10 - Incoerência entre DESEJO e OBJETIVO
 
@@ -124,7 +124,8 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 08/04/2021 | Criação do documento com os checklist em todas as histórias de usuário do Backlog | Estevao Reis |
-| 2.0 | 11/04/2021 | Mudança de toda a organização e layout do documento e verificação da US01 até a US16| Estevao Reis|
-| 3.0 | 11/04/2021 | Mudança na organização e layout dos Resultados| Estevao Reis|
-| 4.0 | 11/04/2021 | Mundanças nos critérios 9 e 10 e nova verificação de todos os US| Estevao Reis|
+| 1.0 | 08/04/2021 | Criação do documento com os checklist em todas as histórias de usuário do Backlog | Estevão Reis |
+| 2.0 | 11/04/2021 | Mudança de toda a organização e layout do documento e verificação da US01 até a US16| Estevão Reis|
+| 3.0 | 11/04/2021 | Mudança na organização e layout dos Resultados| Estevão Reis|
+| 4.0 | 11/04/2021 | Mudanças nos critérios 9 e 10 e nova verificação de todos os US| Estevão Reis|
+| 5.0 | 11/04/2021 | Correção no título, correções ortográficas em todo documento, mudança na introdução, inserção do subtópico "Perguntas" em "Checklist" e mudança do nome da coluna "Questões" para "Perguntas"| Estevão Reis|
