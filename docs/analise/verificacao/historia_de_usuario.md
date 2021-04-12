@@ -33,46 +33,123 @@
 
 ### 2.3. Resultados
 
-|US  |1|2 |3|4 |5|6|7|8 |9|10
-|----|-|--|-|--|-|-|-|--|-|--|
-|US01|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US02|✔|✔|✔|✔|✔|✔|✔|✖|✔|✔ |
-|US03|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US04|✖|✔|✔|✔|✖|✔|✔|✔|✔|✖ |
-|US05|✔|✔|✖|✔|✔|✔|✔|✔|✔|✔ |
-|US06|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US07|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US08|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US09|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US10|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US11|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US12|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US13|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US14|✔|✔|✖|✔|✔|✔|✔|✔|✔|✔ |
-|US15|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US16|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
+|US  |1|2 |3|4 |5|6|7|8 |9|10|11|
+|----|-|--|-|--|-|-|-|--|-|--|--|
+|US01|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US02|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US03|✔|✔|✖|✖|✖|✔|✔|✔|✔|✔ |✔|
+|US04|✖|✔|✔|✔|✖|✔|✔|✔|✔|✔ |✖|
+|US05|✔|✔|✖|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US06|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US07|✔|✔|✖|✖|✔|✔|✔|✔|✔|✔ |✔|
+|US08|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US09|✔|✔|✖|✔|✖|✔|✔|✔|✔|✔ |✔|
+|US10|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US11|✔|✔|✔|✔|✔|✔|✔|✔|✖|✔ |✔|
+|US12|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US13|✔|✔|✖|✔|✖|✔|✔|✖|✔|✔ |✔|
+|US14|✔|✔|✖|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US15|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US16|✔|✔|✔|✔|✔|✔|✔|✖|✔|✔ |✔|
 
-|US  |1|2 |3|4 |5|6|7|8 |9|10 
-|----|-|--|-|--|-|-|-|--|-|--|
-|US17|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US18|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US19|✔|✔|✖|✔|✔|✔|✔|✔|✔|✔ |
-|US20|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US21|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US22|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US23|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US24|✔|✔|✔|✔|✔|✔|✔|✔|✔|✖ |
-|US25|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US26|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US27|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US28|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US29|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US30|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US31|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
-|US32|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
+|US  |1|2 |3|4 |5|6|7|8 |9|10|11|
+|----|-|--|-|--|-|-|-|--|-|--|--|
+|US17|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US18|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US19|✔|✔|✖|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US20|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US21|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US22|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US23|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US24|✔|✔|✔|✔|✔|✔|✔|✔|✔|✖ |✔|
+|US25|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US26|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US27|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US28|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US29|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US30|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US31|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US32|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
 
 ## 3. Conclusão
 ### 3.1. Problemas Encontrados
+
+### US03:Alterar foto do perfil de usuário
+
+##### Problemas 
+
+3 4 5 - Redundância na frase da história de usuário: "Eu, como um usuário, desejo alterar a foto de usuário, para atualizar a foto do perfil de usuário".</br>
+&emsp;&emsp;&emsp;
+Redundância no critério de aceitação "Deve ter conter um botão próximo a foto do usuário para poder alterar a foto"
+
+##### Possíveis soluções
+ 
+3 4 5 - Mudar para "Eu, como um usuário, desejo alterar a foto de perfil,para atualiza-la".</br>
+&emsp;&emsp;&emsp;Mudar para "Deve ter conter um botão próximo a foto do usuário para poder altera-la"
+
+### US04:Realizar Logout
+##### Problemas 
+1 - Não é dito de onde é apagado os registros do usuário, se na base de dados do CDT ou se no aparelho onde se está utilizando o aplicativo</br>
+5 - Uso expressão "registro de usuário" pode não ser claro para o usuário</br>
+11 - Fazer o logout na aplicação não necessariamente apaga os registros do usuário
+##### Possíveis soluções
+Devido a incoerência da história de usuário, não será apontado soluções para os outros problemas.</br>
+11 - Mudar para " Eu, como um usuário, desejo sair da minha conta no CDT, para impedir que outras pessoas acessem ela em meu aparelho"
+
+### US05: Acessar mensagens do sistema
+##### Problemas 
+3 - As expressões "acessar" e "ter acesso" levam a redundância.
+##### Possíveis soluções
+3 - Mudar para "Eu, como usuário, desejo visualizar as mensagens do sistema, para que eu consiga ter acesso as notificações"
+
+### US07: Acessar o termo de responsabilidade
+##### Problemas 
+3 - Uso repetido da palavra "responsabilidade"</br>
+4 - Informação "sabendo que o mesmo pode me punir por descumprir as regras impostas" desnecessária</br>
+
+##### Possíveis soluções
+3 4 - Mudar para "Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da mesma"
+
+### US09: Acessar Habilitação 
+##### Problemas 
+3 5 - Redundância na frase da história de usuário
+##### Possíveis soluções
+3 5 - Mudar para "Eu, como um usuário, desejo ter acesso à habilitação, para visualizar ela dentro do aplicativo"
+
+### US11: Exportar a CNH digital
+##### Problemas 
+9 - Deveria ter um critério de aceitação anterior as que existem
+
+##### Possíveis soluções
+9 Adicionar esse critério no início "Deve conter um botão na tela inicial para acessar a área de habilitação"
+
+### US13: Acessar histórico da CNH
+
+#### Problemas
+3 - A expressão "da minha CNH" repete duas vezes, causando redundância</br>
+5 - A expressão "ter dados detalhados da minha CNH" pode não ser agradável ao público pela falta de artigos definidos</br>
+8 - Erro gramatical na história de usuário: "[...]para que eu conisga ter dados[..]"</br>
+&emsp;&emsp;&emsp;Erro gramatical no critério de aceitação: "Deve ser possível exibbir a CNH selecionada"
+
+#### Possíveis Soluções
+3 5 8 - Mudar para "Eu, como usuário, desejo visualizar o histórico da minha CNH, para que eu consiga ter acesso aos dados detalhados da minha CNH".</br>
+8 - Mudar para "Deve ser possível exibir a CNH selecionada".</br>
+
+### US14: Acessar CRLV dos veículos cadastrados
+
+#### Problemas
+3 - Redundância: "acessar" e "ter acesso" na mesma frase
+#### Possíveis Soluções
+ 3 - Mudar para "Eu, como usuário, desejo acessar o CRLV dos meu veículo cadastrado, para que consiga visualiza-lo dentro do sistema"
+
+
+### US16: Exportar CRLV dos veículos cadastrados
+#### Problemas
+8 - Erro ortográfico na frase "[...]para que consiga o CRLV nop formato .pdf"
+#### Possíveis Soluções
+8 - Mudar para "[...]para que consiga o CRLV no formato .pdf"
+
+
 
 ### 3.2. Dados Percentuais
 
@@ -138,3 +215,4 @@
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 12/04/2021 | Criação do documento | Estevão Reis |
+| 2.0 | 12/04/2021 | Verificação da US01 à US16 | Estevão Reis |
