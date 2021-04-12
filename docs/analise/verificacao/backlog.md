@@ -171,7 +171,7 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 
 
 ## 4. Acompanhamento
-&emsp; &emsp; Ainda não foi feito as correções necessárias.
+&emsp; &emsp; Ainda não foram feitas as correções necessárias.
 
 ## 5. Bibliografia
 
@@ -186,3 +186,4 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 | 4.0 | 11/04/2021 | Mudanças nos critérios 9 e 10 e nova verificação de todos os US| Estevão Reis|
 | 5.0 | 11/04/2021 | Correção no título, correções ortográficas em todo documento, mudança na introdução, inserção do subtópico "Perguntas" em "Checklist" e mudança do nome da coluna "Questões" para "Perguntas"| Estevão Reis|
 | 6.0 | 11/04/2021 | Inserção dos Dados percentuais | Estevão Reis|
+| 6.1 | 12/04/2011 | Correção de erros ortográficos | Estevão Reis|
