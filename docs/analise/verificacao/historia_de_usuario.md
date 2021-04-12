@@ -55,15 +55,15 @@
 |US  |1|2 |3|4 |5|6|7|8 |9|10|11|
 |----|-|--|-|--|-|-|-|--|-|--|--|
 |US17|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
-|US18|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
-|US19|✔|✔|✖|✔|✔|✔|✔|✔|✔|✔ |✔|
-|US20|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US18|✔|✔|✔|✔|✔|✔|✔|✖|✔|✔ |✔|
+|US19|✔|✔|✔|✔|✔|✔|✔|✖|✔|✔ |✔|
+|US20|✔|✔|✔|✔|✔|✔|✔|✖|✔|✔ |✔|
 |US21|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
-|US22|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US22|✔|✖|✔|✔|✔|✔|✔|✖|✔|✔ |✖|
 |US23|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
-|US24|✔|✔|✔|✔|✔|✔|✔|✔|✔|✖ |✔|
+|US24|✔|✔|✔|✔|✖|✔|✔|✔|✔|✔ |✔|
 |US25|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
-|US26|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
+|US26|✔|✖|✔|✔|✔|✔|✔|✔|✔|✔ |✖|
 |US27|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
 |US28|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
 |US29|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
@@ -74,82 +74,123 @@
 ## 3. Conclusão
 ### 3.1. Problemas Encontrados
 
-### US03:Alterar foto do perfil de usuário
+#### US03:Alterar foto do perfil de usuário
 
 ##### Problemas 
 
 3 4 5 - Redundância na frase da história de usuário: "Eu, como um usuário, desejo alterar a foto de usuário, para atualizar a foto do perfil de usuário".</br>
 &emsp;&emsp;&emsp;
-Redundância no critério de aceitação "Deve ter conter um botão próximo a foto do usuário para poder alterar a foto"
+Redundância no critério de aceitação "Deve ter conter um botão próximo a foto do usuário para poder alterar a foto".
 
 ##### Possíveis soluções
  
 3 4 5 - Mudar para "Eu, como um usuário, desejo alterar a foto de perfil,para atualiza-la".</br>
-&emsp;&emsp;&emsp;Mudar para "Deve ter conter um botão próximo a foto do usuário para poder altera-la"
+&emsp;&emsp;&emsp;Mudar para "Deve ter conter um botão próximo a foto do usuário para poder altera-la".
 
-### US04:Realizar Logout
+#### US04:Realizar Logout
 ##### Problemas 
-1 - Não é dito de onde é apagado os registros do usuário, se na base de dados do CDT ou se no aparelho onde se está utilizando o aplicativo</br>
-5 - Uso expressão "registro de usuário" pode não ser claro para o usuário</br>
-11 - Fazer o logout na aplicação não necessariamente apaga os registros do usuário
+1 - Não é dito de onde é apagado os registros do usuário, se na base de dados do CDT ou se no aparelho onde se está utilizando o aplicativo.</br>
+5 - Uso expressão "registro de usuário" pode não ser claro para o usuário.</br>
+11 - Fazer o logout na aplicação não necessariamente apaga os registros do usuário.
 ##### Possíveis soluções
 Devido a incoerência da história de usuário, não será apontado soluções para os outros problemas.</br>
-11 - Mudar para " Eu, como um usuário, desejo sair da minha conta no CDT, para impedir que outras pessoas acessem ela em meu aparelho"
+11 - Mudar para " Eu, como um usuário, desejo sair da minha conta no CDT, para impedir que outras pessoas acessem ela em meu aparelho".
 
-### US05: Acessar mensagens do sistema
+#### US05: Acessar mensagens do sistema
 ##### Problemas 
 3 - As expressões "acessar" e "ter acesso" levam a redundância.
 ##### Possíveis soluções
-3 - Mudar para "Eu, como usuário, desejo visualizar as mensagens do sistema, para que eu consiga ter acesso as notificações"
+3 - Mudar para "Eu, como usuário, desejo visualizar as mensagens do sistema, para que eu consiga ter acesso as notificações".
 
-### US07: Acessar o termo de responsabilidade
+#### US07: Acessar o termo de responsabilidade
 ##### Problemas 
-3 - Uso repetido da palavra "responsabilidade"</br>
-4 - Informação "sabendo que o mesmo pode me punir por descumprir as regras impostas" desnecessária</br>
+3 - Uso repetido da palavra "responsabilidade".</br>
+4 - Informação "sabendo que o mesmo pode me punir por descumprir as regras impostas" desnecessária.</br>
 
 ##### Possíveis soluções
-3 4 - Mudar para "Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da mesma"
+3 4 - Mudar para "Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da mesma".
 
-### US09: Acessar Habilitação 
+#### US09: Acessar Habilitação 
 ##### Problemas 
-3 5 - Redundância na frase da história de usuário
+3 5 - Redundância na frase da história de usuário.
 ##### Possíveis soluções
-3 5 - Mudar para "Eu, como um usuário, desejo ter acesso à habilitação, para visualizar ela dentro do aplicativo"
+3 5 - Mudar para "Eu, como um usuário, desejo ter acesso à habilitação, para visualizar ela dentro do aplicativo".
 
-### US11: Exportar a CNH digital
+#### US11: Exportar a CNH digital
 ##### Problemas 
-9 - Deveria ter um critério de aceitação anterior as que existem
+9 - Deveria ter um critério de aceitação anterior as que existem.
 
 ##### Possíveis soluções
-9 Adicionar esse critério no início "Deve conter um botão na tela inicial para acessar a área de habilitação"
+9 Adicionar esse critério no início "Deve conter um botão na tela inicial para acessar a área de habilitação".
 
-### US13: Acessar histórico da CNH
+#### US13: Acessar histórico da CNH
 
-#### Problemas
-3 - A expressão "da minha CNH" repete duas vezes, causando redundância</br>
-5 - A expressão "ter dados detalhados da minha CNH" pode não ser agradável ao público pela falta de artigos definidos</br>
-8 - Erro gramatical na história de usuário: "[...]para que eu conisga ter dados[..]"</br>
-&emsp;&emsp;&emsp;Erro gramatical no critério de aceitação: "Deve ser possível exibbir a CNH selecionada"
+##### Problemas
+3 - A expressão "da minha CNH" repete duas vezes, causando redundância.</br>
+5 - A expressão "ter dados detalhados da minha CNH" pode não ser agradável ao público pela falta de artigos definidos.</br>
+8 - Erro gramatical na história de usuário: "[...]para que eu conisga ter dados[..]";</br>
+&emsp;Erro gramatical no critério de aceitação: "Deve ser possível exibbir a CNH selecionada".
 
-#### Possíveis Soluções
+##### Possíveis Soluções
 3 5 8 - Mudar para "Eu, como usuário, desejo visualizar o histórico da minha CNH, para que eu consiga ter acesso aos dados detalhados da minha CNH".</br>
 8 - Mudar para "Deve ser possível exibir a CNH selecionada".</br>
 
-### US14: Acessar CRLV dos veículos cadastrados
+#### US14: Acessar CRLV dos veículos cadastrados
 
-#### Problemas
-3 - Redundância: "acessar" e "ter acesso" na mesma frase
-#### Possíveis Soluções
- 3 - Mudar para "Eu, como usuário, desejo acessar o CRLV dos meu veículo cadastrado, para que consiga visualiza-lo dentro do sistema"
-
-
-### US16: Exportar CRLV dos veículos cadastrados
-#### Problemas
-8 - Erro ortográfico na frase "[...]para que consiga o CRLV nop formato .pdf"
-#### Possíveis Soluções
-8 - Mudar para "[...]para que consiga o CRLV no formato .pdf"
+##### Problemas
+3 - Redundância: "acessar" e "ter acesso" na mesma frase.
+##### Possíveis Soluções
+ 3 - Mudar para "Eu, como usuário, desejo acessar o CRLV dos meu veículo cadastrado, para que consiga visualiza-lo dentro do sistema".
 
 
+#### US16: Exportar CRLV dos veículos cadastrados
+##### Problemas
+8 - Erro ortográfico na frase "[...]para que consiga o CRLV nop formato .pdf".
+##### Possíveis Soluções
+8 - Mudar para "[...]para que consiga o CRLV no formato .pdf".
+
+#### US18: Consultar Recall
+##### Problemas
+8 - Erro de concordância no critério "Deve conter um botão para acessar o dados do veículo selecionado".
+
+##### Possíveis Soluções
+8 - Mudar para "Deve conter um botão para acessar os dados do veículo selecionado".
+
+
+#### US19: Indicar o principal condutor
+##### Problemas
+8 - Erro de concordância no critério "Deve conter um botão para acessar o dados do veículo selecionado".
+
+##### Possíveis Soluções
+8 - Mudar para "Deve conter um botão para acessar os dados do veículo selecionado".
+
+#### US20: Excluir o principal condutor
+##### Problemas
+8 - Erro de concordância no critério "Deve conter um botão para acessar o dados do veículo selecionado".
+
+##### Possíveis Soluções
+8 - Mudar para "Deve conter um botão para acessar os dados do veículo selecionado".
+#### US22: Recusar o principal condutor
+##### Problemas
+2 11 - A história de usuário está incoerente pelo uso do "mais", pois se o condutor recusa o convite de ser o principal condutor ele não chegou a ser o principal condutor e, portanto, nunca foi o responsável.</br>
+8 - Erro de concordância no critério "Deve conter um botão para acessar o dados do veículo selecionado".
+
+##### Possíveis Soluções
+2 11 - Mudar para "Eu, como usuário, desejo recusar um convite para ser o principal condutor de um veículo, para que eu não seja responsável pelas multas de tráfego de veículo e portar dados do veículo".</br>
+8 - Mudar para "Deve conter um botão para acessar os dados do veículo selecionado".
+
+#### US24: Parar de compartilhar o CRLV
+##### Problemas
+5 - A frase da História de Usuário não foi bem formulada.
+##### Possíveis Soluções
+5 - Mudar para " Eu, como usuário, desejo parar de compartilhar o CRLV do meu veículo com outro condutor, para ter controle de quem pode ter acesso ao CRLV do meu veículo".
+
+
+#### US26: Remover compartilhamento do CRLV
+##### Problemas
+2 11 - A história de usuário está incoerente pelo uso do "mais", pois se não foi aceito o compartilhamento do CRLV do veículo, entao ele nunca teve acesso.</br>
+##### Possíveis Soluções
+2 11 - "Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha acesso ao CRLV do veículo compartilhado".
 
 ### 3.2. Dados Percentuais
 
@@ -216,3 +257,4 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 |--|--|--|--|
 | 1.0 | 12/04/2021 | Criação do documento | Estevão Reis |
 | 2.0 | 12/04/2021 | Verificação da US01 à US16 | Estevão Reis |
+| 3.0 | 12/04/2021 | Verificação da US017 à US32 | Estevão Reis |
