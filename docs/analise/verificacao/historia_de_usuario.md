@@ -4,7 +4,7 @@
 
 ## 1. Contexto
  - Técnica: Inspeção
- - Autores: Estevao Reis e Yan Andrade
+ - Autores: Estevão Reis e Yan Andrade
  - Revisores: Sérgio Cipriano e Emily Dias
  - Inspetores: Estevão Reis
 
@@ -84,7 +84,7 @@ Redundância no critério de aceitação "Deve ter conter um botão próximo a f
 
 ##### Possíveis soluções
  
-3 4 5 - Mudar para "Eu, como um usuário, desejo alterar a foto de perfil,para atualiza-la".</br>
+3 4 5 - Mudar para "Eu, como um usuário, desejo alterar a foto de perfil,para atualizá-la".</br>
 &emsp;&emsp;&emsp;Mudar para "Deve ter conter um botão próximo a foto do usuário para poder altera-la".
 
 #### US04:Realizar Logout
@@ -118,7 +118,7 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 
 #### US11: Exportar a CNH digital
 ##### Problemas 
-9 - Deveria ter um critério de aceitação anterior as que existem.
+9 - Deveria ter um critério de aceitação anterior às que existem.
 
 ##### Possíveis soluções
 9 Adicionar esse critério no início "Deve conter um botão na tela inicial para acessar a área de habilitação".
@@ -140,7 +140,7 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 ##### Problemas
 3 - Redundância: "acessar" e "ter acesso" na mesma frase.
 ##### Possíveis Soluções
- 3 - Mudar para "Eu, como usuário, desejo acessar o CRLV dos meu veículo cadastrado, para que consiga visualiza-lo dentro do sistema".
+ 3 - Mudar para "Eu, como usuário, desejo acessar o CRLV do meu veículo cadastrado, para que consiga visualizá-lo dentro do sistema".
 
 
 #### US16: Exportar CRLV dos veículos cadastrados
@@ -188,7 +188,7 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 
 #### US26: Remover compartilhamento do CRLV
 ##### Problemas
-2 11 - A história de usuário está incoerente pelo uso do "mais", pois se não foi aceito o compartilhamento do CRLV do veículo, entao ele nunca teve acesso.</br>
+2 11 - A história de usuário está incoerente pelo uso do "mais", pois se não foi aceito o compartilhamento do CRLV do veículo, então ele nunca teve acesso.</br>
 ##### Possíveis Soluções
 2 11 - "Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha acesso ao CRLV do veículo compartilhado".
 
@@ -199,30 +199,30 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 |----|-|
 |US01|100%|
 |US02|100%|
-|US03|100%|
-|US04|100%|
-|US05|100%|
+|US03|72,73%|
+|US04|72,73%|
+|US05|90,91%|
 |US06|100%|
-|US07|100%|
+|US07|81,82%|
 |US08|100%|
-|US09|100%|
+|US09|81,82%|
 |US10|100%|
-|US11|100%|
+|US11|90,91%|
 |US12|100%|
-|US13|100%|
-|US14|100%|
+|US13|72,73%|
+|US14|90,91%|
 |US15|100%|
-|US16|100%|
+|US16|90,91%|
 |US17|100%|
-|US18|100%|
-|US19|100%|
-|US20|100%|
+|US18|90,91%|
+|US19|90,91%|
+|US20|90,91%|
 |US21|100%|
-|US22|100%|
+|US22|72,73%|
 |US23|100%|
-|US24|100%|
+|US24|90,91%|
 |US25|100%|
-|US26|100%|
+|US26|81,82%|
 |US27|100%|
 |US28|100%|
 |US29|100%|
@@ -230,23 +230,23 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 |US31|100%|
 |US32|100%|
 
-### 3.2.2.Perguntas
+#### 3.2.2.Perguntas
 | Número | Pergunta |Porcentagem de Sucesso|
 |:--:|--|---|
-| 1 | Todas as informações necessárias estão presentes? |100%|
-| 2 | As informações são consistentes? |100%|
-| 3 | As informações são concisas? |100%|
-| 4 | Há apenas informações necessárias? | 100%|
-| 5 | Uso de linguagem compreensível e agradável ao público? |100%|
+| 1 | Todas as informações necessárias estão presentes? |96,88%|
+| 2 | As informações são consistentes? |93,75%|
+| 3 | As informações são concisas? |81,25%|
+| 4 | Há apenas informações necessárias? | 93,75%|
+| 5 | Uso de linguagem compreensível e agradável ao público? |84,38%|
 | 6 | Possui rastreabilidade? |100%|
 | 7 | O épico associado é coerente? |100%|
-| 8 | A ortografia está correta? |100%|
-| 9 | Possui critérios de aceitação coerentes? |100%|
+| 8 | A ortografia está correta? |81,25%|
+| 9 | Possui critérios de aceitação coerentes? |96,88%|
 | 10 | Possui ator coerente? |100%|
 | 11 | A história de usuário é coerente? | 100%|
 
 ## 4. Acompanhamento
-&emsp; &emsp; Ainda não foi feito as correções necessárias.
+&emsp; &emsp; Ainda não foram feitas as correções necessárias.
 
 ## 5. Bibliografia
 
@@ -258,3 +258,5 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 | 1.0 | 12/04/2021 | Criação do documento | Estevão Reis |
 | 2.0 | 12/04/2021 | Verificação da US01 à US16 | Estevão Reis |
 | 3.0 | 12/04/2021 | Verificação da US017 à US32 | Estevão Reis |
+| 4.0 | 12/04/2011 | Inserção dos Dados percentuais | Estevão Reis|
+| 4.1 | 12/04/2011 | Correção de erros ortográficos | Estevão Reis|
