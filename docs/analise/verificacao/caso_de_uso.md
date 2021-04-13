@@ -1,9 +1,8 @@
 # Verificação - Casos de uso
 
-&emsp; &emsp;Este documento visa verificar os casos de uso em busca de possíveis erros a serem corrigidos no artefato.
-&emsp; &emsp;A estratégia escolhida para fazer essa verificação a de inspeção por checklist, pela sua simplicidade e objetividade.
+Este documento visa verificar os casos de uso em busca de possíveis erros a serem corrigidos no artefato.<br/>A estratégia escolhida para fazer essa verificação a de inspeção por checklist, pela sua simplicidade e objetividade.
 
-## Contexto
+## 1. Contexto
  - Técnica: Inspeção
  - Autores: Estevão Reis e Emily Dias
  - Revisores: Sérgio Cipriano e Daniel Porto
@@ -11,16 +10,16 @@
 
  O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/caso_de_uso/)
 
-## Checklist
+## 2. Checklist
 
-### Legenda
+### 2.1 Legenda
 
 |Símbolo|Descrição|
 |:-|:-|
 |OK|Contém|
 |X|Não contém|
  
-### Resultados
+### 2.2 Resultados
 
 |Itens|UC01 - Fazer o login|UC02 - Cadastrar CNH|UC03 - Acessar a CNH|UC04 - Acessar Histórico da CNH|UC05 - Exportar CNH
 |
@@ -38,19 +37,19 @@
 |11. Possui rastreabilidade?|OK|OK|OK|OK|OK|
 |**Porcentagem de sucesso**|**92%**|**83%**|**92%**|**92%**|**83%**|
 
-## Conclusão
+## 3. Conclusão
 
 A verificação por checklist mostra que o documento, apesar de bem satisfatório, ainda possui pequenas falhas relacionadas principalmente ao diagrama utilizado, que não ficou muito bem visualmente dentro do documento.
 
-## Bibliografia
+## 4. Bibliografia
 
 - [Página de verificação dos Casos de Uso do grupo Mia Ajuda - 2020.1](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/analysis/verification/verificationUsecase)
 
 - [Página de verificação dos Casos de Uso do grupo IFut - 2020.1](https://requisitos-de-software.github.io/2020.1-iFut/analise/verificacoes/mod_casosuso/)
 
 
-## Versionamento
+## 5. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/04/2021 | Criação do documento | Enzo Gabriel |
-| 1.1 | 13/04/2021 | Complementando documento | Enzo Gabriel |
+| 1.1 | 13/04/2021 | Atualização do documento | Enzo Gabriel |
