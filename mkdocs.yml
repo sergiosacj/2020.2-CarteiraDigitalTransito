@@ -42,6 +42,7 @@ nav:
         - Léxicos: analise/verificacao/lexico.md
         - NFR Framework: analise/verificacao/nfr_framework.md
         - Backlog de Produto: analise/verificacao/backlog.md
+        - First Things First: analise/verificacao/first_things_first.md
     - Validação:
         - Informal: analise/validacao/informal.md
         - Protótipo: analise/validacao/prototipo.md
