@@ -1,8 +1,13 @@
 # Verificação - Casos de uso
 
-Este documento visa verificar os casos de uso em busca de possíveis erros a serem corrigidos no artefato.<br/>A estratégia escolhida para fazer essa verificação a de inspeção por checklist, pela sua simplicidade e objetividade.
+## 1. Introdução
+Este documento visa verificar os casos de uso em busca de possíveis erros a serem corrigidos no artefato. Para isso, deve-se considerar uma análise feita com regras bem definidas e de fácil entendimento.
 
-## 1. Contexto
+### 1.1 Metodologia
+
+A estratégia escolhida para fazer essa verificação foi a de inspeção por checklist, pela sua simplicidade, objetividade e eficácia para a verificação.
+
+## 2. Contexto
  - Técnica: Inspeção
  - Autores: Estevão Reis e Emily Dias
  - Revisores: Sérgio Cipriano e Daniel Porto
@@ -10,16 +15,16 @@ Este documento visa verificar os casos de uso em busca de possíveis erros a ser
 
  O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/caso_de_uso/)
 
-## 2. Checklist
+## 3. Checklist
 
-### 2.1 Legenda
+### 3.1 Legenda
 
 |Símbolo|Descrição|
 |:-|:-|
 |OK|Contém|
 |X|Não contém|
  
-### 2.2 Resultados
+### 3.2 Resultados
 
 |Itens|UC01 - Fazer o login|UC02 - Cadastrar CNH|UC03 - Acessar a CNH|UC04 - Acessar Histórico da CNH|UC05 - Exportar CNH
 |
@@ -37,18 +42,18 @@ Este documento visa verificar os casos de uso em busca de possíveis erros a ser
 |11. Possui rastreabilidade?|OK|OK|OK|OK|OK|
 |**Porcentagem de sucesso**|**92%**|**83%**|**92%**|**92%**|**83%**|
 
-## 3. Conclusão
+## 4. Conclusão
 
 A verificação por checklist mostra que o documento, apesar de bem satisfatório, ainda possui pequenas falhas relacionadas principalmente ao diagrama utilizado, que não ficou muito bem visualmente dentro do documento.
 
-## 4. Bibliografia
+## 5. Bibliografia
 
 - [Página de verificação dos Casos de Uso do grupo Mia Ajuda - 2020.1](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/analysis/verification/verificationUsecase)
 
 - [Página de verificação dos Casos de Uso do grupo IFut - 2020.1](https://requisitos-de-software.github.io/2020.1-iFut/analise/verificacoes/mod_casosuso/)
 
 
-## 5. Versionamento
+## 6. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/04/2021 | Criação do documento | Enzo Gabriel |
