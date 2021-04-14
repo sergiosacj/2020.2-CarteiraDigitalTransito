@@ -1,16 +1,17 @@
-# Verificação - First Things First
+# 1. Verificação - First Things First
 
-## Contexto
+## 2. Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autor do documento: Yan Andrade.
+- Revisores do documento: Sérgio Cipriano e Yan Andrade
 - Inspetor: Estevão Reis.
 
 O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/priorizacao/first_thing_first/)
 
 
-## Checklist
-### Critérios 
+## 3. Checklist
+### 3.1. Critérios 
 
 |Número|Pergunta| 
 | ---- | ------ |
@@ -26,14 +27,14 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 | 10 | Os requisitos estão bem escritos? |
 | 11 | Teve boas referências?|
 
-### Legenda
+### 3.2. Legenda
 
 |Símbolo|Descrição|
 |:-|:-|
 |OK|Contém|
 |X|Não contém|
 
-### Resultados
+### 3.3. Resultados
 
 |Número|Resposta| 
 | ---- | ------ |
@@ -49,11 +50,16 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 | 10 | 0K |
 | 11 | OK |
 
-## Bibliografia
+### 3.4 Conclusão
+
+&emsp;&emsp; O documento First Things First foi verificado e não foram identificadfos erros referentes ao que está listado no checklist.
+
+## 4. Bibliografia
 
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 09 de Abril de 2021
 
-## Versionamento
+## 5. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 13/04/2021 | Criação do documento | Yan |
+| 1.1 | 14/04/2021 | Correção de pequenos erros | Yan |
