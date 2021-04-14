@@ -8,6 +8,8 @@
  - Revisores: Sérgio Cipriano e Emily Dias
  - Inspetores: Estevão Reis
 
+ O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/historia_de_usuario/)
+
 
 ## 2. Checklist
 ### 2.1.Perguntas
@@ -260,3 +262,4 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 | 3.0 | 12/04/2021 | Verificação da US017 à US32 | Estevão Reis |
 | 4.0 | 12/04/2011 | Inserção dos Dados percentuais | Estevão Reis|
 | 4.1 | 12/04/2011 | Correção de erros ortográficos | Estevão Reis|
+| 4.2 | 14/04/2011 | Inserção do link do documento verificado | Estevão Reis|

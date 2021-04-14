@@ -8,6 +8,8 @@
  - Autores: Sérgio Cipriano e Enzo Gabriel
  - Revisores: Estevão Reis e Daniel Porto
  - Inspetores: Estevão Reis
+
+ O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/backlog_do_produto/)
 ## 2. Checklist
 ### 2.1.Perguntas
 | Número | Pergunta |
@@ -187,3 +189,4 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 | 5.0 | 11/04/2021 | Correção no título, correções ortográficas em todo documento, mudança na introdução, inserção do subtópico "Perguntas" em "Checklist" e mudança do nome da coluna "Questões" para "Perguntas"| Estevão Reis|
 | 6.0 | 11/04/2021 | Inserção dos Dados percentuais | Estevão Reis|
 | 6.1 | 12/04/2011 | Correção de erros ortográficos | Estevão Reis|
+| 6.2 | 14/04/2011 | Inserção do link do documento verificado | Estevão Reis|
