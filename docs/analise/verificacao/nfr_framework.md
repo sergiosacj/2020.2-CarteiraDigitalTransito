@@ -5,8 +5,9 @@ Para a verificação do NFR foi utilizado a estratégia de verificação por che
 ## Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List
-- Autor do documento: Emily Dias.
-- Inspetor: Yan Andrade.
+- Autores do documento: Emily Dias e Daniel Porto.
+- Revisor: Yan Andrade.
+- Inspetor: Emily Dias.
 
 O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/nfr_framework/)
 
@@ -21,24 +22,24 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 
 ### Resultados
 
-|Itens|NFR Usabilidade|NFR Eficiência|NFR Confiabilidade|NFR Portabilidade|
-|:-|:-:|:-:|:-:|:-:|
-|1. Respeita as regras de metodologia?|OK|OK|OK|OK|
-|2. Softgoals autoexplicativos?|OK|OK|OK|OK|
-|3. Operadores com finalidades definidas?|OK|OK|OK|OK|
-|4. Operadores geram impactos nos softgoals?|OK|OK|OK|OK|
-|5. Operadores geram impactos em outros operadores?|OK|OK|OK|X|
-|6. SoftGoals geram impactos em outros softgoals?|OK|OK|OK|OK|
-|7. Existe ao menos um operador que tenha dependências(AND/OR) para atender o softgoal?|OK|OK|OK|OK|
-|8. Softgoals escritos como nome?|OK|OK|OK|OK|
-|9. Operadores escritos como verbos?|OK|OK|OK|OK|
-|10. Os critérios são completamente satisfatórios?|X|X|X|X|
-|11. Os critérios são parcialmente satisfatórios?|OK|OK|OK|OK|
-|12. Existência de softgoals ou operadores que não são satisfatórios?|OK|OK|OK|OK|
-|13. Possui rastreabilidade?|OK|OK|OK|OK|
-|14. Possui versionamento?|OK|OK|OK|OK|
-|15. NFR condiz com requisitos já apresentados?|OK|OK|OK|OK|
-|**Porcentagem de sucesso**|**93%**|**93%**|**93%**|**87%**|
+|Número|Itens|NFR Usabilidade|NFR Eficiência|NFR Confiabilidade|NFR Portabilidade|
+|:-|:-:|:-:|:-:|:-:|:-:|
+|1| Respeita as regras de metodologia?|OK|OK|OK|OK|
+|2| Softgoals autoexplicativos?|OK|OK|OK|OK|
+|3| Operadores com finalidades definidas?|OK|OK|OK|OK|
+|4| Operadores geram impactos nos softgoals?|OK|OK|OK|OK|
+|5| Operadores geram impactos em outros operadores?|OK|OK|OK|X|
+|6| SoftGoals geram impactos em outros softgoals?|OK|OK|OK|OK|
+|7| Existe ao menos um operador que tenha dependências(AND/OR) para atender o softgoal?|OK|OK|OK|OK|
+|8| Softgoals escritos como nome?|OK|OK|OK|OK|
+|9| Operadores escritos como verbos?|OK|OK|OK|OK|
+|10| Os critérios são completamente satisfatórios?|X|X|X|X|
+|11| Os critérios são parcialmente satisfatórios?|OK|OK|OK|OK|
+|12| Existência de softgoals ou operadores que não são satisfatórios?|OK|OK|OK|OK|
+|13| Possui rastreabilidade?|OK|OK|OK|OK|
+|14| Possui versionamento?|OK|OK|OK|OK|
+|15| NFR condiz com requisitos já apresentados?|OK|OK|OK|OK|
+||**Porcentagem de sucesso**|**93%**|**93%**|**93%**|**87%**|
 
 ## Conclusão
 
@@ -55,3 +56,4 @@ Com este documento de verificação foi detectado que o documento de NFR ficou c
 |--|--|--|--|
 | 1.0 | 10/04/2021 | Adição dos itens do documento | Emily Dias |
 | 1.1 | 10/04/2021 | Padronizando o documento | Emily Dias |
+| 1.2 | 14/04/2021 | Adicionando tópicos padrão | Emily Dias |
