@@ -26,7 +26,7 @@ O documento verficado está disponível [aqui](../../pre_rastreabilidade/rich_pi
 |5|As operações estão representadas?|OK|OK|OK|
 |6|As tabelas estão representadas?|OK|OK|OK|
 |7|As informações necessárias estão presentes?|OK|OK|OK|
-|8|As informaçẽos estão consistentes e objetivas?|OK|OK|OK|
+|8|As informações estão consistentes e objetivas?|OK|OK|OK|
 |9|A linguagem está simples e compreensível?|OK|OK|OK|
 |10|A ortografia está correta?|OK|OK|OK|
 |11|A imagem pode ser expandida?|OK|OK|OK|
