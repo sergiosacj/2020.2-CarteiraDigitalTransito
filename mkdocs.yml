@@ -42,9 +42,9 @@ nav:
         - Léxicos: analise/verificacao/lexico.md
         - NFR Framework: analise/verificacao/nfr_framework.md
         - Backlog de Produto: analise/verificacao/backlog.md
+        - MoSCoW: analise/verificacao/moscow.md
         - Historias de Usuário: analise/verificacao/historia_de_usuario.md
     - Validação:
-        - Informal: analise/validacao/informal.md
         - Protótipo: analise/validacao/prototipo.md
         - Viewpoint: analise/validacao/viewpoint.md
   - Pós rastreabilidade:
