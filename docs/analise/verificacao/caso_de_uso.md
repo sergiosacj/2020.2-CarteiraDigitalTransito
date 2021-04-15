@@ -26,8 +26,7 @@ A estratégia escolhida para fazer essa verificação foi a de inspeção por ch
  
 ### 3.2 Resultados
 
-|Itens|UC01 - Fazer o login|UC02 - Cadastrar CNH|UC03 - Acessar a CNH|UC04 - Acessar Histórico da CNH|UC05 - Exportar CNH
-|
+|Itens|UC01 - Fazer o login|UC02 - Cadastrar CNH|UC03 - Acessar a CNH|UC04 - Acessar Histórico da CNH|UC05 - Exportar CNH|
 |:-|:-:|:-:|:-:|:-:|:-:|
 |1. A descrição de caso de uso está correta?|OK|OK|OK|OK|OK|
 |2. O ator principal está correto?|OK|OK|OK|OK|OK|
