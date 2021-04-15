@@ -11,46 +11,23 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 
 
 ## 3. Checklist
-### 3.1. Critérios 
+### 3.1. Resultados
 
-|Número|Pergunta| 
-| ---- | ------ |
-| 1 | Todas as informações necessárias estão presentes? |
-| 2 | As informações são consistentes? |
-| 3 | As informações são concisas? |
-| 4 | Há apenas informações necessárias? | 
-| 5 | Uso de linguagem compreensível e agradável ao público? |
-| 6	| A metodologia foi explicada?|
-| 7	| A metodologia foi aplicada de forma correta?|	
-| 8 | A priorização está correta?|		
-| 9 | A ortografia está correta?|
-| 10 | Os requisitos estão bem escritos? |
-| 11 | Teve boas referências?|
+|Número|Pergunta|Resposta| 
+| ---- | ------ | ------ |
+| 1 | Todas as informações necessárias estão presentes? | OK |
+| 2 |  As informações são consistentes? | OK |
+| 3 | As informações são concisas? | OK |
+| 4 | Há apenas informações necessárias? | OK | 
+| 5 | Uso de linguagem compreensível e agradável ao público? | OK |
+| 6	| A metodologia foi explicada? |OK |
+| 7	| A metodologia foi aplicada de forma correta? | OK |	
+| 8 | A priorização está correta? |	OK |		
+| 9 | A ortografia está correta? | OK |
+| 10 | Os requisitos estão bem escritos? | 0K |
+| 11 |  Teve boas referências?| OK |
 
-### 3.2. Legenda
-
-|Símbolo|Descrição|
-|:-|:-|
-|OK|Contém|
-|X|Não contém|
-
-### 3.3. Resultados
-
-|Número|Resposta| 
-| ---- | ------ |
-| 1 | OK |
-| 2 | OK |
-| 3 | OK |
-| 4 | OK | 
-| 5 | OK |
-| 6	| OK |
-| 7	| OK |	
-| 8 | OK |		
-| 9 | OK |
-| 10 | 0K |
-| 11 | OK |
-
-### 3.4 Conclusão
+### 3.2 Conclusão
 
 &emsp;&emsp; O documento First Things First foi verificado e não foram identificadfos erros referentes ao que está listado no checklist.
 
@@ -63,3 +40,4 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 |--|--|--|--|
 | 1.0 | 13/04/2021 | Criação do documento | Yan |
 | 1.1 | 14/04/2021 | Correção de pequenos erros | Yan |
+| 1.2 | 15/04/2021 | Correção de pequenos erros | Yan |
