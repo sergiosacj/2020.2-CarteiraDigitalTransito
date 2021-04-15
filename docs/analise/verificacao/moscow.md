@@ -4,7 +4,7 @@
 
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autor do documento: Emily Dias.
-- Revisore: Daniel Porto.
+- Revisor: Daniel Porto.
 - Inspetor: Emily Dias.
 
 O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/priorizacao/moscow/)
