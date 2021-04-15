@@ -4,6 +4,7 @@
 
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autor do documento: Yan Andrade.
+- Revisores: Daniele Porto e Emily Dias.
 - Inspetor: Emily Dias.
 
 O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/lexico/)
@@ -62,4 +63,5 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-| 1.0 | 13/04/2021 | Criação do documento | Yan |
+| 1.0 | 13/04/2021 | Adição de tópicos no documento | Yan |
+| 1.1 | 15/04/2021 | Correção de pequenos erros | Yan |
