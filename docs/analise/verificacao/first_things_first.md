@@ -3,9 +3,9 @@
 ## 2. Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List
-- Autor do documento: Yan Andrade.
-- Revisores do documento: Sérgio Cipriano e Yan Andrade
-- Inspetor: Estevão Reis.
+- Autores do documento: Daniel Porto, Estevão Reis e Sérgio Cipriano.
+- Revisores do documento: Sérgio Cipriano e Yan Andrade.
+- Inspetor: Yan Andrade.
 
 O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/priorizacao/first_thing_first/)
 
