@@ -82,7 +82,7 @@ O objetivo básico de uma inspeção é verificar se o documento está de acordo
 
 ## 4. Conclusão
 
-A inspeção com chicklist mostra que o documento, apesar de bem satisfatório, ainda deixou a desejar quanto a listagem de abreviações e acrônimos utilizados dentro dos cenários.
+A inspeção com checklist mostra que o documento, apesar de bem satisfatório, ainda deixou a desejar quanto a listagem de abreviações e acrônimos utilizados dentro dos cenários.
 
 ## 5. Bibliografia
 
