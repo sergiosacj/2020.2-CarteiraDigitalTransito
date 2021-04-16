@@ -44,6 +44,7 @@ nav:
         - Backlog de Produto: analise/verificacao/backlog.md
         - MoSCoW: analise/verificacao/moscow.md
         - Historias de Usuário: analise/verificacao/historia_de_usuario.md
+        - First Things First: analise/verificacao/first_things_first.md
     - Validação:
         - Protótipo: analise/validacao/prototipo.md
         - Viewpoint: analise/validacao/viewpoint.md
