@@ -7,7 +7,7 @@
 ## 2.Metodologia
 
 &emsp;&emsp; Para criarmos as histórias de usuário nos baseamos nos cenários da aplicação, criando as histórias a partir deles.
-A organização das histórias ficaram da seguinte maneira:utilizamos a sigla 'EP' significando que será abordado os casos de uso de um dado épico seguido do número do épico e logo após o nome do épico. Exemplo:
+A organização das histórias ficou da seguinte maneira:utilizamos a sigla 'EP' significando que será abordado os casos de uso de um dado épico seguido do número do épico e logo após o nome do épico. Exemplo:
 
 EP01: Conta de Usuário
 
@@ -47,11 +47,11 @@ Critérios de aceitação:
 
 #### **US03:Alterar foto do perfil de usuário**
 
-&emsp;&emsp; Eu, como um usuário, desejo alterar a foto de usuário, para atualizar a foto do perfil de usuário
+&emsp;&emsp; Eu, como um usuário, desejo alterar a foto de perfil,para atualizá-la
 
 Critérios de aceitação:
 
-- Deve ter conter um botão próximo a foto do usuário para poder alterar a foto
+- Deve ter conter um botão próximo a foto do usuário para poder alterá-la
 - Deve apresentar as opções de onde se deve buscar a imagem desejada
 - Deve realizar conexão com o CDT
 - Deve conter um botão para salvar as alterações
@@ -59,7 +59,7 @@ Critérios de aceitação:
 
 #### **US04:Realizar Logout**
 
-&emsp;&emsp; Eu, como um usuário, desejo sair da minha conta no CDT, para que eu consiga apagar meus registros de usuário
+&emsp;&emsp; Eu, como um usuário, desejo sair da minha conta no CDT, para impedir que outras pessoas acessem ela em meu aparelho
 
 Critérios de aceitação:
 
@@ -69,11 +69,11 @@ Critérios de aceitação:
 
 #### **US05: Acessar mensagens do sistema**
 
-&emsp;&emsp; Eu, como usuário, desejo acessar as mensagens do sistema, para que eu consiga ter acesso as notificações do sistema
+&emsp;&emsp; Eu, como usuário, desejo visualizar as mensagens do sistema, para que eu consiga ter acesso às notificações
 
 Critérios de aceitação:
 
-- Deve conter um campo destinado somente as mensagens do sistema
+- Deve conter um campo destinado somente às mensagens do sistema
 - Deve ser exibidas as últimas mensagens recebidas
 
 #### **US06: Acessar a política de privacidade**
@@ -87,7 +87,7 @@ Critérios de aceitação:
 
 #### **US07: Acessar o termo de responsabilidade**
 
-&emsp;&emsp; Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da resposabilidade em utilizar o sistema, sabendo que o mesmo pode me punir por descumprir as regras impostas
+&emsp;&emsp; Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da mesma
 
 Critérios de aceitação:
 
@@ -109,7 +109,7 @@ Critérios de aceitação:
 
 #### **US09: Acessar Habilitação**
 
-&emsp;&emsp; Eu, como um usuário, desejo acessar a habilitação, para ter acesso a ela dentro do aplicativo
+&emsp;&emsp; Eu, como um usuário, desejo ter acesso à habilitação, para visualizar ela dentro do aplicativo
 
 Critérios de aceitação:
 
@@ -135,6 +135,7 @@ Critérios de aceitação:
 
 Critérios de aceitação:
 
+- Deve conter um botão na tela inicial para acessar a área de habilitação
 - Deve conter um botão para exportar a CNH
 - Deve possuir um campo para validar a chave de acesso
 - Deve exibir a CNH no formato .pdf no local de importação
@@ -152,21 +153,21 @@ Critérios de aceitação:
 
 #### **US13: Acessar histórico da CNH**
 
-&emsp;&emsp; Eu, como usuário, desejo acessar o histórico da minha CNH, para que eu conisga ter dados detalhados da minha CNH
+&emsp;&emsp; Eu, como usuário, desejo visualizar o histórico da minha CNH, para que eu consiga ter acesso aos dados detalhados da minha CNH
 
 Critérios de aceitação:
 
 - Deve conter um botão na tela inicial para acessar a área de habilitação
 - Deve conter um botão para acessar o histórico da CNH
-- Deve ser exibidas todas as CNH's
+- Deve ser exibidas todas as CNHs
 - Deve ser possível selecionar a CNH a ser exibida/consultada
-- Deve ser possível exibbir a CNH selecionada
+- Deve ser possível exibir a CNH selecionada
 
 ### EP03: Veículos
 
 #### **US14: Acessar CRLV dos veículos cadastrados**
 
-&emsp;&emsp; Eu, como usuário, desejo acessar o CRLV dos meu veículo cadastrado, para que consiga ter acesso ao CRLV dentro do sistema
+&emsp;&emsp; Eu, como usuário, desejo acessar o CRLV do meu veículo cadastrado, para que consiga visualizá-lo dentro do sistema
 
 Critérios de aceitação:
 
@@ -193,7 +194,7 @@ Critérios de aceitação:
 
 #### **US16: Exportar CRLV dos veículos cadastrados**
 
-&emsp;&emsp; Eu, como usuário, desejo exportar o CRLV do meu veículo cadastrado, para que consiga o CRLV nop formato .pdf
+&emsp;&emsp; Eu, como usuário, desejo exportar o CRLV do meu veículo cadastrado, para que consiga o CRLV no formato .pdf
 
 Critérios de aceitação:
 
@@ -227,7 +228,7 @@ Critérios de aceitação:
 - Deve conter um botão na tela inicial para acessar a área de veículos
 - Deve conter um botão para acessar os veículos cadastrados
 - Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o dados do veículo selecionado
+- Deve conter um botão para acessar os dados do veículo selecionado
 - Deve conter um botão para consultar o recall
 - Deve apresentar os detalhes do recall do veículo selecionado
 
@@ -240,7 +241,7 @@ Critérios de aceitação:
 - Deve conter um botão na tela inicial para acessar a área de veículos
 - Deve conter um botão para acessar os veículos cadastrados
 - Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o dados do veículo selecionado
+- Deve conter um botão para acessar os dados do veículo selecionado
 - Deve conter um botão para consultar o principal condutor
 - Deve conter um botão para indicar o principal condutor
 - Deve conter um campo para inserir o CPF do principal condutor
@@ -256,7 +257,7 @@ Critérios de aceitação:
 - Deve conter um botão na tela inicial para acessar a área de veículos
 - Deve conter um botão para acessar os veículos cadastrados
 - Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o dados do veículo selecionado
+- Deve conter um botão para acessar os dados do veículo selecionado
 - Deve conter um botão para consultar o principal condutor
 - Deve conter um botão para remover o principal condutor
 - Deve conter um botão para confirmar a remoção do principal condutor
@@ -273,14 +274,14 @@ Critérios de aceitação:
 
 #### **US22: Recusar o principal condutor** 
 
-&emsp;&emsp; Eu, como usuário, desejo recusar um convite para ser o principal condutor de um veículo, para que eu não mais seja responsável pelas multas de tráfego de veículo e portar dados do veículo
+&emsp;&emsp; Eu, como usuário, desejo recusar um convite para ser o principal condutor de um veículo, para que eu não seja responsável pelas multas de tráfego de veículo e portar dados do veículo
 
 Critérios de aceitação:
 
 - Deve conter um botão na tela inicial para acessar a área de veículos
 - Deve conter um botão para acessar os veículos cadastrados
 - Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o dados do veículo selecionado
+- Deve conter um botão para acessar os dados do veículo selecionado
 - Deve conter um botão de recusar o convite de principal condutor do veículo selecionado 
 - Deve conter um botão para confirmar recusar ser o principal condutor
 
@@ -301,7 +302,7 @@ Critérios de aceitação:
 
 #### **US24: Parar de compartilhar o CRLV** 
 
-&emsp;&emsp; Eu, como usuário, desejo parar de compartilhar o CRLV do meu veículo com outro condutor, para que eu tenha controle de quem eu consigo compartilhar o CRLV
+&emsp;&emsp; Eu, como usuário, desejo parar de compartilhar o CRLV do meu veículo com outro condutor, para ter controle de quem pode ter acesso ao CRLV do meu veículo
 
 Critérios de aceitação:
 
@@ -324,7 +325,7 @@ Critérios de aceitação:
 
 #### **US26: Remover compartilhamento do CRLV**
 
-&emsp;&emsp; Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha mais o CRLV do veículo compartilhado
+&emsp;&emsp; Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha acesso ao CRLV do veículo compartilhado
 
 Critérios de aceitação:
 
@@ -415,12 +416,13 @@ Critérios de aceitação:
 
 ## Versionamento
 
-| Versão | Data       | Modificação                                                                               |       Autor      |
-| ------ | ---------- | ----------------------------------------------------------------------------------------- | ---------------- |
-|  0.1   | 25/03/2021 | Criação dos tópicos do documento e inserção da Introdução                                 |  Estevão Reis    |
-|  1.0   | 26/03/2021 | Criação de 6 histórias de usuário                                                         |  Estevão e Yan   |
-|  1.1   | 26/03/2021 | Descrição da metodologia utilizada                                                        |  Estevão Reis    |
-|  2.0   | 28/03/2021 | Criação das histórias de usuário referente as Infrações e Educação                        |  Estevão Reis    |
-|  3.0   | 29/03/2021 | Criação de novas histórias de usuário referente a Veículos, Habilitação e Conta de Usuário|      Yan         |
-|  3.1   | 30/03/2021 | Correções de Erros Ortográficos e versionamento                                           |  Estevao Reis    |
-|  3.2   | 30/03/2021 | Ajustando a formatação e corrigindo na citação                                            |  Sérgio Cipriano |
+| Versão | Data       | Modificação                                                                                                |       Autor      |
+| ------ | ---------- | ---------------------------------------------------------------------------------------------------------- | ---------------- |
+|  0.1   | 25/03/2021 | Criação dos tópicos do documento e inserção da Introdução                                                  |  Estevão Reis    |
+|  1.0   | 26/03/2021 | Criação de 6 histórias de usuário                                                                          |  Estevão e Yan   |
+|  1.1   | 26/03/2021 | Descrição da metodologia utilizada                                                                         |  Estevão Reis    |
+|  2.0   | 28/03/2021 | Criação das histórias de usuário referente as Infrações e Educação                                         |  Estevão Reis    |
+|  3.0   | 29/03/2021 | Criação de novas histórias de usuário referente a Veículos, Habilitação e Conta de Usuário                 |      Yan         |
+|  3.1   | 30/03/2021 | Correções de Erros Ortográficos e versionamento                                                            |  Estevão Reis    |
+|  3.2   | 30/03/2021 | Ajustando a formatação e corrigindo na citação                                                             |  Sérgio Cipriano |
+|  4.0   | 22/04/2021 | Correções de erros de ortografia, concordância, reformulação de histórias de usuário e adição de critérios |  Estevão Reis    |
