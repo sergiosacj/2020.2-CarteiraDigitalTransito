@@ -6,7 +6,7 @@
 
 ## Metodologia
 
-&emsp;&emsp; Nessa prática de priorização, contruímos uma tabela de forma que equilibrou os posionamentos do cliente e do desenvolvedor. Para isso, seguimos os seguintes passos:
+&emsp;&emsp; Nessa prática de priorização, construímos uma tabela de forma que equilibrou os posionamentos do cliente e do desenvolvedor. Para isso, seguimos os seguintes passos:
 
 - __Passo 1:__ Listagem de todos os requisitos, retirando aqueles dependentes de outro(s) requisito(s).
 - __Passo 2:__ Estimativa do benefício relativo que cada funcionalidade fornece ao usuário final e ao cliente (classificada de 1 à 9, sendo 1 menos significativo e 9 mais significativo).

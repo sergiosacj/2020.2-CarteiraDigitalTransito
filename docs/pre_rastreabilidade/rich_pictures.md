@@ -2,7 +2,13 @@
 
 &emsp;&emsp; O Rich Picture é uma forma de representar o sistema e suas interações por meio de diagramas gráficos. É uma ferramenta que cabe muito bem em momentos iniciais ou de revisões do projeto fornecendo um modelo mental preliminar.
 
+## Metodologia
+&emsp;&emsp; A metodologia Soft Systems Methodology (SSM), que é de onde os rich pictures fazem parte foi proposta por Checkland (1999) apud Bernardo et al. (2008). Este método é utilizado para analisar problemas complexos de uma perspectiva de sistema, onde se observa os problemas e suas soluções correspondentes.<br>
+&emsp;&emsp; Para o rich picture foi feito a divisão que cada membro faria um modelo desenhado dos diagramas em algum papel, com isto foi escolhido a rich picture com mais detalhes e mais correta, e por fim foi feito a evolução do sistema para obter a versão final do rich picture.
+
 ## Diagrama de Partida
+
+&emsp;&emsp;Para a criação dos diagramas utilizamos a ferramenta LucidChart
 
 <img src="../../assets/rich_pictures/diagrama_de_partida.png">
 <center>Figura 1: Diagrama de Partida.</center>
@@ -43,7 +49,8 @@
 ## Referências Bibliográficas
 
 > - Rich Pictures. BetterEvaluation. Disponível em: https://www.betterevaluation.org/en/evaluation-options/richpictures, acesso em: 17 de fev. de 2021;
-  - The Rich Picture: A Tool forReasoning About Work Context. Andrew Monk and Steve Howard. Disponível em: https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf, acesso em: 17 de fev. de 2021.
+>  - The Rich Picture: A Tool forReasoning About Work Context. Andrew Monk and Steve Howard. Disponível em: https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf, acesso em: 17 de fev. de 2021.
+> - 
 
 ## Versionamento
 |Data|Versão|Descrição|Autor|
@@ -54,5 +61,6 @@
 |16/02/2021|0.4|Criação da rich picture completa da aplicação (aprimorada)|Daniel Porto|
 |17/02/2021|1.0|Criação do documento, adição da introdução e dos Rich Pictures|Daniel Porto|
 |17/02/2021|1.1|Correções de erros de digitação|Daniel Porto|
-|19/02/2021|1.2|Adiconando legenda nas imagens|Sérgio Cipriano|
-|11/03/2021|2.0|Adiconando esboço de rich pictures|Sérgio Cipriano|
+|19/02/2021|1.2|Adicionando legenda nas imagens|Sérgio Cipriano|
+|11/03/2021|2.0|Adicionando esboço de rich pictures|Sérgio Cipriano|
+|23/04/2021|2.0|Adição da metodologia|Emily Dias|

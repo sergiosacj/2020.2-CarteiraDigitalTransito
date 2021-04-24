@@ -28,12 +28,10 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 |3. O fluxo foi seguido de forma correta?|OK|
 |4. O texto é claro?|OK|
 |5. Os requisitos estão bem escritos?|OK|
-|6. Todos os termos importantes possuem léxicos?|X|
-|7. Os léxicos estão linkados?|X|
-|8. Existem erros de digitação?|X|
-|9. Teve boas referências?|OK|
-|10. Teve versionamento?|OK|
-|11. Metodologia de desenvolvimento descrita|X|
+|6. Existem erros de digitação?|X|
+|7. Teve boas referências?|OK|
+|8. Teve versionamento?|OK|
+|9. Metodologia de desenvolvimento descrita|X|
 
 ## Conclusão
 
@@ -51,3 +49,4 @@ De acordo com a verificação, o documento precisa estar mais alinhado com os l�
 | :----: | ---------- | -------------------- | ---------- |
 |  0.1	 | 10/04/2021  | Criação do documento | Emily Dias |
 |  1.0	 | 10/04/2021  | Adição dos itens do documento | Emily Dias |
+|  1.1	 | 23/04/2021  | Remoção de 2 itens | Emily Dias |

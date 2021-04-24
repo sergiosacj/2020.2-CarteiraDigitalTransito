@@ -3,7 +3,7 @@
 ## Introdução
 
 &emsp;&emsp;Inicialmente proposto em 1992 e desenvolvido por Dr. Lawrence Chung, em 1999. “O NFR Framework é uma abordagem orientada a processos, onde os requisitos não-funcionais são explicitamente representados como metas a serem obtidas” [CHUNG, 1995].<br>
-&emsp;&emsp;Estão relacionados com o comportamento dum sistema e não com as suas funcionalidades – “descrevem como o sistema faz e não o que faz” [CHUNG].<br>
+&emsp;&emsp;Estão relacionados com o comportamento dum sistema e não com as suas funcionalidades, pois descreve como o sistema funciona, não como o sistema faz.<br>
 &emsp;&emsp;São, normalmente, representados por gráficos SIG (Softgoal Interdependency Graph), que descrevem as dependências entre os softgoals e como eles são decompostos;
 
 ## Metodologia
@@ -65,6 +65,8 @@
 > - Requisitos Não-Funcionais. UFPE. Disponível em: https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf. Acesso em: 16 de out. de 2020.
 > - BRITO, Isabel Sofia; JANEIRO, José; GOMES, Joaquim. "NFR Framework, Engenharia de Software (2007-2008)". Disponível em: <http://jaejaneiro.orgfree.com/engsofnfr.pdf>
 > - SILVA, Reinaldo Antônio. "NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados (2019)".
+> - CHUNG, L. e NIXON, B., “Using Non-Functional Requirements to Systematically Support Change”, 1995;
+
 ## Versionamento
 
 | Versão | Data       | Modificação          | Autor      |
@@ -75,3 +77,4 @@
 |  1.2   | 30/03/2021 | Adição dos ítens de portabilidade e eficiência | Emily Dias |
 |  1.3   | 30/03/2021 | Padronização do documento e adição da metodologia e dos ítens de usabilidade e confiabilidade | Daniel Porto |
 |  1.4   | 31/03/2021 | Padronização dos ítens de portabilidade e eficiência | Emily Dias |
+|  1.5   | 23/04/2021 | Adição de referência | Emily Dias |
