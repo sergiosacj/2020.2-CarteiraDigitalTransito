@@ -8,6 +8,8 @@
 
 &emsp;&emsp; Nessa prática de priorização, construímos uma tabela de forma que equilibrou os posionamentos do cliente e do desenvolvedor. Para isso, seguimos os seguintes passos:
 
+[Link da planilha](https://unbbr-my.sharepoint.com/:x:/g/personal/180149687_aluno_unb_br/EYbUcaszohFEqgVuiObjgsUBHeqjZHPqLbHjg8SG-H90dQ?e=ldmCtO)
+
 - __Passo 1:__ Listagem de todos os requisitos, retirando aqueles dependentes de outro(s) requisito(s).
 - __Passo 2:__ Estimativa do benefício relativo que cada funcionalidade fornece ao usuário final e ao cliente (classificada de 1 à 9, sendo 1 menos significativo e 9 mais significativo).
 - __Passo 3:__ Estimativa da penalidade em decorrência da não aplicação ou atraso da aplicação do requisito (classificada de 1 à 9, sendo 1 menor penalidade e 9 maior penalidade). 
@@ -18,7 +20,8 @@
     - Calcular a prioridade para cada requisito usando: valor % / (custo % * Peso custo + risco % * Peso Risco).
 - __Passo 7:__ Ordenação da lista em ordem decrescente de prioridade.
 
-&emsp;&emsp; Os passos são uma versão adaptada do material dos materiais utilizados como estudo, a ideia era definir um modelo que se adequasse ao nosso modelo de trabalho. 
+&emsp;&emsp; Os passos são uma versão adaptada do material dos materiais utilizados como estudo, a ideia era definir um modelo que se adequasse ao nosso modelo de trabalho.
+
 
 ## Aplicação da técnica no projeto
 
