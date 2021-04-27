@@ -85,6 +85,8 @@ Ferramenta | Nome | Descrição
 ![Alt text](./assets/logos/Microsoft_Office_Excel.svg.png) | Excel | Ferramenta para criação de planilhas.
 ![Alt text](./assets/logos/Telegram.png) | Telegram | Ferramenta de comunicação rápida entre os integrantes.
 ![Alt text](./assets/logos/Lucidchart.png) | Lucidchart | Ferramenta utilizada para a elaboração da Rich Picture.
+![Alt text](./assets/logos/drawio.png) | Draw.io | Ferramenta utilizada para elaboração de diagramas.
+![Alt text](./assets/logos/forms.png) | Google Forms | Ferramenta de aplicação de formulários.
 ![Alt text](./assets/logos/Google_Slides_logo.svg.png) | Apresentações Google | Ferramenta utilizada para criação de slides simultaneamente entre os integrantes.
 ![Alt text](./assets/logos/GitHub.png) | GitHub | Plataforma de versionamento em que iremos armazenar todos os artefatos relacionados ao projeto.
 ![Alt text](./assets/logos/Teams.png) | Microsoft Teams | Plataforma usada para reunião e para gravação das apresentações do projeto.
@@ -102,3 +104,4 @@ Ferramenta | Nome | Descrição
 |17/02/2021|1.5|Correções de erros de digitação|Daniel Porto|
 |17/02/2021|1.6|Adicionando ferramentas utilizadas|Yan Andrade|
 |17/02/2021|1.7|Realizando merge do tópico 5 com o restante do documento|Sérgio Cipriano|
+|27/04/2021|1.8|Atualização das ferramentas|Daniel Porto|
