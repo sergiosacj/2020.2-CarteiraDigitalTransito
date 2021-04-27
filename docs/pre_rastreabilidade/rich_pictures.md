@@ -50,7 +50,6 @@
 
 > - Rich Pictures. BetterEvaluation. Disponível em: https://www.betterevaluation.org/en/evaluation-options/richpictures, acesso em: 17 de fev. de 2021;
 >  - The Rich Picture: A Tool forReasoning About Work Context. Andrew Monk and Steve Howard. Disponível em: https://www.ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf, acesso em: 17 de fev. de 2021.
-> - 
 
 ## Versionamento
 |Data|Versão|Descrição|Autor|
@@ -63,4 +62,4 @@
 |17/02/2021|1.1|Correções de erros de digitação|Daniel Porto|
 |19/02/2021|1.2|Adicionando legenda nas imagens|Sérgio Cipriano|
 |11/03/2021|2.0|Adicionando esboço de rich pictures|Sérgio Cipriano|
-|23/04/2021|2.0|Adição da metodologia|Emily Dias|
+|23/04/2021|3.0|Adição da metodologia|Emily Dias|

@@ -20,7 +20,7 @@
     - Calcular a prioridade para cada requisito usando: valor % / (custo % * Peso custo + risco % * Peso Risco).
 - __Passo 7:__ Ordenação da lista em ordem decrescente de prioridade.
 
-&emsp;&emsp; Os passos são uma versão adaptada do material dos materiais utilizados como estudo, a ideia era definir um modelo que se adequasse ao nosso modelo de trabalho.
+&emsp;&emsp; Os passos são uma versão adaptada dos materiais utilizados como estudo, a ideia era definir um modelo que se adequasse ao nosso modelo de trabalho.
 
 
 ## Aplicação da técnica no projeto
@@ -79,3 +79,5 @@
 |11/03/2021|1.0|Primeiros passos na estruturação do documento|Estevão Reis|
 |11/03/2021|2.0|Remodelando estrutura: aprimoramento da introdução, adição da bibliografia e descrição melhor definida da metodologia|Sérgio Cipriano|
 |11/03/2021|2.1|Adição dos Resultados do Método First Things First|Estevão Reis|
+|23/04/2021|3.0|Correção de erro|Emily Dias|
+|27/04/2021|3.0|Ajuste de parágrafo|Emily Dias|

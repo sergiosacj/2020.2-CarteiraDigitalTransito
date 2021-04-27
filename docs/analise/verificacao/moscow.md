@@ -35,7 +35,7 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 
 ## Conclusão
 
-De acordo com a verificação, o documento precisa estar mais alinhado com os léxicos para ficar mais correto. E quanto ao documento de priorização MoSCoW, ele está feito com o que se espera do documento em geral.
+De acordo com a verificação, o documento de priorização MoSCoW está feito com o que se espera do documento em geral.
 
 ## Referências
 
