@@ -1,3 +1,6 @@
+## Introdução
+Este documento tem como propósito reunir e listar todos os requisitos captados com as técnicas de elicitação, separando-os em requisitos funcionais e requisitos não funcionais.
+
 ## Notação
 &emsp;&emsp;Será utilizada a seguinte notação:
 
@@ -52,4 +55,5 @@
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 |1.0| 11/03/2021 | Criação do documento e adição dos requisitos do brainstorming e da introspecção | Daniel Porto |
-|1.1| 11/03/2021 | Adição dos requisitos do questionário | Daniel Porto | 
+|1.1| 11/03/2021 | Adição dos requisitos do questionário | Daniel Porto |
+|1.2| 28/04/2021 | Adição da introdução do documento | Enzo Gabriel |
