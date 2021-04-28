@@ -29,10 +29,10 @@ Link da planilha no excel: <https://unbbr-my.sharepoint.com/:x:/g/personal/16011
 | Épico | História de Usuário | Rastreabilidade | Ator | Desejo | Objetivo | Prioridade |
 | - | - | - | - | - | - | - |
 | Cadastrar | US01 | RF01 | usuário | fazer o cadastro com a conta GOV.br | acessar o sistema do app CDT | Alta |
-| Cadastrar | US02 | RF01 | usuário | fazer login na aplicação | ter acesso as funcionalidades do aplicativo | Alta |
+| Cadastrar | US02 | RF01 | usuário | fazer login na aplicação | ter acesso às funcionalidades do aplicativo | Alta |
 | Cadastrar | US03 | RF10 | usuário | alterar a foto de usuário | atualizar foto do perfil de usuário | Média |
-| Cadastrar | US04 | RF9 | usuário | sair da conta | apagar registros de usuário | Alta |
-| Cadastrar | US05 | RF12, RF24 | usuário | acessar as mensagens do sistema | conseguir ter acesso as notificações do sistema | Baixa |
+| Cadastrar | US04 | RF9 | usuário | sair da conta | deslogar e apagar registros de usuário | Alta |
+| Cadastrar | US05 | RF12, RF24 | usuário | acessar as mensagens do sistema | conseguir ter acesso as notificações de mensagens do sistema | Baixa |
 | Cadastrar | US06 | RF12, RF14 | usuário | acessar o documento de política de privacidade | ter conhecimento da utilização de dados | Baixa |
 | Cadastrar | US07 | RF12 | usuário | acessar o termo de responsabilidade | ter conhecimento da responsabilidade em utilizar o sistema | Baixa |
 | Cadastrar | US08 | RF21 | usuário | aderir ao SNE | realizar o pagamento de infrações com mais facilidade | Média |
@@ -41,12 +41,12 @@ Link da planilha no excel: <https://unbbr-my.sharepoint.com/:x:/g/personal/16011
 | Habilitação | US11 | RF3, RF5, RF10 | usuário | exportar a CNH digital | conseguir a CNH no formato .pdf | Alta |
 | Habilitação | US12 | RF10, RF11 | usuário | remover a CNH do aplicativo | conseguir apagar meus dados da CNH do dispositivo | Média |
 | Habilitação | US13 | RF5, RF10 | usuário | acessar histórico de habilitações | conseguir ter dados detalhados da CNH | Média |
-| Veículos | US14 | RF4, RF5, RF13, RF15 | usuário | acessar o CRLV do meu veículo cadastrado | para que consiga ter acesso ao CRLV dentro do sistema | Alta |
+| Veículos | US14 | RF4, RF5, RF13, RF15 | usuário | acessar o CRLV do meu veículo cadastrado no App | para que consiga ter acesso ao CRLV dentro do sistema | Alta |
 | Veículos | US15 | RF4, RF10 | usuário | baixar o CRLV do meu veículo cadastrado | para manter o CRLV no aparelho | Alta |
 | Veículos | US16 | RF4, RF5, RF10, RF13 | usuário | exportar o CRLV do meu veículo cadastrado | para que consiga o CRLV no formato .pdf | Alta |
 | Veículos | US17 | RF10, RF11 | usuário | remover o CRLV do meu veículo cadastrado | para que eu consiga apagar meus dados do CRLV do meu dispositivo | Média |
 | Veículos | US18 | RF4, RF5, RF10, RF13, RF15 | usuário | consultar recall do meu veículo cadastrado |  acessar os detalhes de recall dos meus veículos | Alta |
-| Veículos | US19 | RF10, RF23 | usuário | indicar o principal condutor de um veículo | indicar o responsável pelas multas de tráfego de veículo | Média |
+| Veículos | US19 | RF10, RF23 | usuário | indicar o principal condutor de um veículo | indicar o responsável pelas multas de tráfego de um veículo | Média |
 | Veículos | US20 | RF10, RF23 | usuário | excluir o principal condutor de um veículo | para que outra pessoa responda pelas multas de tráfego de veículo | Média |
 | Veículos | US21 | RF10, RF23 | usuário | aceitar um convite para ser o principal condutor de um veículo | para que seja responsável pelas multas de tráfego de veículo e portar dados do veículo | Média |
 | Veículos | US22 | RF10, RF23 | usuário | recusar um convite para ser o principal condutor de um veículo | para que não seja responsável pelas multas de tráfego de veículo e portar dados do veículo | Média |
