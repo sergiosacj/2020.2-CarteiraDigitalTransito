@@ -76,3 +76,5 @@ Link da planilha no excel: <https://unbbr-my.sharepoint.com/:x:/g/personal/16011
 | 2.2 | 31/03/2021 | Adição da coluna prioridade |  Enzo Gabriel |
 | 2.3 | 31/03/2021 | Criação da imagem em excel |  Enzo Gabriel |
 | 2.4 | 01/03/2021 | Adição da imagem criada em excel |  Sérgio Cipriano |
+| 2.5 | 01/03/2021 | Fazendo ajuste do link da tabela |  Enzo Gabriel |
+| 2.6 | 01/03/2021 | Fazendo ajustes sugeridos na verificação |  Enzo Gabriel |
