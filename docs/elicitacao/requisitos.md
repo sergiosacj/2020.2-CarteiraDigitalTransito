@@ -1,5 +1,5 @@
 ## Introdução
-Este documento tem como propósito reunir e listar todos os requisitos captados com as técnicas de elicitação, separando-os em requisitos funcionais e requisitos não funcionais.
+&emsp;&emsp; Este documento tem como propósito reunir e listar todos os requisitos captados com as técnicas de elicitação, separando-os em requisitos funcionais e requisitos não funcionais.
 
 ## Notação
 &emsp;&emsp;Será utilizada a seguinte notação:
@@ -51,9 +51,21 @@ Este documento tem como propósito reunir e listar todos os requisitos captados 
 | **RNF10** | Ser responsivo | Introspecção |
 | **RNF11** | Ser seguro | Questionário |
 
+### Requisitos não presentes no App
+
+&emsp;&emsp; Alguns requisitos levantados pelas técnicas de elicitação realizadas pelo grupo não estão presentes no app, que são os seguintes:
+
+| Identificação | Requisito |
+|:-:|--|
+| **RF6** | Marcar a renovação da CNH |
+| **RF16** | Ver quais dispositivos estão logados |
+| **RF18** | Recorrer a multas |
+| **RF22** | Marcar vistorias | Brainstorming |
+
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 |1.0| 11/03/2021 | Criação do documento e adição dos requisitos do brainstorming e da introspecção | Daniel Porto |
 |1.1| 11/03/2021 | Adição dos requisitos do questionário | Daniel Porto |
 |1.2| 28/04/2021 | Adição da introdução do documento | Enzo Gabriel |
+|1.3| 29/04/2021 | Adição de tópico mostrando os requisitos não presentes no App | Enzo Gabriel |
