@@ -16,7 +16,7 @@
 
 ## Backlog
 
-&emsp;&emsp; Para facilitar a visualização, a tabela está disponível de duas maneiras diferentes (excel e markdown).
+&emsp;&emsp; Para facilitar a visualização, a tabela feita no Excel está disponível.
 
 ### Tabela em excel
 
@@ -39,6 +39,6 @@ Link da planilha no excel: <https://unbbr-my.sharepoint.com/:x:/g/personal/16011
 | 2.2 | 31/03/2021 | Adição da coluna prioridade |  Enzo Gabriel |
 | 2.3 | 31/03/2021 | Criação da imagem em excel |  Enzo Gabriel |
 | 2.4 | 01/03/2021 | Adição da imagem criada em excel |  Sérgio Cipriano |
-| 2.5 | 01/03/2021 | Fazendo ajuste do link da tabela |  Enzo Gabriel |
-| 2.6 | 01/03/2021 | Fazendo ajustes sugeridos na verificação |  Enzo Gabriel |
-| 2.7 | 01/03/2021 | Ajustando as tabelas |  Enzo Gabriel |
+| 2.5 | 28/04/2021 | Fazendo ajuste do link da tabela |  Enzo Gabriel |
+| 2.6 | 28/04/2021 | Fazendo ajustes sugeridos na verificação |  Enzo Gabriel |
+| 2.7 | 30/04/2021 | Ajustando as tabelas |  Enzo Gabriel |
