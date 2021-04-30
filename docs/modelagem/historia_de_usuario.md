@@ -93,4 +93,4 @@ Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
 |  3.1   | 30/03/2021 | Correções de Erros Ortográficos e versionamento                                                            |  Estevão Reis    |
 |  3.2   | 30/03/2021 | Ajustando a formatação e corrigindo na citação                                                             |  Sérgio Cipriano |
 |  4.0   | 22/04/2021 | Correções de erros de ortografia, concordância, reformulação de histórias de usuário e adição de critérios |  Estevão Reis    |
-|  5.0   | 22/04/2021 | Inserção das histórias de usuário em tabela                                                                |  Estevão Reis    |
+|  5.0   | 30/04/2021 | Inserção das histórias de usuário em tabela                                                                |  Estevão Reis    |
