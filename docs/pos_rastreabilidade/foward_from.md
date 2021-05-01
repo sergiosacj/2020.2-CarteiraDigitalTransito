@@ -37,5 +37,6 @@
 
 | Versão | Data | Modificação | Autor |
 | - | - | - | - |
+| 0.1 | 01/05/2021 | Criação da tabela de requisitos funcionais | Estevão Reis, Sergio Cipriano |
 | 1.0 | 01/05/2021 | Criação dos tópicos do documento e inserção da Introdução  e metodologia e referências | Estevão Reis |
 | 1.1 | 01/05/2021 | Simplificando formatação do documento para priorizar a execução e não a estética | Sergio Cipriano |
