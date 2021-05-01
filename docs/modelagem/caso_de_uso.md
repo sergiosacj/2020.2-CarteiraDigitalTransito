@@ -15,7 +15,7 @@
 
 ![Diagrama de Casos de Uso](../assets/imagens/uc.png)
 
-<center>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/116772868-346e7500-aa28-11eb-9b87-70063fb61c8d.png)
+<center>Figura 1: Diagrama de Casos de Uso Carteira Digital de Trânsito.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/116772868-346e7500-aa28-11eb-9b87-70063fb61c8d.png)
 </center>
 
 ## Especificação dos Casos de Uso
