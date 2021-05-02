@@ -28,6 +28,8 @@
 
 ### 3.2.Requisitos Não Funcionais
 
+![foward_from_nfr](https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/01eea60432a697ade96e1c03e96d88a571a3f23a/docs/assets/imagens/foward_from_nfr.png)
+
 ## 4.Referência Bibliográfica
 
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 01 de Maio de 2021
