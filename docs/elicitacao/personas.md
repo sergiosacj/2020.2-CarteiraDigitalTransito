@@ -16,7 +16,7 @@
 
 ## 3. Escolhas
 
-&emsp;&emsp; A decisão da quantidade de personas veio da seguinte afirmação: "Courage e Baxter (2005) apontam um cuidado na escolha do número de personas elaboradas. É importante que as personas sejam memoráveis e, para isso, o elenco de personas deve ser reduzido. Se houver muitas personas para representar os grupos de usuários, elas vão se misturar na mente dos designers e desenvolvedores, e com isso reduzimos os benefícios dessa técnica. No entanto, o elenco deve cobrir os principais grupos de usuários, para ajudar a desenvolver um produto que funciona para todos. Ao nos limitarmos a uma única persona, podemos deixar de fora dados valiosos de usuários fi nais que não correspondam a um mesmo grupo. Uma recomendação comum é que o elenco de personas inclua três personas primárias."(Barbosa e Silva, 2019, p. 180). 
+&emsp;&emsp; A decisão da quantidade de personas veio da seguinte afirmação: "Courage e Baxter (2005) apontam um cuidado na escolha do número de personas elaboradas. É importante que as personas sejam memoráveis e, para isso, o elenco de personas deve ser reduzido. Se houver muitas personas para representar os grupos de usuários, elas vão se misturar na mente dos designers e desenvolvedores, e com isso reduzimos os benefícios dessa técnica. No entanto, o elenco deve cobrir os principais grupos de usuários, para ajudar a desenvolver um produto que funciona para todos. Ao nos limitarmos a uma única persona, podemos deixar de fora dados valiosos de usuários finais que não correspondam a um mesmo grupo. Uma recomendação comum é que o elenco de personas inclua três personas primárias."(Barbosa e Silva, 2019, p. 180). 
 
 ## 4. Personas do CDT
 
@@ -64,3 +64,4 @@
 |11/03/2021|1.1|Correção de tarefas da Juliana Figo Sabugueiro|Sérgio Cipriano|
 |11/03/2021|1.2|Correções de formatação da bibliografia e das referências|Sérgio Cipriano|
 |30/04/2021|2.0|Criação dos cartões das personas|Yan Andrade|
+|02/05/2021|2.1|Correção de pequenos erros ortográficos|Yan Andrade|
