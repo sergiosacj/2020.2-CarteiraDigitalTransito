@@ -1,11 +1,11 @@
 # Verificação - Casos de uso
 
 ## 1. Introdução
-Este documento visa verificar os casos de uso em busca de possíveis erros a serem corrigidos no artefato. Para isso, deve-se considerar uma análise feita com regras bem definidas e de fácil entendimento.
+&emsp;&emsp;Este documento visa verificar os casos de uso em busca de possíveis erros a serem corrigidos no artefato. Para isso, deve-se considerar uma análise feita com regras bem definidas e de fácil entendimento.
 
 ### 1.1 Metodologia
 
-A estratégia escolhida para fazer essa verificação foi a de inspeção por checklist, pela sua simplicidade, objetividade e eficácia para a verificação.
+&emsp;&emsp;A estratégia escolhida para fazer essa verificação foi a de inspeção por checklist, pela sua simplicidade, objetividade e eficácia para a verificação.
 
 ## 2. Contexto
  - Técnica: Inspeção
@@ -13,7 +13,7 @@ A estratégia escolhida para fazer essa verificação foi a de inspeção por ch
  - Revisores: Sérgio Cipriano e Daniel Porto
  - Inspetores: Enzo Gabriel
 
- O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/caso_de_uso/)
+&emsp;&emsp;O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/caso_de_uso/)
 
 ## 3. Checklist
 
@@ -43,17 +43,20 @@ A estratégia escolhida para fazer essa verificação foi a de inspeção por ch
 
 ## 4. Conclusão
 
-A verificação por checklist mostra que o documento, apesar de bem satisfatório, ainda possui pequenas falhas relacionadas principalmente ao diagrama utilizado, que não ficou muito bem visualmente dentro do documento.
+&emsp;&emsp;A verificação por checklist mostra que o documento, apesar de bem satisfatório, ainda possui pequenas falhas relacionadas principalmente ao diagrama utilizado, que não ficou muito bem visualmente dentro do documento.
 
-## 5. Bibliografia
+## 5. Acompanhamento
+&emsp;&emsp;Foi realizada uma refatoração no documento verificado e corrigido o diagrama para ser possível identificar os fluxos. Também, foram corrigidos os erros ortográficos e de digitação encontrados.
+## 6. Bibliografia
 
 - [Página de verificação dos Casos de Uso do grupo Mia Ajuda - 2020.1](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/analysis/verification/verificationUsecase)
 
 - [Página de verificação dos Casos de Uso do grupo IFut - 2020.1](https://requisitos-de-software.github.io/2020.1-iFut/analise/verificacoes/mod_casosuso/)
 
 
-## 6. Versionamento
+## 7. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/04/2021 | Criação do documento | Enzo Gabriel |
 | 1.1 | 13/04/2021 | Atualização do documento | Enzo Gabriel |
+| 1.2 | 30/04/2021 | Adição do acompanhamento | Daniel P. |
