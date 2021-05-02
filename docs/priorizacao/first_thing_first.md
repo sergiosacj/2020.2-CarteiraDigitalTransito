@@ -6,7 +6,9 @@
 
 ## Metodologia
 
-&emsp;&emsp; Nessa prática de priorização, contruímos uma tabela de forma que equilibrou os posionamentos do cliente e do desenvolvedor. Para isso, seguimos os seguintes passos:
+&emsp;&emsp; Nessa prática de priorização, construímos uma tabela de forma que equilibrou os posionamentos do cliente e do desenvolvedor. Para isso, seguimos os seguintes passos:
+
+[Link da planilha](https://unbbr-my.sharepoint.com/:x:/g/personal/180149687_aluno_unb_br/EYbUcaszohFEqgVuiObjgsUBHeqjZHPqLbHjg8SG-H90dQ?e=ldmCtO)
 
 - __Passo 1:__ Listagem de todos os requisitos, retirando aqueles dependentes de outro(s) requisito(s).
 - __Passo 2:__ Estimativa do benefício relativo que cada funcionalidade fornece ao usuário final e ao cliente (classificada de 1 à 9, sendo 1 menos significativo e 9 mais significativo).
@@ -18,7 +20,8 @@
     - Calcular a prioridade para cada requisito usando: valor % / (custo % * Peso custo + risco % * Peso Risco).
 - __Passo 7:__ Ordenação da lista em ordem decrescente de prioridade.
 
-&emsp;&emsp; Os passos são uma versão adaptada do material dos materiais utilizados como estudo, a ideia era definir um modelo que se adequasse ao nosso modelo de trabalho. 
+&emsp;&emsp; Os passos são uma versão adaptada dos materiais utilizados como estudo, a ideia era definir um modelo que se adequasse ao nosso modelo de trabalho.
+
 
 ## Aplicação da técnica no projeto
 
@@ -63,6 +66,8 @@
 |Funcional    | **RF5** | Ter todas as informações dos documentos | 0,156 |
 |Funcional    | **RF10** | Gerenciar documentos | 0,129 |  
 
+## Acompanhamento
+&emsp; &emsp; Todas as correções sugeridas foram aplicadas, como detalhar mais a metodologia e disponibilizar o link da planilha.
 
 ## Bibliografia
 
@@ -70,9 +75,12 @@
 
 ## Versionamento
 
-|Data|Versão|Descrição|Autor|
+|Versão|Data|Descrição|Autor|
 |----|------|---------|-----|
-|10/03/2021|0.1|Criação da planilha com os requisitos|Daniel Porto|
-|11/03/2021|1.0|Primeiros passos na estruturação do documento|Estevão Reis|
-|11/03/2021|2.0|Remodelando estrutura: aprimoramento da introdução, adição da bibliografia e descrição melhor definida da metodologia|Sérgio Cipriano|
-|11/03/2021|2.1|Adição dos Resultados do Método First Things First|Estevão Reis|
+|0.1|10/03/2021|Criação da planilha com os requisitos|Daniel Porto|
+|1.0|11/03/2021|Primeiros passos na estruturação do documento|Estevão Reis|
+|2.0|11/03/2021|Remodelando estrutura: aprimoramento da introdução, adição da bibliografia e descrição melhor definida da metodologia|Sérgio Cipriano|
+|2.1|11/03/2021|Adição dos Resultados do Método First Things First|Estevão Reis|
+|3.0|23/04/2021|Correção de erro|Emily Dias|
+|3.1|27/04/2021|Ajuste de parágrafo|Emily Dias|
+|3.2|01/05/2021|Adição do acompanhamento|Emily Dias|
