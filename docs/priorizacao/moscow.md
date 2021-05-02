@@ -9,6 +9,10 @@ MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a
 * Could: são as tarefas desejáveis, mas também não são essenciais. São tarefas que devem ser feitas apenas se houver tempo e recursos para finalizá-la.
 * Won't: são requisitos menos críticos, que a princípio não serão implementados.
 
+## Metodologia
+
+&emsp;&emsp;Para levantar as prioridades diante dos requisitos funcionais e não funcionais dois integrantes do grupo realizaram uma videochamada na plataforma Discord e definiram as prioridades tendo como base os pontos colocados no tópico acima.
+
 ## Requisitos Funcionais
 | Identificação | Requisito | Prioridade |
 |:-:|--|--|
@@ -63,3 +67,4 @@ MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a
 | 1.0 | 11/03/2021 | Criação do documento e priorização dos requisitos | Daniel Porto, Emily Dias |
 | 1.1 | 11/03/2021 | Explicação do método | Enzo Gabriel |
 | 1.2 | 30/03/2021 | Adição do  requisito RFN11 que estava faltando  | Sérgio Cipriano |
+| 1.3 | 02/05/2021 | Adição da metodologia  | Yan Andrade |
