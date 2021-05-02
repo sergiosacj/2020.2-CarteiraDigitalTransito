@@ -25,14 +25,15 @@
 ## 3.Matrizes
 
 ### 3.1.Requisitos Funcionais
+![Foward From Requisitos Funcionais](../assets/imagens/foward_from_rf.png)
 
-Link da planilha no excel: >https://docs.google.com/spreadsheets/d/17coHM9K_uAhjtBnQHhdYcbnBRjqoUAP5yWD2YwwLo_M/edit?usp=sharing<
+Voce pode visualizar o link da planilha [aqui](https://docs.google.com/spreadsheets/d/17coHM9K_uAhjtBnQHhdYcbnBRjqoUAP5yWD2YwwLo_M/edit?usp=sharing)
 
 ### 3.2.Requisitos Não Funcionais
 
-![foward_from_nfr](https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/01eea60432a697ade96e1c03e96d88a571a3f23a/docs/assets/imagens/foward_from_nfr.png)
+![Foward From Requisitos não Funcionais](../assets/imagens/foward_from_rnf.png)
 
-Link da planilha no excel: >https://docs.google.com/spreadsheets/d/1foIYmVKaXko0nOfEn0NQv87n2GSs2nqv65cDbOmsLR4/edit?usp=sharing<
+Voce pode visualizar o link da planilha [aqui](https://docs.google.com/spreadsheets/d/1foIYmVKaXko0nOfEn0NQv87n2GSs2nqv65cDbOmsLR4/edit?usp=sharing)
 
 ## 4.Referência Bibliográfica
 
@@ -46,3 +47,4 @@ Link da planilha no excel: >https://docs.google.com/spreadsheets/d/1foIYmVKaXko0
 | 0.1 | 01/05/2021 | Criação da tabela de requisitos funcionais | Estevão Reis, Sergio Cipriano |
 | 1.0 | 01/05/2021 | Criação dos tópicos do documento e inserção da Introdução  e metodologia e referências | Estevão Reis |
 | 1.1 | 01/05/2021 | Simplificando formatação do documento para priorizar a execução e não a estética | Sergio Cipriano |
+| 1.2 | 02/05/2021 | Inserção da Imagem dos requisitos funcionais e refatoração na visualização do documento | Estevão Reis |
