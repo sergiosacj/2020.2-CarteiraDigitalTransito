@@ -1,7 +1,7 @@
 # Introspecção
 
 ## 1.Introdução
-A introspecção é o primeiro e mais óbvio métodos para tentar entender quais propriedades um sistema deve ter para ter sucesso.
+A introspecção é o primeiro e mais intuitivo método para tentar entender quais propriedades um sistema deve ter para ter sucesso.
 É uma técnica que tem como base você se colocar no lugar do cliente para descobrir quais as suas necessidades e desejos. Ou seja, imaginar quais as propriedades que um sistema deve ter para alcançar o sucesso.
 
 ## 2.Metodologia
@@ -37,4 +37,5 @@ A técnica de Introspecção aplicado nas personas. Baseado nas especificações
 | 1.2 | 02/03/2021 | Levantamento dos requisitos por introspecção | Enzo Gabriel e Estevão Reis|
 | 1.3 | 11/03/2021 | Mudando "Referência Bibliográfica" por "Bibliografia" | Sérgio Cipriano|
 | 2.0 | 30/04/2021 | Adição de Metodologia                                 | Estevao Reis   |
+| 2.1 | 02/05/2021 | Ajustes textuais                                      | Estevao Reis   |
 

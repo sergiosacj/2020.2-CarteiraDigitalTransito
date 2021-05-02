@@ -2,7 +2,7 @@
 
 ## 1.Introdução 
 
-&emsp;&emsp; "Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos 'àgeis'. Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação." (VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
+&emsp;&emsp; "Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos 'ágeis'. Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação." (VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
 
 ## 2.Metodologia
 
@@ -94,3 +94,4 @@ Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
 |  3.2   | 30/03/2021 | Ajustando a formatação e corrigindo na citação                                                             |  Sérgio Cipriano |
 |  4.0   | 22/04/2021 | Correções de erros de ortografia, concordância, reformulação de histórias de usuário e adição de critérios |  Estevão Reis    |
 |  5.0   | 30/04/2021 | Inserção das histórias de usuário em tabela                                                                |  Estevão Reis    |
+|  5.1   | 02/05/2021 | Ajustes textuais                                                                                           |  Estevão Reis    |
