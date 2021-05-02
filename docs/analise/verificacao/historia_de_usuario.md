@@ -248,7 +248,7 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 | 11 | A história de usuário é coerente? | 100%|
 
 ## 4. Acompanhamento
-&emsp; &emsp; Ainda não foram feitas as correções necessárias.
+&emsp; &emsp; Todas as correções sugeridas foram aplicadas.
 
 ## 5. Bibliografia
 
@@ -263,3 +263,4 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 | 4.0 | 12/04/2011 | Inserção dos Dados percentuais | Estevão Reis|
 | 4.1 | 12/04/2011 | Correção de erros ortográficos | Estevão Reis|
 | 4.2 | 14/04/2011 | Inserção do link do documento verificado | Estevão Reis|
+| 4.3 | 22/04/2011 | Atualização dos status de Acompanhamento | Estevão Reis|

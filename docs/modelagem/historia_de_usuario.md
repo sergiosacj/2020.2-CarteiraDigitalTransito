@@ -2,12 +2,12 @@
 
 ## 1.Introdução 
 
-&emsp;&emsp; "Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos 'ageis'. Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação." (VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
+&emsp;&emsp; "Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos 'ágeis'. Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação." (VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
 
 ## 2.Metodologia
 
 &emsp;&emsp; Para criarmos as histórias de usuário nos baseamos nos cenários da aplicação, criando as histórias a partir deles.
-A organização das histórias ficaram da seguinte maneira:utilizamos a sigla 'EP' significando que será abordado os casos de uso de um dado épico seguido do número do épico e logo após o nome do épico. Exemplo:
+A organização das histórias ficou da seguinte maneira:utilizamos a sigla 'EP' significando que será abordado os casos de uso de um dado épico seguido do número do épico e logo após o nome do épico. Exemplo:
 
 EP01: Conta de Usuário
 
@@ -21,406 +21,77 @@ Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
 
 ## 3.Histórias de Usuário
 
+
 ### EP01: Conta de Usuário
-
-#### **US01:Cadastrar**
-
-&emsp;&emsp; Eu, como um usuário, desejo fazer o cadastro na conta do GOV.br para ter acesso ao sistema do CDT.
-
-Critérios de aceitação:
-
- - Deve apresentar uma tela para criação da conta no GOV.br
- - Deve ter um botão para redirecionar o usuário para o site do GOV.br para fazer o cadastro
- - Deve concluir o cadastro salvando os dados do usuário
- - Deve ser possível acessar o CDT após o cadastro no GOV.br
-
-#### **US02:Realizar o login**
-
-&emsp;&emsp; Eu, como um usuário, desejo realizar o login na aplicação, para ter acesso às funcionalidades do CDT
-
-Critérios de aceitação:
-
-- Deve ter um botão para realizar o login
-- Deve ter um campo para preencher com o CPF do usuário
-- Deve ter um campo para preencher com a senha do usuário
-- Deve realizar a conexão com o CDT
-
-#### **US03:Alterar foto do perfil de usuário**
-
-&emsp;&emsp; Eu, como um usuário, desejo alterar a foto de usuário, para atualizar a foto do perfil de usuário
-
-Critérios de aceitação:
-
-- Deve ter conter um botão próximo a foto do usuário para poder alterar a foto
-- Deve apresentar as opções de onde se deve buscar a imagem desejada
-- Deve realizar conexão com o CDT
-- Deve conter um botão para salvar as alterações
-- Deve concluir a alteração exibindo a imagem atualizada
-
-#### **US04:Realizar Logout**
-
-&emsp;&emsp; Eu, como um usuário, desejo sair da minha conta no CDT, para que eu consiga apagar meus registros de usuário
-
-Critérios de aceitação:
-
-- Deve conter um botão para sair da conta
-- Deve fazer o logout da conta no CDT
-- Deve apresentar uma informação sobre a realização bem sucedida do logout da conta
-
-#### **US05: Acessar mensagens do sistema**
-
-&emsp;&emsp; Eu, como usuário, desejo acessar as mensagens do sistema, para que eu consiga ter acesso as notificações do sistema
-
-Critérios de aceitação:
-
-- Deve conter um campo destinado somente as mensagens do sistema
-- Deve ser exibidas as últimas mensagens recebidas
-
-#### **US06: Acessar a política de privacidade**
-
-&emsp;&emsp; Eu, como usuário, desejo acessar o documento de política de privacidade, para que eu possa ter conhecimento de como meus dados estão sendo utilizados
-
-Critérios de aceitação:
-
-- Deve conter um botão para acessar o documento de política de privacidade
-- Deve ser exibido o documento de política de privacidade
-
-#### **US07: Acessar o termo de responsabilidade**
-
-&emsp;&emsp; Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da resposabilidade em utilizar o sistema, sabendo que o mesmo pode me punir por descumprir as regras impostas
-
-Critérios de aceitação:
-
-- Deve conter um botão para acessar o termo de responsabilidade
-- Deve ser exibido o termo de responsabilidade
-
-#### **US08: Aderir ao SNE**
-
-&emsp;&emsp; Eu, como usuário, desejo aderir ao SNE, para que o pagamento de infrações seja realizado com mais facilidade
-
-Critérios de aceitação:
-
-- Deve conter um botão que indique os termo de condições de adesão do SNE 
-- Deve ser possível aceitar ou rejeitar o termo de condições de adesão do SNE 
-- Deve apresentar uma informação sobre a realização bem sucedida da adesão ao SNE
+|História de Usuário| Descrição|Critérios de Aceitação|
+|-------------------|----------|----------------------|
+|**US01:</br>Cadastrar**|Eu, como um usuário,desejo fazer o cadastro na conta do GOV.br para ter acesso ao sistema do CDT| - Deve apresentar uma tela para criação da conta no GOV.br</br></br>- Deve ter um botão para redirecionar o usuário para o site do GOV.br para fazer o cadastro</br></br>- Deve concluir o cadastro salvando os dados do usuário</br>- Deve ser possível acessar o CDT após o cadastro no GOV.br
+|**US02:</br>Realizar o login**|Eu, como um usuário, desejo realizar o login na aplicação, para ter acesso às funcionalidades do CDT|- Deve ter um botão para realizar o login</br></br>- Deve ter um campo para preencher com o CPF do usuário</br></br>- Deve ter um campo para preencher com a senha do usuário</br></br>- Deve realizar a conexão com o CDT|
+|**US03:</br>Alterar foto do perfil de usuário**|Eu, como um usuário, desejo alterar a foto de perfil,para atualizá-la|- Deve ter conter um botão próximo a foto do usuário para poder alterá-la</br></br>- Deve apresentar as opções de onde se deve buscar a imagem desejada</br></br>- Deve realizar conexão com o CDT</br></br>- Deve conter um botão para salvar as alterações</br></br>- Deve concluir a alteração exibindo a imagem atualizada|
+|**US04:</br>Realizar Logout**|Eu, como um usuário, desejo sair da minha conta no CDT, para impedir que outras pessoas acessem ela em meu aparelho|- Deve conter um botão para sair da conta</br></br>- Deve fazer o logout da conta no CDT</br></br>- Deve apresentar uma informação sobre a realização bem sucedida do logout da conta|
+|**US05:</br>Acessar mensagens do sistema**|Eu, como usuário, desejo visualizar as mensagens do sistema, para que eu consiga ter acesso às notificações|- Deve conter um campo destinado somente às mensagens do sistema</br></br>- Deve ser exibidas as últimas mensagens recebidas|
+|**US06:</br>Acessar a política de privacidade**|Eu, como usuário, desejo acessar o documento de política de privacidade, para que eu possa ter conhecimento de como meus dados estão sendo utilizados|- Deve conter um botão para acessar o documento de política de privacidade</br></br>- Deve ser exibido o documento de política de privacidade|
+|**US07:</br>Acessar o termo de responsabilidade**|Eu, como usuário, desejo acessar o termo de responsabilidade, para que eu tenha conhecimento da mesma|- Deve conter um botão para acessar o termo de responsabilidade</br></br>- Deve ser exibido o termo de responsabilidade|
+|**US08:</br>Aderir ao SNE**|Eu, como usuário, desejo aderir ao SNE, para que o pagamento de infrações seja realizado com mais facilidade|- Deve conter um botão que indique os termo de condições de adesão do SNE</br></br>- Deve ser possível aceitar ou rejeitar o termo de condições de adesão do SNE</br></br>- Deve apresentar uma informação sobre a realização bem sucedida da adesão ao SNE
 
 
 ### EP02: Habilitação
-
-#### **US09: Acessar Habilitação**
-
-&emsp;&emsp; Eu, como um usuário, desejo acessar a habilitação, para ter acesso a ela dentro do aplicativo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de habilitação
-- Deve conter um botão para acessar a CNH
-- Deve possuir um campo para validar a chave de acesso
-- Deve exibir a CNH
-
-#### **US10: Baixar a CNH digital**
-
-&emsp;&emsp; Eu, como um usuário, desejo baixar a CNH digital, para manter o documento no aparelho
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de habilitação
-- Deve conter um botão para baixar a CNH
-- Deve possuir um campo para validar a chave de acesso
-- Deve baixar a CNH
-
-#### **US11: Exportar a CNH digital**
-
-&emsp;&emsp; Eu, como usuário, desejo exportar a CNH digital, para que consiga a CNH no formato .pdf
-
-Critérios de aceitação:
-
-- Deve conter um botão para exportar a CNH
-- Deve possuir um campo para validar a chave de acesso
-- Deve exibir a CNH no formato .pdf no local de importação
-
-#### **US12: Remover CNH**
-
-&emsp;&emsp; Eu, como usuário, desejo remover a CNH, para que eu consiga apagar meus dados da CNH do meu dispositivo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de habilitação
-- Deve conter um botão para remover a CNH
-- Deve fazer a remoção de todos os dados da CNH
-- Deve apresentar uma informação sobre a realização bem sucedida da remoção da CNH
-
-#### **US13: Acessar histórico da CNH**
-
-&emsp;&emsp; Eu, como usuário, desejo acessar o histórico da minha CNH, para que eu conisga ter dados detalhados da minha CNH
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de habilitação
-- Deve conter um botão para acessar o histórico da CNH
-- Deve ser exibidas todas as CNH's
-- Deve ser possível selecionar a CNH a ser exibida/consultada
-- Deve ser possível exibbir a CNH selecionada
+|História de Usuário| Descrição|Critérios de Aceitação|
+|-------------------|----------|----------------------|
+|**US09:</br>Acessar Habilitação**|Eu, como um usuário, desejo ter acesso à habilitação, para visualizar ela dentro do aplicativo|- Deve conter um botão na tela inicial para acessar a área de habilitação</br></br>- Deve conter um botão para acessar a CNH</br></br>- Deve possuir um campo para validar a chave de acesso</br></br>- Deve exibir a CNH|
+|**US10:</br>Baixar a CNH digital**|Eu, como um usuário, desejo baixar a CNH digital, para manter o documento no aparelho|- Deve conter um botão na tela inicial para acessar a área de habilitação</br></br>- Deve conter um botão para baixar a CNH</br></br>- Deve possuir um campo para validar a chave de acesso</br></br>- Deve baixar a CNH|
+|**US11:</br>Exportar a CNH digital**|Eu, como usuário, desejo exportar a CNH digital, para que consiga a CNH no formato .pdf|- Deve conter um botão na tela inicial para acessar a área de habilitação</br></br>- Deve conter um botão para exportar a CNH</br></br>- Deve possuir um campo para validar a chave de acesso</br></br>- Deve exibir a CNH no formato .pdf no local de importação|
+|**US12:</br>Remover CNH**|Eu, como usuário, desejo remover a CNH, para que eu consiga apagar meus dados da CNH do meu dispositivo|- Deve conter um botão na tela inicial para acessar a área de habilitação</br></br>- Deve conter um botão para remover a CNH</br></br>- Deve fazer a remoção de todos os dados da CNH</br></br>- Deve apresentar uma informação sobre a realização bem sucedida da remoção da CNH|
+|**US13:</br>Acessar histórico da CNH**|Eu, como usuário, desejo visualizar o histórico da minha CNH, para que eu consiga ter acesso aos dados detalhados da minha CNH|- Deve conter um botão na tela inicial para acessar a área de habilitação</br></br>- Deve conter um botão para acessar o histórico da CNH</br></br>- Deve ser exibidas todas as CNHs</br></br>- Deve ser possível selecionar a CNH a ser exibida/consultada</br></br>- Deve ser possível exibir a CNH selecionada|
 
 ### EP03: Veículos
+|História de Usuário| Descrição|Critérios de Aceitação|
+|-------------------|----------|----------------------|
+|**US14:</br>Acessar CRLV dos veículos cadastrados**|Eu, como usuário, desejo acessar o CRLV do meu veículo cadastrado, para que consiga visualizá-lo dentro do sistema|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar o CRLV do veículo selecionado</br></br>- Deve possuir um campo para validar a chave de acesso</br></br>- Deve exibir o CRLV do veículo selecionado|
+|**US15:</br>Baixar CRLV dos veículos cadastrados**|Eu, como usuário, desejo baixar o CRLV do meu veículo cadastrado, para manter o CRLV no aparelho|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar o CRLV do veículo selecionado</br></br>- Deve conter um botão para baixar o CRLV</br></br>- Deve possuir um campo para validar a chave de acesso</br></br>- Deve baixar o CRLV|
+|**US16:</br>Exportar CRLV dos veículos cadastrados**| Eu, como usuário, desejo exportar o CRLV do meu veículo cadastrado, para que consiga o CRLV no formato .pdf|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar o CRLV do veículo selecionado</br></br>- Deve conter um botão para exportar o CRLV</br></br>- Deve possuir um campo para validar a chave de acesso</br></br>- Deve exibir o CRLV no formato .pdf no local de importação|
+|**US17:</br>Remover CRLV dos veículos cadastrados**|Eu, como usuário, desejo remover o CRLV do meu veículo cadastrado, para que eu consiga apagar meus dados do CRLV do meu dispositivo|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar o CRLV do veículo selecionado</br></br>- Deve conter um botão para remover o CRLV</br></br>- Deve apresentar uma informação sobre a realização bem sucedida da remoção do CRLV|
+|**US18:</br>Consultar Recall**|Eu, como usuário, desejo consultar recall do meu veículo cadastrado, para que eu consiga acessar os detalhes de recall dos meus veículos|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar os dados do veículo selecionado</br></br>- Deve conter um botão para consultar o recall</br></br>- Deve apresentar os detalhes do recall do veículo selecionado
+|**US19:</br>Indicar o principal condutor** |Eu, como usuário, desejo indicar o principal condutor de um veículo, para que o devido responsável responda pelas multas de tráfego de veículo|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar os dados do veículo selecionado</br></br>- Deve conter um botão para consultar o principal condutor</br></br>- Deve conter um botão para indicar o principal condutor</br></br>- Deve conter um campo para inserir o CPF do principal condutor</br></br>- Deve conter um botão para confirmar o principal condutor|
+|**US20:</br>Excluir o principal condutor** |Eu, como usuário, desejo excluir o principal condutor de um veículo, para que o mesmo não responda mais pelas multas de tráfego de veículo|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar os dados do veículo selecionado</br></br>- Deve conter um botão para consultar o principal condutor</br></br>- Deve conter um botão para remover o principal condutor</br></br>- Deve conter um botão para confirmar a remoção do principal condutor|
+| **US21:</br>Aceitar o principal condutor** |Eu, como usuário, desejo aceitar um convite para ser o principal condutor de um veículo, para que eu seja responsável pelas multas de tráfego de veículo e portar dados do veículo|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão de aceitar o convite de principal condutor do veículo selecionado |
+|**US22:</br>Recusar o principal condutor** |Eu, como usuário, desejo recusar um convite para ser o principal condutor de um veículo, para que eu não seja responsável pelas multas de tráfego de veículo e portar dados do veículo|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar os dados do veículo selecionado</br></br>- Deve conter um botão de recusar o convite de principal condutor do veículo selecionado </br></br>- Deve conter um botão para confirmar recusar ser o principal condutor
+|**US23:</br>Compartilhar o CRLV** |Eu, como usuário, desejo compartilhar o CRLV do meu veículo cadastrado, para que outros condutores possam utilizar o CRLV do meu veículo|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar o CRLV do veículo selecionado</br></br>- Deve conter um botão para compartilhar o CRLV </br></br>- Deve conter um campo para inserir o CPF do condutor</br></br>- Deve conter um campo para inserir o apelido do condutor</br></br>- Deve conter um botão de afirmação para permitir o compartilhamento|
+|**US24:</br>Parar de compartilhar o CRLV** |Eu, como usuário, desejo parar de compartilhar o CRLV do meu veículo com outro condutor, para ter controle de quem pode ter acesso ao CRLV do meu veículo|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão para acessar os veículos cadastrados</br></br>- Deve ser possível selecionar um dos veículos cadastrados</br></br>- Deve conter um botão para acessar o CRLV do veículo selecionado</br></br>- Deve conter um botão para remover o compartilhamento do CRLV com outro condutor</br></br>- Deve apresentar uma informação sobre a realização bem sucedida da remoção do compartilhamento do CRLV com o condutor|
+|**US25:</br>Aceitar compartilhamento do CRLV**|Eu, como usuário, desejo aceitar o compartilhamento do CRLV, para que eu consiga acessar o CRLV compartilhado pelo proprietário do veículo|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão de aceitar o convite de compartilhamento do CRLV do veículo selecionado </br></br>- Deve exibir o CRLV do veículo selecionado|
+|**US26:</br>Remover compartilhamento do CRLV**|Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha acesso ao CRLV do veículo compartilhado|- Deve conter um botão na tela inicial para acessar a área de veículos</br></br>- Deve conter um botão de remover o compartilhamento do CRLV do veículo selecionado </br></br>- Deve apresentar uma informação sobre a realização bem sucedida da remoção do compartilhamento do CRLV com o proprietário do veículo|
 
-#### **US14: Acessar CRLV dos veículos cadastrados**
-
-&emsp;&emsp; Eu, como usuário, desejo acessar o CRLV dos meu veículo cadastrado, para que consiga ter acesso ao CRLV dentro do sistema
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o CRLV do veículo selecionado
-- Deve possuir um campo para validar a chave de acesso
-- Deve exibir o CRLV do veículo selecionado
-
-#### **US15: Baixar CRLV dos veículos cadastrados**
-
-&emsp;&emsp; Eu, como usuário, desejo baixar o CRLV do meu veículo cadastrado, para manter o CRLV no aparelho
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o CRLV do veículo selecionado
-- Deve conter um botão para baixar o CRLV
-- Deve possuir um campo para validar a chave de acesso
-- Deve baixar o CRLV
-
-#### **US16: Exportar CRLV dos veículos cadastrados**
-
-&emsp;&emsp; Eu, como usuário, desejo exportar o CRLV do meu veículo cadastrado, para que consiga o CRLV nop formato .pdf
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o CRLV do veículo selecionado
-- Deve conter um botão para exportar o CRLV
-- Deve possuir um campo para validar a chave de acesso
-- Deve exibir o CRLV no formato .pdf no local de importação
-
-#### **US17: Remover CRLV dos veículos cadastrados**
-
-&emsp;&emsp; Eu, como usuário, desejo remover o CRLV do meu veículo cadastrado, para que eu consiga apagar meus dados do CRLV do meu dispositivo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o CRLV do veículo selecionado
-- Deve conter um botão para remover o CRLV
-- Deve apresentar uma informação sobre a realização bem sucedida da remoção do CRLV
-
-#### **US18: Consultar Recall**
-
-&emsp;&emsp; Eu, como usuário, desejo consultar recall do meu veículo cadastrado, para que eu consiga acessar os detalhes de recall dos meus veículos
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o dados do veículo selecionado
-- Deve conter um botão para consultar o recall
-- Deve apresentar os detalhes do recall do veículo selecionado
-
-#### **US19: Indicar o principal condutor** 
-
-&emsp;&emsp; Eu, como usuário, desejo indicar o principal condutor de um veículo, para que o devido responsável responda pelas multas de tráfego de veículo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o dados do veículo selecionado
-- Deve conter um botão para consultar o principal condutor
-- Deve conter um botão para indicar o principal condutor
-- Deve conter um campo para inserir o CPF do principal condutor
-- Deve conter um botão para confirmar o principal condutor
-
-
-#### **US20: Excluir o principal condutor** 
-
-&emsp;&emsp; Eu, como usuário, desejo excluir o principal condutor de um veículo, para que o mesmo não responda mais pelas multas de tráfego de veículo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o dados do veículo selecionado
-- Deve conter um botão para consultar o principal condutor
-- Deve conter um botão para remover o principal condutor
-- Deve conter um botão para confirmar a remoção do principal condutor
-
-#### **US21: Aceitar o principal condutor** 
-
-&emsp;&emsp; Eu, como usuário, desejo aceitar um convite para ser o principal condutor de um veículo, para que eu seja responsável pelas multas de tráfego de veículo e portar dados do veículo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão de aceitar o convite de principal condutor do veículo selecionado 
-
-
-#### **US22: Recusar o principal condutor** 
-
-&emsp;&emsp; Eu, como usuário, desejo recusar um convite para ser o principal condutor de um veículo, para que eu não mais seja responsável pelas multas de tráfego de veículo e portar dados do veículo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o dados do veículo selecionado
-- Deve conter um botão de recusar o convite de principal condutor do veículo selecionado 
-- Deve conter um botão para confirmar recusar ser o principal condutor
-
-#### **US23: Compartilhar o CRLV** 
-
-&emsp;&emsp; Eu, como usuário, desejo compartilhar o CRLV do meu veículo cadastrado, para que outros condutores possam utilizar o CRLV do meu veículo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o CRLV do veículo selecionado
-- Deve conter um botão para compartilhar o CRLV 
-- Deve conter um campo para inserir o CPF do condutor
-- Deve conter um campo para inserir o apelido do condutor
-- Deve conter um botão de afirmação para permitir o compartilhamento
-
-#### **US24: Parar de compartilhar o CRLV** 
-
-&emsp;&emsp; Eu, como usuário, desejo parar de compartilhar o CRLV do meu veículo com outro condutor, para que eu tenha controle de quem eu consigo compartilhar o CRLV
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão para acessar os veículos cadastrados
-- Deve ser possível selecionar um dos veículos cadastrados
-- Deve conter um botão para acessar o CRLV do veículo selecionado
-- Deve conter um botão para remover o compartilhamento do CRLV com outro condutor
-- Deve apresentar uma informação sobre a realização bem sucedida da remoção do compartilhamento do CRLV com o condutor
-
-#### **US25: Aceitar compartilhamento do CRLV**
-
-&emsp;&emsp; Eu, como usuário, desejo aceitar o compartilhamento do CRLV, para que eu consiga acessar o CRLV compartilhado pelo proprietário do veículo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão de aceitar o convite de compartilhamento do CRLV do veículo selecionado 
-- Deve exibir o CRLV do veículo selecionado
-
-#### **US26: Remover compartilhamento do CRLV**
-
-&emsp;&emsp; Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha mais o CRLV do veículo compartilhado
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de veículos
-- Deve conter um botão de remover o compartilhamento do CRLV do veículo selecionado 
-- Deve apresentar uma informação sobre a realização bem sucedida da remoção do compartilhamento do CRLV com o proprietário do veículo
 
 ### EP04: Infrações
+|História de Usuário| Descrição|Critérios de Aceitação|
+|-------------------|----------|----------------------|
+|**US27:</br>Consultar Infrações por Infrator**|Eu, como um usuário, desejo consultar as infrações por infrator, para saber quem foi o responsável pela infração naquele veículo|- Deve conter um botão na tela inicial para acessar a área de infrações</br></br>- Deve possuir a opção de verificar infrações por infrator</br></br>- Deve mostrar a lista com todas as infrações cometidas </br></br>- Deve ser possível verificar as informações detalhadas de cada infração|
+|**US28:</br>Solicitar Boleto para Infrações por Infrator**|Eu, como um usuário, desejo solicitar boleto para infrações por infrator, para poder fazer o pagamento da infração|- Deve conter um botão na tela inicial para acessar a área de infrações</br></br>- Deve possuir a opção de verificar infrações por infrator</br></br>- Deve mostrar a lista com todas as infrações cometidas </br></br>- Deve ser possível verificar as informações detalhadas de cada infração</br></br>- Deve conter um botão para solicitar o boleto da infração</br></br>- Deve baixar o boleto em pdf para o dispositivo utilizado no momento da solicitação|
+|**US29:</br>Consultar Infrações por Veículo**|Eu, como um usuário, desejo consultar as infrações por veículo, para ter a relação de infrações em cada veículo que eu possuo|- Deve conter um botão na tela inicial para acessar a área de infrações</br></br>- Deve possuir a opção de verificar infrações por veículo</br></br>- Deve mostra a lista de veículos que possuo</br></br>- Deve ser possível selecionar um dos veículos</br></br>- Deve mostrar a lista com todas as infrações cometidas com aquele veículo </br></br>- Deve ser possível verificar as informações detalhadas de cada infração|
+|**US30:</br>Solicitar Boleto para Infrações por Veículo**|Eu, como um usuário, desejo solicitar boleto para infrações por veículo, para poder fazer o pagamento da infração|- Deve conter um botão na tela inicial para acessar a área de infrações</br></br>- Deve possuir a opção de verificar infrações por veículo</br></br>- Deve mostra a lista de veículos que possuo</br></br>- Deve ser possível selecionar um dos veículos</br></br>- Deve mostrar a lista com todas as infrações cometidas com aquele veículo </br></br>- Deve ser possível verificar as informações detalhadas de cada infração</br></br>- Deve conter um botão para solicitar o boleto da infração</br></br>- Deve baixar o boleto em pdf para o dispositivo utilizado no momento da solicitação|
+|**US31:</br>Informar real infrator**|Eu, como um usuário, desejo informar o real infrator, para que o real responsável pela infração seja penalizado|- Deve conter um botão na tela inicial para acessar a área de infrações</br></br>- Deve mostrar a lista com todas as infrações cometidas</br></br>- Deve ser possível verificar as informações detalhadas de cada infração</br></br>- Deve conter um botão para informação o real infrator</br></br>- Deve conter um formulário para que eu possa informar o real infrator
 
-#### **US27**: Consultar Infrações por Infrator
 
-&emsp;&emsp; Eu, como um usuário, desejo consultar as infrações por infrator, para saber quem foi o responsável pela infração naquele veículo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de infrações
-- Deve possuir a opção de verificar infrações por infrator
-- Deve mostrar a lista com todas as infrações cometidas 
-- Deve ser possível verificar as informações detalhadas de cada infração
-
-#### **US28**: Solicitar Boleto para Infrações por Infrator
-
-&emsp;&emsp; Eu, como um usuário, desejo solicitar boleto para infrações por infrator, para poder fazer o pagamento da infração
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de infrações
-- Deve possuir a opção de verificar infrações por infrator
-- Deve mostrar a lista com todas as infrações cometidas 
-- Deve ser possível verificar as informações detalhadas de cada infração
-- Deve conter um botão para solicitar o boleto da infração
-- Deve baixar o boleto em pdf para o dispositivo utilizado no momento da solicitação
-
-#### **US29**: Consultar Infrações por Veículo
-
-&emsp;&emsp; Eu, como um usuário, desejo consultar as infrações por veículo, para ter a relação de infrações em cada veículo que eu possuo
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de infrações
-- Deve possuir a opção de verificar infrações por veículo
-- Deve mostra a lista de veículos que possuo
-- Deve ser possível selecionar um dos veículos
-- Deve mostrar a lista com todas as infrações cometidas com aquele veículo 
-- Deve ser possível verificar as informações detalhadas de cada infração
-
-#### **US30**: Solicitar Boleto para Infrações por Veículo
-
-&emsp;&emsp; Eu, como um usuário, desejo solicitar boleto para infrações por veículo, para poder fazer o pagamento da infração
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de infrações
-- Deve possuir a opção de verificar infrações por veículo
-- Deve mostra a lista de veículos que possuo
-- Deve ser possível selecionar um dos veículos
-- Deve mostrar a lista com todas as infrações cometidas com aquele veículo 
-- Deve ser possível verificar as informações detalhadas de cada infração
-- Deve conter um botão para solicitar o boleto da infração
-- Deve baixar o boleto em pdf para o dispositivo utilizado no momento da solicitação.
-
-#### **US31**: Informar real infrator
-
-&emsp;&emsp; Eu, como um usuário, desejo informar o real infrator, para que o real responsável pela infração seja penalizado
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de infrações
-- Deve mostrar a lista com todas as infrações cometidas
-- Deve ser possível verificar as informações detalhadas de cada infração
-- Deve conter um botão para informação o real infrator
-- Deve conter um formulário para que eu possa informar o real infrator
 
 ### EP05: Educação
-
-#### **US32**: Consultar campanhas educacionais
-
-&emsp;&emsp; Eu, como um usuário, desejo consultar campanhas educacionais, para aprender e me conscientizar mais sobre sobre os cuidados e boas práticas que se deve ter no trânsito
-
-Critérios de aceitação:
-
-- Deve conter um botão na tela inicial para acessar a área de educação
-- Deve conter todo o material educacional e campanhas vigente no momento do acesso
-- Deve ser possível acessar qualquer um desses conteúdos
+|História de Usuário| Descrição|Critérios de Aceitação|
+|-------------------|----------|----------------------|
+|**US32:</br>Consultar campanhas educacionais**|Eu, como um usuário, desejo consultar campanhas educacionais, para aprender e me conscientizar mais sobre sobre os cuidados e boas práticas que se deve ter no trânsito|- Deve conter um botão na tela inicial para acessar a área de educação</br></br>- Deve conter todo o material educacional e campanhas vigente no momento do acesso</br></br>- Deve ser possível acessar qualquer um desses conteúdos
 
 ## Referências Bibliográficas
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 25 de Março de 2021
 
 ## Versionamento
 
-| Versão | Data       | Modificação                                                                               |       Autor      |
-| ------ | ---------- | ----------------------------------------------------------------------------------------- | ---------------- |
-|  0.1   | 25/03/2021 | Criação dos tópicos do documento e inserção da Introdução                                 |  Estevão Reis    |
-|  1.0   | 26/03/2021 | Criação de 6 histórias de usuário                                                         |  Estevão e Yan   |
-|  1.1   | 26/03/2021 | Descrição da metodologia utilizada                                                        |  Estevão Reis    |
-|  2.0   | 28/03/2021 | Criação das histórias de usuário referente as Infrações e Educação                        |  Estevão Reis    |
-|  3.0   | 29/03/2021 | Criação de novas histórias de usuário referente a Veículos, Habilitação e Conta de Usuário|      Yan         |
-|  3.1   | 30/03/2021 | Correções de Erros Ortográficos e versionamento                                           |  Estevao Reis    |
-|  3.2   | 30/03/2021 | Ajustando a formatação e corrigindo na citação                                            |  Sérgio Cipriano |
+| Versão | Data       | Modificação                                                                                                |       Autor      |
+| ------ | ---------- | ---------------------------------------------------------------------------------------------------------- | ---------------- |
+|  0.1   | 25/03/2021 | Criação dos tópicos do documento e inserção da Introdução                                                  |  Estevão Reis    |
+|  1.0   | 26/03/2021 | Criação de 6 histórias de usuário                                                                          |  Estevão e Yan   |
+|  1.1   | 26/03/2021 | Descrição da metodologia utilizada                                                                         |  Estevão Reis    |
+|  2.0   | 28/03/2021 | Criação das histórias de usuário referente às Infrações e Educação                                         |  Estevão Reis    |
+|  3.0   | 29/03/2021 | Criação de novas histórias de usuário referente a Veículos, Habilitação e Conta de Usuário                 |      Yan         |
+|  3.1   | 30/03/2021 | Correções de Erros Ortográficos e versionamento                                                            |  Estevão Reis    |
+|  3.2   | 30/03/2021 | Ajustando a formatação e corrigindo na citação                                                             |  Sérgio Cipriano |
+|  4.0   | 22/04/2021 | Correções de erros de ortografia, concordância, reformulação de histórias de usuário e adição de critérios |  Estevão Reis    |
+|  5.0   | 30/04/2021 | Inserção das histórias de usuário em tabela                                                                |  Estevão Reis    |
+|  5.1   | 02/05/2021 | Ajustes textuais                                                                                           |  Estevão Reis    |
