@@ -77,7 +77,7 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 
 ## Conclusão
 
-&emsp;&emsp;Com os resultados do questionário, algumas dúvidas puderam ser sanadas, como por exemplo, a maioria dos usuários do CDT utilizam o aplicativo para utilizar a funçao da CNH de maneira digital. Também podemos perceber claramente que a utilização é bastante prática e útil pois a grande maioria dos usuários já enfrentou o excesso de burocracia diante dos ógrão de trânsito. Também podemos relatar que as principais vantagens procuradas em um sistema de agencia governamental são: A facilidade, a segurança e a simplicidade.
+&emsp;&emsp;Com os resultados do questionário, algumas dúvidas puderam ser sanadas, como por exemplo, a maioria dos usuários do CDT utilizam o aplicativo para utilizar a função da CNH de maneira digital. Também podemos perceber claramente que a utilização é bastante prática e útil pois a grande maioria dos usuários já enfrentou o excesso de burocracia diante dos órgãos de trânsito. Também podemos relatar que as principais vantagens procuradas em um sistema de agência governamental são: A facilidade, a segurança e a simplicidade.
 
 &emsp;&emsp;Com os dados coletados, a seguir temos os requisitos levantados a partir da análise das respostas obtidas no questionário:
 
@@ -88,7 +88,7 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 | 1 | Usar um aplicativo mais simples | Funcional |
 | 2 | Ter acesso a CNH digital | Funcional |
 | 3 | Ter acesso ao CRLV digital | Funcional |
-| 4 | Ter acesso as infrações de trânsito | Funcional |
+| 4 | Ter acesso às infrações de trânsito | Funcional |
 | 5 | Ter login integrado com o GOV.br | Funcional |
 | 6 | Utilizar o aplicativo de maneira off-line | Não Funcional |
 | 7 | Ser menos burocrático que o órgãos de trânsito | Não Funcional |
@@ -113,3 +113,4 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 | 1.4 | 10/03/2021 | Arrumando alguns erros | Emily Dias |
 | 1.5 | 11/03/2021 | Correção e organização | Emily Dias, Daniel Porto |
 | 2.0 | 30/04/2021 | Adição da introdução e da conclusão, correção da metodologia | Yan Andrade |
+| 2.1 | 02/05/2021 | Correção de péquenos erros | Yan Andrade |
