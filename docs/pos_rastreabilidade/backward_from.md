@@ -1,11 +1,12 @@
 # Matriz Backward-From
 
 ## 1. Introdução
-
 &emsp;&emsp; A matriz backward-from tem por finalidade fazer a ligação dos requisitos com seus respectivos métodos utilizados para o seu levantamento. Ela pode ser tão complexa quanto se precise e muitas informações podem ser registradas para a rastreabilidade.<br>
-&emsp;&emsp;Para a presente matriz, a equipe estará rastreando os requisitos elicitados de acordo com as suas representações e presenças nos artefatos produzidos no projeto e seus items.
 
-## Requisitos Funcionais
+## 2. Metodologia
+&emsp;&emsp;Para a presente matriz, a equipe estará rastreando os requisitos elicitados de acordo com as suas representações e presenças nos artefatos produzidos no projeto e seus itens.
+
+## 3. Requisitos Funcionais
 | ID | Requisito | Cenários | Backlog | Histórias de Usuário |Casos de Uso | Fontes |
 |--|--|:-:|:-:|:-:|:-:|:-:|
 | **RF01** | Ter login integrado com o sistema GOV.br |C02, C03|F01, F02|US01, US02|UC01| Brainstorming, Questionário |
@@ -34,7 +35,7 @@
 | **RF24** | Ter serviço de mensagens diretas para se comunicar com atendentes do DETRAN em caso de necessitar de suporte |C31|F05|US05|-| Brainstorming |
 | **RF25** | Ter acesso a campanhas de segurança do trânsito do Denatran |C30|F32|US32|UC10| Introspecção |
 
-## Requisitos Não Funcionais
+## 4. Requisitos Não Funcionais
 | ID | Requisito |NFR Framework|Fontes |
 |:-:|--|:-:|--|
 | **RNF01** | Ter acessibilidade |Usabilidade| Brainstorming, Questionário |
@@ -49,12 +50,13 @@
 | **RNF10** | Ser responsivo |Portabilidade| Introspecção |
 | **RNF11** | Ser seguro |Confiabilidade| Questionário |
 
-## Bibliografia
+## 5. Bibliografia
 > - REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020.
-## Versionamento
 
+## 6. Versionamento
 |Versão|Data|Modificação|Autor|
 |:-:|--|--|--|
 |1.0|26/04/2021|Abertura do documento|Emily Dias|
 |2.0|29/04/2021|Adicionando rastreabilidades|Daniel P.|
-|2.1|01*05/2021|Finalizando o documento|Daniel P.|
+|2.1|01/05/2021|Finalizando o documento|Daniel P.|
+|2.2|02/05/2021|Adicionando metodologia|Emily Dias|
