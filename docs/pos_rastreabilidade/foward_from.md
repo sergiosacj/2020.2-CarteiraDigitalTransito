@@ -26,9 +26,13 @@
 
 ### 3.1.Requisitos Funcionais
 
+Link da planilha no excel: >https://docs.google.com/spreadsheets/d/17coHM9K_uAhjtBnQHhdYcbnBRjqoUAP5yWD2YwwLo_M/edit?usp=sharing<
+
 ### 3.2.Requisitos Não Funcionais
 
 ![foward_from_nfr](https://raw.githubusercontent.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/01eea60432a697ade96e1c03e96d88a571a3f23a/docs/assets/imagens/foward_from_nfr.png)
+
+Link da planilha no excel: >https://docs.google.com/spreadsheets/d/1foIYmVKaXko0nOfEn0NQv87n2GSs2nqv65cDbOmsLR4/edit?usp=sharing<
 
 ## 4.Referência Bibliográfica
 
