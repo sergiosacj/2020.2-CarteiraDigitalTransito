@@ -173,7 +173,7 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 
 
 ## 4. Acompanhamento
-&emsp; &emsp; Ainda não foram feitas as correções necessárias.
+&emsp; &emsp; As correções sugeridas foram aplicadas.
 
 ## 5. Bibliografia
 
