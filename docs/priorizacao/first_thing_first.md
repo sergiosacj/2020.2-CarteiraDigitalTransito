@@ -66,6 +66,8 @@
 |Funcional    | **RF5** | Ter todas as informações dos documentos | 0,156 |
 |Funcional    | **RF10** | Gerenciar documentos | 0,129 |  
 
+## Acompanhamento
+&emsp; &emsp; Todas as correções sugeridas foram aplicadas, como detalhar mais a metodologia e disponibilizar o link da planilha.
 
 ## Bibliografia
 
@@ -73,11 +75,12 @@
 
 ## Versionamento
 
-|Data|Versão|Descrição|Autor|
+|Versão|Data|Descrição|Autor|
 |----|------|---------|-----|
-|10/03/2021|0.1|Criação da planilha com os requisitos|Daniel Porto|
-|11/03/2021|1.0|Primeiros passos na estruturação do documento|Estevão Reis|
-|11/03/2021|2.0|Remodelando estrutura: aprimoramento da introdução, adição da bibliografia e descrição melhor definida da metodologia|Sérgio Cipriano|
-|11/03/2021|2.1|Adição dos Resultados do Método First Things First|Estevão Reis|
-|23/04/2021|3.0|Correção de erro|Emily Dias|
-|27/04/2021|3.0|Ajuste de parágrafo|Emily Dias|
+|0.1|10/03/2021|Criação da planilha com os requisitos|Daniel Porto|
+|1.0|11/03/2021|Primeiros passos na estruturação do documento|Estevão Reis|
+|2.0|11/03/2021|Remodelando estrutura: aprimoramento da introdução, adição da bibliografia e descrição melhor definida da metodologia|Sérgio Cipriano|
+|2.1|11/03/2021|Adição dos Resultados do Método First Things First|Estevão Reis|
+|3.0|23/04/2021|Correção de erro|Emily Dias|
+|3.1|27/04/2021|Ajuste de parágrafo|Emily Dias|
+|3.2|01/05/2021|Adição do acompanhamento|Emily Dias|

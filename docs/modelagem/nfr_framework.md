@@ -60,6 +60,9 @@
 ![SIG Eficiência](../assets/imagens/nfr/nfr-eficiencia-p.png)
 <center>Figura 9: SIG Eficiência com propagação<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/52640974/113145257-9d35b800-9204-11eb-9e00-134905b99764.png)</center>
 
+## Acompanhamento
+&emsp; &emsp; Todas as correções sugeridas foram aplicadas, como adicionar as referências necessárias.
+
 ## Bibliografia
 
 > - Requisitos Não-Funcionais. UFPE. Disponível em: https://www.cin.ufpe.br/~if716/arquivos20152/experimentoBruno/Aula2/Aula2-Parte2-NFR%20Framework.pdf. Acesso em: 16 de out. de 2020.
@@ -78,3 +81,4 @@
 |  1.3   | 30/03/2021 | Padronização do documento e adição da metodologia e dos ítens de usabilidade e confiabilidade | Daniel Porto |
 |  1.4   | 31/03/2021 | Padronização dos ítens de portabilidade e eficiência | Emily Dias |
 |  1.5   | 23/04/2021 | Adição de referência | Emily Dias |
+|  1.6   | 01/05/2021 | Adição do acompanhamento | Emily Dias |
