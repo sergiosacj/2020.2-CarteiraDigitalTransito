@@ -87,7 +87,7 @@
 
 - [Página de verificação dos Cenários do grupo IFut - 2020.1](https://requisitos-de-software.github.io/2020.1-iFut/analise/verificacoes/mod_cenarios/)
 
-- - [Página de verificação dos Cenários do grupo Promobit - 2020.1](https://requisitos-de-software.github.io/2020.1-Promobit/analise/verificacao/cenario/)
+- [Página de verificação dos Cenários do grupo Promobit - 2020.1](https://requisitos-de-software.github.io/2020.1-Promobit/analise/verificacao/cenario/)
 
 ## 7. Versionamento
 | Versão | Data | Modificação | Autor |
