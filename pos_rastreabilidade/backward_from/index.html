@@ -1,0 +1,1610 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/logos/favicon.ico">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.3">
+    
+    
+      
+        <title>Matriz Backward-From - Carteira Digital Trânsito</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.e35208c4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ef6f36e2.min.css">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#matriz-backward-from" class="md-skip">
+          Ir para o conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Carteira Digital Trânsito" class="md-header__button md-logo" aria-label="Carteira Digital Trânsito" data-md-component="logo">
+      
+  <img src="../../assets/logos/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Carteira Digital Trânsito
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Matriz Backward-From
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Carteira Digital Trânsito" class="md-nav__button md-logo" aria-label="Carteira Digital Trânsito" data-md-component="logo">
+      
+  <img src="../../assets/logos/logo.png" alt="logo">
+
+    </a>
+    Carteira Digital Trânsito
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/" title="Ir ao repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Sobre
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      <label class="md-nav__link" for="__nav_3">
+        Pré-rastreabilidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Pré-rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Pré-rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre_rastreabilidade/rich_pictures/" class="md-nav__link">
+        Rich pictures
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      <label class="md-nav__link" for="__nav_4">
+        Elicitação de requisitos
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Elicitação de requisitos" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Elicitação de requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        Personas
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/introspeccao/" class="md-nav__link">
+        Introspecção
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/questionario/" class="md-nav__link">
+        Questionário
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/brainstorming/" class="md-nav__link">
+        Brainstorming
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/requisitos/" class="md-nav__link">
+        Todos os requisitos
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      <label class="md-nav__link" for="__nav_5">
+        Priorização de requisitos
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Priorização de requisitos" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Priorização de requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../priorizacao/first_thing_first/" class="md-nav__link">
+        First Things First
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../priorizacao/moscow/" class="md-nav__link">
+        MoSCoW
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      <label class="md-nav__link" for="__nav_6">
+        Modelagem
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Modelagem" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Modelagem
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/caso_de_uso/" class="md-nav__link">
+        Casos de uso
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexico/" class="md-nav__link">
+        Léxico
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao_suplementar/" class="md-nav__link">
+        Especificação suplementar
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/nfr_framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/backlog_do_produto/" class="md-nav__link">
+        Backlog do produto
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/historia_de_usuario/" class="md-nav__link">
+        Histórias de Usuário
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      <label class="md-nav__link" for="__nav_7">
+        Análise
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Análise" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Análise
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_1" type="checkbox" id="__nav_7_1" >
+      
+      <label class="md-nav__link" for="__nav_7_1">
+        Verificação
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Verificação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_1">
+          <span class="md-nav__icon md-icon"></span>
+          Verificação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/planejamento/" class="md-nav__link">
+        Planejamento
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/rich_picture/" class="md-nav__link">
+        Rich pictures
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/caso_de_uso/" class="md-nav__link">
+        Casos de Uso
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/cenario/" class="md-nav__link">
+        Cenários
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/lexico/" class="md-nav__link">
+        Léxicos
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/nfr_framework/" class="md-nav__link">
+        NFR Framework
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/backlog/" class="md-nav__link">
+        Backlog de Produto
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/moscow/" class="md-nav__link">
+        MoSCoW
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/historia_de_usuario/" class="md-nav__link">
+        Historias de Usuário
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/verificacao/first_things_first/" class="md-nav__link">
+        First Things First
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_2" type="checkbox" id="__nav_7_2" >
+      
+      <label class="md-nav__link" for="__nav_7_2">
+        Validação
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Validação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_2">
+          <span class="md-nav__icon md-icon"></span>
+          Validação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/prototipo/" class="md-nav__link">
+        Protótipo
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analise/validacao/viewpoint/" class="md-nav__link">
+        Viewpoint
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" checked>
+      
+      <label class="md-nav__link" for="__nav_8">
+        Pós-rastreabilidade
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Pós-rastreabilidade" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Pós-rastreabilidade
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../foward_from/" class="md-nav__link">
+        Matriz Forward-From
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Matriz Backward-From
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Matriz Backward-From
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-requisitos-funcionais" class="md-nav__link">
+    3. Requisitos Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-requisitos-nao-funcionais" class="md-nav__link">
+    4. Requisitos Não Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-bibliografia" class="md-nav__link">
+    5. Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-versionamento" class="md-nav__link">
+    6. Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
+      
+      <label class="md-nav__link" for="__nav_9">
+        Apresentações
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Apresentações" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Apresentações
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao_1/" class="md-nav__link">
+        Apresentação 1
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao_2/" class="md-nav__link">
+        Apresentação 2
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao_3/" class="md-nav__link">
+        Apresentação 3
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao_4/" class="md-nav__link">
+        Apresentação 4
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao_5/" class="md-nav__link">
+        Apresentação 5
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacoes/apresentacao_6/" class="md-nav__link">
+        Apresentação 6
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10" type="checkbox" id="__nav_10" >
+      
+      <label class="md-nav__link" for="__nav_10">
+        Atas
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Atas" data-md-level="1">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Atas
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao-26-02-2021/" class="md-nav__link">
+        26/02/2021
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao-11-03-2021/" class="md-nav__link">
+        11/03/2021
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao-15-03-2021/" class="md-nav__link">
+        15/03/2021
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao-23-03-2021/" class="md-nav__link">
+        23/03/2021
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao-05-04-2021/" class="md-nav__link">
+        05/04/2021
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/reuniao-20-04-2021/" class="md-nav__link">
+        20/04/2021
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-introducao" class="md-nav__link">
+    1. Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-metodologia" class="md-nav__link">
+    2. Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-requisitos-funcionais" class="md-nav__link">
+    3. Requisitos Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-requisitos-nao-funcionais" class="md-nav__link">
+    4. Requisitos Não Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-bibliografia" class="md-nav__link">
+    5. Bibliografia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-versionamento" class="md-nav__link">
+    6. Versionamento
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/edit/master/docs/pos_rastreabilidade/backward_from.md" title="Editar esta página" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                <h1 id="matriz-backward-from">Matriz Backward-From</h1>
+<h2 id="1-introducao">1. Introdução</h2>
+<p>&emsp;&emsp; A matriz backward-from tem por finalidade fazer a ligação dos requisitos com seus respectivos métodos utilizados para o seu levantamento. Ela pode ser tão complexa quanto se precise e muitas informações podem ser registradas para a rastreabilidade.<br></p>
+<h2 id="2-metodologia">2. Metodologia</h2>
+<p>&emsp;&emsp;Para a presente matriz, a equipe estará rastreando os requisitos elicitados de acordo com as suas representações e presenças nos artefatos produzidos no projeto e seus itens.</p>
+<h2 id="3-requisitos-funcionais">3. Requisitos Funcionais</h2>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Requisito</th>
+<th align="center">Cenários</th>
+<th align="center">Backlog</th>
+<th align="center">Histórias de Usuário</th>
+<th align="center">Casos de Uso</th>
+<th align="center">Fontes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>RF01</strong></td>
+<td>Ter login integrado com o sistema GOV.br</td>
+<td align="center">C02, C03</td>
+<td align="center">F01, F02</td>
+<td align="center">US01, US02</td>
+<td align="center">UC01</td>
+<td align="center">Brainstorming, Questionário</td>
+</tr>
+<tr>
+<td><strong>RF02</strong></td>
+<td>Ter acesso às multas do seu veículo</td>
+<td align="center">C27</td>
+<td align="center">F29</td>
+<td align="center">US29</td>
+<td align="center">UC07</td>
+<td align="center">Brainstorming, Introspecção, Questionário</td>
+</tr>
+<tr>
+<td><strong>RF03</strong></td>
+<td>Ter acesso a versão digital da CNH</td>
+<td align="center">C05, C06, C07, C08, C09</td>
+<td align="center">F09, F10, F11</td>
+<td align="center">US09, US10, US11</td>
+<td align="center">UC02, UC04</td>
+<td align="center">Brainstorming, Introspecção, Questionário</td>
+</tr>
+<tr>
+<td><strong>RF04</strong></td>
+<td>Ter acesso a versão digital do CRLV</td>
+<td align="center">C12, C13, C14, C15</td>
+<td align="center">F14, F15, F16, F18</td>
+<td align="center">US14, US15, US16, US18</td>
+<td align="center">UC03, UC05, UC06</td>
+<td align="center">Brainstorming, Introspecção, Questionário</td>
+</tr>
+<tr>
+<td><strong>RF05</strong></td>
+<td>Ter todas as informações dos documentos</td>
+<td align="center">C09, C11, C13, C14, C15</td>
+<td align="center">F11, F13, F14, F16, F18</td>
+<td align="center">US11, US13, US14, US16, US18</td>
+<td align="center">UC03, UC05, UC06</td>
+<td align="center">Brainstorming, Instrospecção</td>
+</tr>
+<tr>
+<td><strong>RF06</strong></td>
+<td>Poder marcar a renovação da CNH</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF07</strong></td>
+<td>Checar quantidades de pontos da CNH</td>
+<td align="center">C25, C26</td>
+<td align="center">F27, F28</td>
+<td align="center">US27, US28</td>
+<td align="center">UC07, UC08</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF08</strong></td>
+<td>Cadastro na aplicação</td>
+<td align="center">C01, C08</td>
+<td align="center">F09</td>
+<td align="center">US09</td>
+<td align="center">UC01</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF09</strong></td>
+<td>Fazer logout na aplicação</td>
+<td align="center">C04</td>
+<td align="center">F04</td>
+<td align="center">US04</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF10</strong></td>
+<td>Gerenciar documentos</td>
+<td align="center">C05, C06, C07, C09, C10, C11, C12, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C32</td>
+<td align="center">F13, F10, F11, F12, F13, F15, F16, F17, F18, F19, F20, F21, F22, F23, F24, F25, F26</td>
+<td align="center">US13, US10, US11, US12, US13, US15, US16, US17, US18, US19, US20, US21, US22, US23, US24, US25, US26</td>
+<td align="center">UC02, UC03, UC04, UC06</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF11</strong></td>
+<td>Excluir documentos</td>
+<td align="center">C10, C16</td>
+<td align="center">F12, F17</td>
+<td align="center">US12, US17</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF12</strong></td>
+<td>Se informar sobre o detran/denatran</td>
+<td align="center">C30, C31, C33, C34</td>
+<td align="center">F05, F06, F08, F32</td>
+<td align="center">US05, US06, US08, US32</td>
+<td align="center">UC10</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF13</strong></td>
+<td>Ter dados detalhados de cada veículo</td>
+<td align="center">C13, C14, C15</td>
+<td align="center">F14, F16, F18</td>
+<td align="center">US14, US16, US18</td>
+<td align="center">UC03, UC05, UC06</td>
+<td align="center">Brainstorming, Introspecção</td>
+</tr>
+<tr>
+<td><strong>RF14</strong></td>
+<td>Ter sistema de notificação ao receber multa</td>
+<td align="center">C33</td>
+<td align="center">F12, F14</td>
+<td align="center">US12, US14</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF15</strong></td>
+<td>Ter detalhes sobre a situação perante ao departamento de trânsito</td>
+<td align="center">C13, C14, C25, C26, C27</td>
+<td align="center">F14, F18, F27, F28, F29</td>
+<td align="center">US14, US18, US27, US28, US29</td>
+<td align="center">UC03, UC05, UC06, UC07, UC08</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF16</strong></td>
+<td>Ver quais dispositivos estão logados</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF17</strong></td>
+<td>Gerar boleto bancário para pagamento de multas</td>
+<td align="center">C26, C28</td>
+<td align="center">F27, F30</td>
+<td align="center">US27, US30</td>
+<td align="center">UC08</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF18</strong></td>
+<td>Recorrer a multas</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF19</strong></td>
+<td>Validar documentos</td>
+<td align="center">C05, C06, C07, C08</td>
+<td align="center">F09, F10</td>
+<td align="center">US09, US10</td>
+<td align="center">UC02, UC04</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF20</strong></td>
+<td>Declarar o real infrator</td>
+<td align="center">C29</td>
+<td align="center">F31</td>
+<td align="center">US31</td>
+<td align="center">UC09</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF21</strong></td>
+<td>Ter sistema de notificação quando se aproximar da validade da CNH</td>
+<td align="center">C35</td>
+<td align="center">F08</td>
+<td align="center">US08</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF22</strong></td>
+<td>Marcar vistorias</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF23</strong></td>
+<td>Declarar motorista usual</td>
+<td align="center">C17, C18, C19, C20</td>
+<td align="center">F19, F20, F21, F22</td>
+<td align="center">US19, US20, US21, US22</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF24</strong></td>
+<td>Ter serviço de mensagens diretas para se comunicar com atendentes do DETRAN em caso de necessitar de suporte</td>
+<td align="center">C31</td>
+<td align="center">F05</td>
+<td align="center">US05</td>
+<td align="center">-</td>
+<td align="center">Brainstorming</td>
+</tr>
+<tr>
+<td><strong>RF25</strong></td>
+<td>Ter acesso a campanhas de segurança do trânsito do Denatran</td>
+<td align="center">C30</td>
+<td align="center">F32</td>
+<td align="center">US32</td>
+<td align="center">UC10</td>
+<td align="center">Introspecção</td>
+</tr>
+</tbody>
+</table>
+<h2 id="4-requisitos-nao-funcionais">4. Requisitos Não Funcionais</h2>
+<table>
+<thead>
+<tr>
+<th align="center">ID</th>
+<th>Requisito</th>
+<th align="center">NFR Framework</th>
+<th>Fontes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><strong>RNF01</strong></td>
+<td>Ter acessibilidade</td>
+<td align="center">Usabilidade</td>
+<td>Brainstorming, Questionário</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF02</strong></td>
+<td>Ter acesso rápido e eficiente aos documentos</td>
+<td align="center">Eficiência</td>
+<td>Brainstorming, Introspecção</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF03</strong></td>
+<td>Desburocratizar demandas relativas a DETRAN e DENATRAN</td>
+<td align="center">-</td>
+<td>Brainstorming, Introspecção, Questionário</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF04</strong></td>
+<td>Ser compatível com todos dispositivos disponíveis no mercado</td>
+<td align="center">Portabilidade</td>
+<td>Brainstorming</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF05</strong></td>
+<td>Centralizar o máximo de documentos relacionados ao veículo possível</td>
+<td align="center">-</td>
+<td>Brainstorming</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF06</strong></td>
+<td>Ser prático e intuitivo</td>
+<td align="center">Usabilidade</td>
+<td>Brainstorming, Introspecção, Questionário</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF07</strong></td>
+<td>Ser minimalista</td>
+<td align="center">Usabilidade</td>
+<td>Brainstorming, Questionário</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF08</strong></td>
+<td>Ser objetivo</td>
+<td align="center">Usabilidade</td>
+<td>Brainstorming</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF09</strong></td>
+<td>Possuir recursos off-line</td>
+<td align="center">Eficiência</td>
+<td>Brainstorming, Questionário</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF10</strong></td>
+<td>Ser responsivo</td>
+<td align="center">Portabilidade</td>
+<td>Introspecção</td>
+</tr>
+<tr>
+<td align="center"><strong>RNF11</strong></td>
+<td>Ser seguro</td>
+<td align="center">Confiabilidade</td>
+<td>Questionário</td>
+</tr>
+</tbody>
+</table>
+<h2 id="5-bibliografia">5. Bibliografia</h2>
+<blockquote>
+<ul>
+<li>REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020.</li>
+</ul>
+</blockquote>
+<h2 id="6-versionamento">6. Versionamento</h2>
+<table>
+<thead>
+<tr>
+<th align="center">Versão</th>
+<th>Data</th>
+<th>Modificação</th>
+<th>Autor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1.0</td>
+<td>26/04/2021</td>
+<td>Abertura do documento</td>
+<td>Emily Dias</td>
+</tr>
+<tr>
+<td align="center">2.0</td>
+<td>29/04/2021</td>
+<td>Adicionando rastreabilidades</td>
+<td>Daniel P.</td>
+</tr>
+<tr>
+<td align="center">2.1</td>
+<td>01/05/2021</td>
+<td>Finalizando o documento</td>
+<td>Daniel P.</td>
+</tr>
+<tr>
+<td align="center">2.2</td>
+<td>02/05/2021</td>
+<td>Adicionando metodologia</td>
+<td>Emily Dias</td>
+</tr>
+</tbody>
+</table>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        <a href="../foward_from/" class="md-footer__link md-footer__link--prev" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              Matriz Forward-From
+            </div>
+          </div>
+        </a>
+      
+      
+        <a href="../../apresentacoes/apresentacao_1/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Próximo
+              </span>
+              Apresentação 1
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "search.config.lang": "pt", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Buscar", "search.result.placeholder": "Digite para iniciar a busca", "search.result.none": "Nenhum resultado encontrado", "search.result.one": "1 resultado encontrado", "search.result.other": "# resultados encontrados", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../assets/javascripts/workers/search.fe42c31b.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.4ea5477f.min.js"></script>
+      
+    
+  </body>
+</html>

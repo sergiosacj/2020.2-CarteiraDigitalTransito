@@ -1,0 +1,14 @@
+:root {
+  --md-primary-fg-color: #212f56;
+}
+
+p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+p {
+  text-align: justify;
+}
