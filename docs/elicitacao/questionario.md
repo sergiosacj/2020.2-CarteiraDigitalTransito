@@ -1,9 +1,11 @@
-## Introdução
+# Questionário
+
+## 1. Introdução
 
 &emsp;&emsp;O Questionário é uma técnica na qual é feito uma pesquisa com diversas perguntas para que os usuários possam responder e, por meio das respostas, é levantado os requisitos. Na fase de preparação deve ser indicado o tipo de informação que deseja obter, de forma clara e objetiva para captar respostas mais coesas.
 Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de como o usuário pensa, e ajuda a melhorar todos os pontos levantados por eles.
 
-## Metodologia
+## 2. Metodologia
 
 &emsp;&emsp;As perguntas presentes no questionário foram elaboradas pelos integrantes do grupo, as mesmas são consideradas genéricas para saber o perfil dos participantes e também questionamentos relacionados ao aplicativo. Foram elaboradas 19 perguntas, dessas, 18 são obrigatórias e o tempo de duração máximo para respondê-las é de cerca de 3 minutos. 
 
@@ -14,7 +16,7 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 
 &emsp;&emsp;O questionário foi realizado utilizando a plaforma [Google Forms](https://www.google.com/forms/about/), o questionário obteve 64 respostas e os dados obtidos podem ser analisados a seguir:
 
-## Resultados
+## 3. Resultados
 
 ### Pergunta 1
 ![image](https://user-images.githubusercontent.com/52640974/110645854-19545700-8195-11eb-9224-ee53d589ec9b.png)
@@ -75,13 +77,13 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 ### Pergunta 12
 ![image](https://user-images.githubusercontent.com/52640974/110648682-af897c80-8197-11eb-846b-cf2c61c3e52c.png)
 
-## Conclusão
+## 4. Conclusão
 
 &emsp;&emsp;Com os resultados do questionário, algumas dúvidas puderam ser sanadas, como por exemplo, a maioria dos usuários do CDT utilizam o aplicativo para utilizar a função da CNH de maneira digital. Também podemos perceber claramente que a utilização é bastante prática e útil pois a grande maioria dos usuários já enfrentou o excesso de burocracia diante dos órgãos de trânsito. Também podemos relatar que as principais vantagens procuradas em um sistema de agência governamental são: A facilidade, a segurança e a simplicidade.
 
 &emsp;&emsp;Com os dados coletados, a seguir temos os requisitos levantados a partir da análise das respostas obtidas no questionário:
 
-## Requisitos
+## 5. Requisitos
 
 |Número| Requisito | Tipo de Requisito
 |:-:|--|--|
@@ -99,11 +101,11 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 | 12 | Ser acessível | Não Funcional |
 
 
-## Bibliografia
+## 6. Bibliografia
 
 > - SOUSA. Julio Martins, Levantamento de Requisitos – O ponto de partida do projeto de software Disponível em: https://blog.cedrotech.com/levantamento-de-requisitos-o-ponto-de-partida-do-projeto-de-software/ Acesso em: 10 Mar. 2021.
 
-## Versionamento
+## 7. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 02/03/2021 | Criação do questionário | Emily Dias e Yan Andrade|
@@ -114,3 +116,4 @@ Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de com
 | 1.5 | 11/03/2021 | Correção e organização | Emily Dias, Daniel Porto |
 | 2.0 | 30/04/2021 | Adição da introdução e da conclusão, correção da metodologia | Yan Andrade |
 | 2.1 | 02/05/2021 | Correção de péquenos erros | Yan Andrade |
+|  2.2   | 02/05/2021 | Ajuste de documento | Emily Dias |

@@ -1,17 +1,20 @@
-# Verificação do Backlog
+# Verificação - Backlog
+
+## 1. Introdução
 &emsp; &emsp;Este documento visa verificar o backlog de produto para detectar os erros e defeitos antes de finalizar o projeto.</br>
 &emsp; &emsp;Para a verificação do backlog foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
 
 
-## 1. Contexto
+## 2. Contexto
  - Técnica: Inspeção
  - Autores: Sérgio Cipriano e Enzo Gabriel
  - Revisores: Estevão Reis e Daniel Porto
  - Inspetores: Estevão Reis
 
  O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/backlog_do_produto/)
-## 2. Checklist
-### 2.1.Perguntas
+
+## 3. Checklist
+### 3.1.Perguntas
 | Número | Pergunta |
 |:--:|--|
 | 1 | Todas as informações necessárias estão presentes? |
@@ -25,13 +28,13 @@
 | 9 | Possui ator coerente? |
 |10 | Desejo e objetivo coerentes?|
 
-### 2.2. Legenda
+### 3.2. Legenda
 |Símbolo|Descrição|
 |-------|---------|
 |✔     | Contém   |
 |✖     |Não Contém|
 
-### 2.3. Resultados
+### 3.3. Resultados
 
 |US  |1|2 |3|4 |5|6|7|8 |9|10
 |----|-|--|-|--|-|-|-|--|-|--|
@@ -71,8 +74,8 @@
 |US31|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
 |US32|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |
 
-## 3. Conclusão
-### 3.1. Problemas Encontrados
+## 4. Conclusão
+### 4.1. Problemas Encontrados
 #### US02:Realizar o login
 ##### Problemas 
 
@@ -119,8 +122,8 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 ##### Possíveis soluções
 10 - Mudar OBJETIVO para "Para ter controle de quem pode ter acesso ao CRLV do meu veículo";
 
-### 3.2. Dados Percentuais
-#### 3.2.1.Backlog do Produto
+### 4.2. Dados Percentuais
+#### 4.2.1.Backlog do Produto
 |US  |Porcentagem de Sucesso|
 |----|-|
 |US01|100%|
@@ -156,7 +159,7 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 |US31|100%|
 |US32|100%|
 
-### 3.2.2.Perguntas
+### 4.2.2.Perguntas
 | Número | Pergunta |Porcentagem de Sucesso|
 |:--:|--|---|
 | 1 | Todas as informações necessárias estão presentes? |96,88%|
@@ -172,14 +175,14 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 
 
 
-## 4. Acompanhamento
+## 5. Acompanhamento
 &emsp; &emsp; As correções sugeridas foram aplicadas.
 
-## 5. Bibliografia
+## 6. Bibliografia
 
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 09 de Abril de 2021
 
-## 6.Versionamento
+## 7.Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 08/04/2021 | Criação do documento com os checklist em todas as histórias de usuário do Backlog | Estevão Reis |
@@ -190,3 +193,4 @@ Devido a incoerência entre desejo e objetivo, não será apontado soluções pa
 | 6.0 | 11/04/2021 | Inserção dos Dados percentuais | Estevão Reis|
 | 6.1 | 12/04/2011 | Correção de erros ortográficos | Estevão Reis|
 | 6.2 | 14/04/2011 | Inserção do link do documento verificado | Estevão Reis|
+|  6.3   | 02/05/2021 | Ajuste de documento | Emily Dias |

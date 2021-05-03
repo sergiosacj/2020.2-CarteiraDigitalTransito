@@ -1,6 +1,6 @@
 # MoSCoW
 
-## Introdução
+## 1. Introdução
 
 MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a importância das tarefas  que compõe um projeto. As tarefas são classificadas por Must, Should, Could e Won't, que juntas formam o acrônimo MoSCow.
 
@@ -9,11 +9,11 @@ MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a
 * Could: são as tarefas desejáveis, mas também não são essenciais. São tarefas que devem ser feitas apenas se houver tempo e recursos para finalizá-la.
 * Won't: são requisitos menos críticos, que a princípio não serão implementados.
 
-## Metodologia
+## 2. Metodologia
 
 &emsp;&emsp;Para levantar as prioridades diante dos requisitos funcionais e não funcionais dois integrantes do grupo realizaram uma videochamada na plataforma Discord e definiram as prioridades tendo como base os pontos colocados no tópico acima.
 
-## Requisitos Funcionais
+## 3. Requisitos Funcionais
 | Identificação | Requisito | Prioridade |
 |:-:|--|--|
 | **RF1** | Ter login integrado com o sistema GOV.br | Must |
@@ -42,7 +42,7 @@ MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a
 | **RF24** | Ter serviço de mensagens diretas para se comunicar com atendentes do DETRAN em caso de necessitar de suporte | Should |
 | **RF25** | Ter acesso a campanhas de segurança do trânsito do Denatran | Must |
 
-## Requisitos Não Funcionais
+## 4. Requisitos Não Funcionais
 | Identificação | Requisito | Prioridade |
 |:-:|--|--|
 | **RNF1** | Ter acessibilidade | Must |
@@ -57,14 +57,15 @@ MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a
 | **RNF10** | Ser responsivo | Must |
 | **RNF11** | Ser seguro | Should |
 
-## Bibliografia
+## 5. Bibliografia
 
 > - Aprenda como o método MoSCoW poderá ajudá-lo a priorizar as tarefas da sua empresa. Disponível em: https://www.voitto.com.br/blog/artigo/metodo-moscow. Acesso em 11 de Mar. de 2021
 
-## Versionamento
+## 6. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/03/2021 | Criação do documento e priorização dos requisitos | Daniel Porto, Emily Dias |
 | 1.1 | 11/03/2021 | Explicação do método | Enzo Gabriel |
 | 1.2 | 30/03/2021 | Adição do  requisito RFN11 que estava faltando  | Sérgio Cipriano |
 | 1.3 | 02/05/2021 | Adição da metodologia  | Yan Andrade |
+|  1.4   | 02/05/2021 | Ajuste de documento | Emily Dias |

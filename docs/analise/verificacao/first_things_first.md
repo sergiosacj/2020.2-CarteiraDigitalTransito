@@ -1,6 +1,6 @@
-# 1. Verificação - First Things First
+# Verificação - First Things First
 
-## 2. Contexto
+## 1. Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autores do documento: Daniel Porto, Estevão Reis e Sérgio Cipriano.
@@ -10,8 +10,8 @@
 O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/priorizacao/first_thing_first/)
 
 
-## 3. Checklist
-### 3.1. Resultados
+## 2. Checklist
+### 2.1. Resultados
 
 |Número|Pergunta|Resposta| 
 | ---- | ------ | ------ |
@@ -27,17 +27,18 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 | 10 | Os requisitos estão bem escritos? | 0K |
 | 11 |  Teve boas referências?| OK |
 
-### 3.2 Conclusão
+### 2.2 Conclusão
 
 &emsp;&emsp; O documento First Things First foi verificado e não foram identificadfos erros referentes ao que está listado no checklist.
 
-## 4. Bibliografia
+## 3. Bibliografia
 
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 09 de Abril de 2021
 
-## 5. Versionamento
+## 4. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 13/04/2021 | Criação do documento | Yan |
 | 1.1 | 14/04/2021 | Correção de pequenos erros | Yan |
 | 1.2 | 15/04/2021 | Correção de pequenos erros | Yan |
+|  1.3   | 02/05/2021 | Ajuste de documento | Emily Dias |

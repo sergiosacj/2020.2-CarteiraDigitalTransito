@@ -1,15 +1,15 @@
 # Casos de Uso
 
-## Introdução
+## 1. Introdução
 
 &emsp;&emsp;Um documento de caso de uso é uma técnica que descreve como o usuário realizará uma determinada tarefa dentro do contexto de um software. Ele descreve o ponto de vista do usuário e como o sistema responde a partir de suas ações, cada caso de uso é uma sequência de passos que são descritos a partir de fluxos, que começam com um objetivo principal e terminam quando esse objetivo está realizado.
 
 &emsp;&emsp;Os casos de uso são a próxima etapa no processo de design, depois de ter a lista completa dos requisitos. Os casos de uso integram os requisitos em um pacote abrangente que descreve a interação do usuário com o sistema. Eles começam onde o processo de coleta de requisitos termina. Os requisitos determinam quais Casos de Uso o sistema terá, e muitos dos requisitos se tornarão sua lógica de negócios.
 
-## Metodologia
+## 2. Metodologia
 &emsp;&emsp; Para definir e criar os diagramas de caso de uso, fizemos uso dos principais cenários da aplicação, já existentes no projeto. Além disso, para conseguirmos descrever com detalhes os fluxos principais alternativos e de exceção dos casos de uso, executamos experimentalmente esses fluxos dentro da aplicação e tomamos nota de cada passo dentro do fluxo referente ao caso de uso
 
-## Diagrama de Casos de Uso
+## 3. Diagrama de Casos de Uso
 
 &emsp;&emsp;O diagrama foi desenvolvido utilizando a ferramenta Draw.io e pode ser acessado por [aqui](https://drive.google.com/file/d/15_uVgzoFekdPmloVPmu8C9aZdvbFF_wT/view?usp=sharing).
 
@@ -18,7 +18,7 @@
 <center>Figura 1: Diagrama de Casos de Uso Carteira Digital de Trânsito.<br>[Link para a imagem expandida](https://user-images.githubusercontent.com/48573556/116772868-346e7500-aa28-11eb-9b87-70063fb61c8d.png)
 </center>
 
-## Especificação dos Casos de Uso
+## 4. Especificação dos Casos de Uso
 ### UC01 - Fazer o login
 |UC01|Descrição|
 |:-:|--|
@@ -141,13 +141,13 @@
 |Pós-condições|O usuário terá acesso a todas as cartilhas de capanhas educativas vigente no momento|
 |Rastreabilidade|RF12, RF25|
 
-## Bibliografia
+## 5. Bibliografia
 
 > - UML Use Case Diagrams. uml-diagrams. Disponívem em: <https://www.uml-diagrams.org/use-case-diagrams.html>. Acesso em: 30/04/2021.
 > - WHITNEY, Ellen - Introduction to Gathering Requirements and Creating Use Cases. Disponível em: <https://www.codemag.com/article/0102061/Introduction-to-Gathering-Requirements-and-Creating-Use-Cases>. Acesso em: 18 Março 2021.
 > - REINEHR, Sheila - Engenharia de Requisitos.
 
-## Versionamento
+## 6. Versionamento
 
 | Versão | Data       | Modificação                                         | Autor        |
 | :-: | ---------- | --------------------------------------------------- | ------------ |
@@ -159,3 +159,4 @@
 | 0.6    | 22/03/2021 | Correção de erros ortográficos                      | Estevao Reis |
 | 1.0    | 22/03/2021 | Adição da Metodologia                               | Estevao Reis |
 |2.0|30/04/2021|Refatoração do documento|Daniel Porto|
+|  1.1   | 02/05/2021 | Ajuste de documento | Emily Dias |

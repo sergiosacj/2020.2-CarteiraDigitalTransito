@@ -1,8 +1,10 @@
-# Verificação das Histórias de Usuário
+# Verificação - Histórias de Usuário
+
+## 1. Introdução
 &emsp; &emsp;Este documento visa verificar as Histórias de Usuário para detectar os erros e defeitos antes de finalizar o projeto.</br>
 &emsp; &emsp;Para a verificação das Histórias de usuário foi escolhida a estratégia de inspeção por checklist, por ser simples, objetiva e a mais eficaz em comparação às outras neste contexto.
 
-## 1. Contexto
+## 2. Contexto
  - Técnica: Inspeção
  - Autores: Estevão Reis e Yan Andrade
  - Revisores: Sérgio Cipriano e Emily Dias
@@ -11,8 +13,8 @@
  O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/historia_de_usuario/)
 
 
-## 2. Checklist
-### 2.1.Perguntas
+## 3. Checklist
+### 3.1.Perguntas
 | Número | Pergunta |
 |:--:|--|
 | 1 | Todas as informações necessárias estão presentes? |
@@ -27,13 +29,13 @@
 | 10 | Possui ator coerente? |
 | 11 | A história de usuário é coerente? | 
 
-### 2.2. Legenda
+### 3.2. Legenda
 |Símbolo|Descrição|
 |-------|---------|
 |✔     | Contém   |
 |✖     |Não Contém|
 
-### 2.3. Resultados
+### 3.3. Resultados
 
 |US  |1|2 |3|4 |5|6|7|8 |9|10|11|
 |----|-|--|-|--|-|-|-|--|-|--|--|
@@ -73,8 +75,8 @@
 |US31|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
 |US32|✔|✔|✔|✔|✔|✔|✔|✔|✔|✔ |✔|
 
-## 3. Conclusão
-### 3.1. Problemas Encontrados
+## 4. Conclusão
+### 4.1. Problemas Encontrados
 
 #### US03:Alterar foto do perfil de usuário
 
@@ -194,9 +196,9 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 ##### Possíveis Soluções
 2 11 - "Eu, como usuário, desejo recusar o compartilhamento do CRLV realizado pelo proprietário do veículo, para que não tenha acesso ao CRLV do veículo compartilhado".
 
-### 3.2. Dados Percentuais
+### 4.2. Dados Percentuais
 
-#### 3.2.1.Histórias de Usuário
+#### 4.2.1.Histórias de Usuário
 |US  |Porcentagem de Sucesso|
 |----|-|
 |US01|100%|
@@ -232,7 +234,7 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 |US31|100%|
 |US32|100%|
 
-#### 3.2.2.Perguntas
+#### 4.2.2.Perguntas
 | Número | Pergunta |Porcentagem de Sucesso|
 |:--:|--|---|
 | 1 | Todas as informações necessárias estão presentes? |96,88%|
@@ -247,14 +249,14 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 | 10 | Possui ator coerente? |100%|
 | 11 | A história de usuário é coerente? | 100%|
 
-## 4. Acompanhamento
+## 5. Acompanhamento
 &emsp; &emsp; Todas as correções sugeridas foram aplicadas.
 
-## 5. Bibliografia
+## 6. Bibliografia
 
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 09 de Abril de 2021
 
-## 6.Versionamento
+## 7.Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 12/04/2021 | Criação do documento | Estevão Reis |
@@ -264,3 +266,4 @@ Devido a incoerência da história de usuário, não será apontado soluções p
 | 4.1 | 12/04/2011 | Correção de erros ortográficos | Estevão Reis|
 | 4.2 | 14/04/2011 | Inserção do link do documento verificado | Estevão Reis|
 | 4.3 | 22/04/2011 | Atualização dos status de Acompanhamento | Estevão Reis|
+|  4.4   | 02/05/2021 | Ajuste de documento | Emily Dias |

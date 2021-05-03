@@ -1,4 +1,4 @@
-# Sobre
+# 1. Sobre
 
 <div align="center">
   <img src= "assets/logos/logo.png"/>
@@ -12,7 +12,7 @@
 
 <br/>
 
-# Contribuidores
+# 2. Contribuidores
 
 |Foto | Nome | GitHub | E-mail |
 |:--:|:--:|:--:|:--:|
@@ -34,6 +34,7 @@
 
 # Versionamento
 
-|Data|Versão|Descrição|Autor|
+|Versão|Data|Descrição|Autor|
 |:-:|:-:|:-:|:-:|
-|13/02/2021|1.0|Criação do documento|Sérgio Cipriano|
+|1.0|13/02/2021|Criação do documento|Sérgio Cipriano|
+|  1.1   | 02/05/2021 | Ajuste de documento | Emily Dias |

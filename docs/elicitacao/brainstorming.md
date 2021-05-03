@@ -1,3 +1,5 @@
+# Brainstorming
+
 ## 1. Introdução
 
 &emsp;&emsp;Podendo ser conduzida em aproximadamente uma hora, uma sessão de brainstorming visa, de forma livre, o levantamento de um conjunto amplo e abrangente de opiniões dos participantes em torno de um tema.
@@ -74,3 +76,4 @@
 | 1.0 | 08/03/2021 | Criação do documento e adição da Introdução, Aplicação e Bibliografia | Daniel Porto |
 | 1.1 | 08/03/2021 | Adição dos requisitos elicitados | Daniel Porto |
 | 2.0 | 01/05/2021 | Adicionando tabela utilizada para levantar os requisitos do brainstorm | Sergio Cipriano |
+|  2.1   | 02/05/2021 | Ajuste de documento | Emily Dias |

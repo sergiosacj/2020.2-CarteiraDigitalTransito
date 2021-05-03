@@ -1,7 +1,10 @@
+# Verificação - Rich Picture
+
+## 1. Introdução
 &emsp; &emsp;Este documento visa verificar o Rich Picture para detectar os erros e defeitos antes de finalizar o projeto.</br>
 &emsp; &emsp;Para a verificação foi escolhida a estratégia de inspeção por checklist, por sua simplicidade e objetividade.
 
-## Contexto:
+## 2. Contexto:
  - Técnica: Checklist 
  - Autores: Daniel Porto, Emily Dias e Sergio Cipriano
  - Revisores: Enzo Gabriel e Estevão Reis
@@ -9,14 +12,14 @@
 
 O documento verficado está disponível [aqui](../../pre_rastreabilidade/rich_pictures.md)
 
-## Checklist:
-### Legenda
+## 3. Checklist:
+### 3.1. Legenda
 |Símbolo|Descrição|
 |--|--|
 |OK|Contém|
 |X|Não Contém|
 
-### Resultados
+### 3.2. Resultados
 |Número|Questão|RP1|RP2|RP3|
 |:-:|--|:-:|:-:|:-:|
 |1|Os atores estão representados?|OK|OK|OK|
@@ -32,18 +35,19 @@ O documento verficado está disponível [aqui](../../pre_rastreabilidade/rich_pi
 |11|A imagem pode ser expandida?|OK|OK|OK|
 ||**Porcentagem de sucesso**|**100%**|**100%**|**100%**|
 
-## Conclusão
+## 4. Conclusão
 &emsp;&emsp;Feita a verificação do artefato, não foi encontrada nenhuma irregularidade.
 
-## Bibliografia
+## 5. Bibliografia
 > - REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020.
 
 > - [Página de verificação do Rich Picture do grupo Mia Ajuda - 2020.1](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/analysis/verification/verificationRichpicture)
 
 > - [Página de verificação do Rich Picture do grupo IFut - 2020.1](https://requisitos-de-software.github.io/2020.1-iFut/analise/verificacoes/verificacao_richpicture/)
 
-## Versionamento
+## 6. Versionamento
 |Versão|Data|Modificação|Autor|
 |--|--|--|--|
 |1.0|13/04/2021|Abertura do documento|Daniel Porto|
 |1.1|14/04/2021|Correção de erros de digitação|Daniel Porto|
+|  1.2   | 02/05/2021 | Ajuste de documento | Emily Dias |

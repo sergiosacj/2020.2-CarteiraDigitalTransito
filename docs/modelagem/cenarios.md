@@ -1,12 +1,14 @@
-## Introdução
+# Cenários
+
+## 1. Introdução
 &emsp;&emsp;O propósito desse documento é exibir a metodologia utilizada para aplicar o método de cenários na modelagem dos requsitos e seus resultados.<br> 
 &emsp;&emsp;A técnica de cenários se trata de utilizar um conjunto de narrativas de situações e caminhos que se encontram no escopo do sistema e que possibilita a identificação de componentes de design. Em outras palavras, os cenários descrevem, narrando de forma textual, o sistema da perspectiva de um ou mais atores em determinadas situações de uso das funcionalidades.
 
-## Metodologia 
+## 2. Metodologia 
 &emsp;&emsp;A aplicação da técnica deu-se com auxílio dos participantes da equipe que utilizam a aplicação. É interessante mostrar que, por ter um escopo razoavelmente grande, o CDT tem uma gama muito ramificada de usuários por funcionalidades. Por exemplo, nem sempre um usuário tem veículos em seu nome e, se ele fosse utilizado para traçar os cenários, as funcionalidades referentes a veículos ficariam de fora da técnica.<br>
 &emsp;&emsp;Sendo assim, foi utilizado também o [**tutorial de utilização do CDT**](https://portalservicos.denatran.serpro.gov.br/carteiradigital/tutoriais/html/demo_1.html) disponibilizado pelo DENATRAN, para identificar o máximo de possibilidades de cenários.
 
-### Nomenclatura 
+### 2.1. Nomenclatura 
 &emsp;&emsp;Para especificar os cénarios foram utilizadas tabelas contendo os seguintes Elementos:
 
 - **Objetivo:** o que os atores tem como finalidade nesse cenário;
@@ -17,7 +19,7 @@
 - **Episódios:** narração detalhada das interações;
 - **Rastreabilidade:** os requisitos envolvidos.
 
-## Cenários
+## 3. Cenários
 &emsp;&emsp;A seguir estão os resultados da aplicação dessa técnica. Os cenários a seguir contemplam todos os requisitos referentes as funcionalidades já presentes na aplicação. 
 ### C01 - Cadastrar
 | Elementos | Respostas |
@@ -404,11 +406,11 @@
 | **Episódios** | - Usuário acessa o menu de opções;<br>- Usuário seleciona a opção "Preferências";<br>- Usuário seleciona a opção "Sistema de Notificação Eletrônica - SNE";<br>- Usuário lê os termos de adesão;<br>- Usuário seleciona a opção "Aderir";<br>- Usuário informa o número de registro da CNH;<br>- Usuário informa o código de segurança da CNH;<br>- Usuário seleciona a opção "Aderir ao SNE". |
 | **Rastreabilidade** | RF21 |
 
-## Bibliografia
+## 4. Bibliografia
 > - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 10;
 > - LUCENA, Sérgio; KEMCZINSKI, Avenilde; GASPARINE, Isabela; MATOS, Alexandre; OGAWA, Aline; Modelagem de requisitos baseada em cenários para o Storyboard da Metodologia para Construção de  Objetos de Aprendizagem Interativos.
 
-## Versionamento
+## 5. Versionamento
 | Versão | Data | Modificação | Autor |
 |:-:|--|--|--|
 |1.0|16/03/2021| Adição dos tópicos da página e cenários iniciais | Daniel P. e Yan Andrade |
@@ -416,3 +418,4 @@
 |3.0|20/03/2021| Correção dos cenários e adição do restante. | Daniel Porto |
 |3.1|20/03/2021| Adição da introdução e da descrição da metodologia| Daniel Porto |
 |3.2|21/03/2021| Correção de erros de digitação após revisão | Daniel Porto |
+|  3.3   | 02/05/2021 | Ajuste de documento | Emily Dias |

@@ -1,6 +1,6 @@
 # Verificação - Léxicos
 
-## Contexto
+## 1. Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autor do documento: Yan Andrade.
@@ -10,8 +10,8 @@
 O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/lexico/)
 
 
-## Checklist
-### Critérios 
+## 2. Checklist
+### 2.1. Critérios 
 
 |Número|Pergunta|
 | ---- | ------ |
@@ -26,14 +26,14 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 | 9	| Possui noção correta?|	
 | 10| A ortografia está correta?|
 
-### Legenda
+### 2.2. Legenda
 
 |Símbolo|Descrição|
 |:-|:-|
 |OK|Contém|
 |X|Não contém|
 
-### Resultados
+### 2.3. Resultados
 
 | Lo | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 | -- | -- | -- | --| -- | -- | -- | -- | -- | -- | -- | 
@@ -56,12 +56,13 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 | Lv3 | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
 | Lv4 | OK | OK | OK | OK | OK | OK | OK | OK | OK | OK | 
 
-## Bibliografia
+## 3. Bibliografia
 
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 09 de Abril de 2021
 
-## Versionamento
+## 4. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 13/04/2021 | Adição de tópicos no documento | Yan |
 | 1.1 | 15/04/2021 | Correção de pequenos erros | Yan |
+|  1.2   | 02/05/2021 | Ajuste de documento | Emily Dias |

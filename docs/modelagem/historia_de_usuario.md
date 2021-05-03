@@ -78,10 +78,10 @@ Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
 |-------------------|----------|----------------------|
 |**US32:</br>Consultar campanhas educacionais**|Eu, como um usuário, desejo consultar campanhas educacionais, para aprender e me conscientizar mais sobre sobre os cuidados e boas práticas que se deve ter no trânsito|- Deve conter um botão na tela inicial para acessar a área de educação</br></br>- Deve conter todo o material educacional e campanhas vigente no momento do acesso</br></br>- Deve ser possível acessar qualquer um desses conteúdos
 
-## Referências Bibliográficas
+## 4. Referências Bibliográficas
 > - VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira - Engenharia de Requisitos: Software Orientado ao Negócio. Acesso em: 25 de Março de 2021
 
-## Versionamento
+## 5. Versionamento
 
 | Versão | Data       | Modificação                                                                                                |       Autor      |
 | ------ | ---------- | ---------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -95,3 +95,4 @@ Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
 |  4.0   | 22/04/2021 | Correções de erros de ortografia, concordância, reformulação de histórias de usuário e adição de critérios |  Estevão Reis    |
 |  5.0   | 30/04/2021 | Inserção das histórias de usuário em tabela                                                                |  Estevão Reis    |
 |  5.1   | 02/05/2021 | Ajustes textuais                                                                                           |  Estevão Reis    |
+|  5.2   | 02/05/2021 | Ajuste de documento | Emily Dias |

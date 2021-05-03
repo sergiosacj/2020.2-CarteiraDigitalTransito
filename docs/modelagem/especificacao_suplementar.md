@@ -95,8 +95,9 @@ O uso das informações obtidas na aplicação é limitado ao cumprimento do que
 >Software Requirements Specification Amazing Lunch Indicator. Disponível em: http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf, acesso em: 20 de Mar. de 2021
 
 
-## Versionamento
+## 7. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 18/03/2021 | Criação do documento | Enzo Gabriel |
 | 1.1 | 20/03/2021 | Atualização do documento | Enzo Gabriel |
+|  1.2   | 02/05/2021 | Ajuste de documento | Emily Dias |

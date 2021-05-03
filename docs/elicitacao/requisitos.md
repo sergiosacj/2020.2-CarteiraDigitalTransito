@@ -1,13 +1,15 @@
-## Introdução
+# Requisitos
+
+## 1. Introdução
 &emsp;&emsp; Este documento tem como propósito reunir e listar todos os requisitos captados com as técnicas de elicitação, separando-os em requisitos funcionais e requisitos não funcionais.
 
-## Notação
+## 2. Notação
 &emsp;&emsp;Será utilizada a seguinte notação:
 
 - **RFX** para requisitos funcionais, onde **X** é o número do requisito;
 - **RNFX** para requisitos não funcionais, onde **X** é o número do requisito.
 
-## Requisitos Funcionais
+## 3. Requisitos Funcionais
 | Identificação | Requisito | Técnicas |
 |:-:|--|--|
 | **RF1** | Ter login integrado com o sistema GOV.br | Brainstorming, Questionário |
@@ -36,7 +38,7 @@
 | **RF24** | Ter serviço de mensagens diretas para se comunicar com atendentes do DETRAN em caso de necessitar de suporte | Brainstorming |
 | **RF25** | Ter acesso a campanhas de segurança do trânsito do Denatran | Introspecção |
 
-## Requisitos Não Funcionais
+## 4. Requisitos Não Funcionais
 | Identificação | Requisito | Técnicas |
 |:-:|--|--|
 | **RNF1** | Ter acessibilidade | Brainstorming, Questionário |
@@ -51,7 +53,7 @@
 | **RNF10** | Ser responsivo | Introspecção |
 | **RNF11** | Ser seguro | Questionário |
 
-### Requisitos não presentes no App
+### 5. Requisitos não presentes no App
 
 &emsp;&emsp; Alguns requisitos levantados pelas técnicas de elicitação realizadas pelo grupo não estão presentes no app, que são os seguintes:
 
@@ -62,10 +64,11 @@
 | **RF18** | Recorrer a multas |
 | **RF22** | Marcar vistorias | Brainstorming |
 
-## Versionamento
+## 6. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 |1.0| 11/03/2021 | Criação do documento e adição dos requisitos do brainstorming e da introspecção | Daniel Porto |
 |1.1| 11/03/2021 | Adição dos requisitos do questionário | Daniel Porto |
 |1.2| 28/04/2021 | Adição da introdução do documento | Enzo Gabriel |
 |1.3| 29/04/2021 | Adição de tópico mostrando os requisitos não presentes no App | Enzo Gabriel |
+|  1.4   | 02/05/2021 | Ajuste de documento | Emily Dias |

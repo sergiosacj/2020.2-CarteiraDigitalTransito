@@ -1,10 +1,10 @@
 # First Things First
 
-## Introdução
+## 1. Introdução
 
 &emsp;&emsp; First Things First é uma técnica de priorização onde há um levantamento de dados de benefícios, custos e riscos relacionados a cada requisito. Ao utilizar essa técnica, nosso objetivo é estabelecer uma certa ordem de prioridade em relação à implementação das funcionalidades, tendo como base os fatores que impactam na disponibilização delas aos usuários finais.
 
-## Metodologia
+## 2. Metodologia
 
 &emsp;&emsp; Nessa prática de priorização, construímos uma tabela de forma que equilibrou os posionamentos do cliente e do desenvolvedor. Para isso, seguimos os seguintes passos:
 
@@ -23,7 +23,7 @@
 &emsp;&emsp; Os passos são uma versão adaptada dos materiais utilizados como estudo, a ideia era definir um modelo que se adequasse ao nosso modelo de trabalho.
 
 
-## Aplicação da técnica no projeto
+## 3. Aplicação da técnica no projeto
 
 &emsp;&emsp;Para esse método de priorização, utilizamos os requisitos elicitados nos documentos de brainstorming, questionário e introspecção.
 
@@ -66,14 +66,14 @@
 |Funcional    | **RF5** | Ter todas as informações dos documentos | 0,156 |
 |Funcional    | **RF10** | Gerenciar documentos | 0,129 |  
 
-## Acompanhamento
+## 4. Acompanhamento
 &emsp; &emsp; Todas as correções sugeridas foram aplicadas, como detalhar mais a metodologia e disponibilizar o link da planilha.
 
-## Bibliografia
+## 5. Bibliografia
 
 > - First Things First: Prioritizing Requirements. E.Wiegers, Karl. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf Acesso em 11 de março de 2020
 
-## Versionamento
+## 6. Versionamento
 
 |Versão|Data|Descrição|Autor|
 |----|------|---------|-----|
@@ -84,3 +84,4 @@
 |3.0|23/04/2021|Correção de erro|Emily Dias|
 |3.1|27/04/2021|Ajuste de parágrafo|Emily Dias|
 |3.2|01/05/2021|Adição do acompanhamento|Emily Dias|
+|  3.3   | 02/05/2021 | Ajuste de documento | Emily Dias |

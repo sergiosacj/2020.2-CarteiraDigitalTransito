@@ -48,7 +48,7 @@ nav:
     - Validação:
         - Protótipo: analise/validacao/prototipo.md
         - Viewpoint: analise/validacao/viewpoint.md
-  - Pós rastreabilidade:
+  - Pós-rastreabilidade:
     - Matriz Forward-From: pos_rastreabilidade/foward_from.md
     - Matriz Backward-From: pos_rastreabilidade/backward_from.md
   - Apresentações:
@@ -58,7 +58,6 @@ nav:
     - Apresentação 4: apresentacoes/apresentacao_4.md
     - Apresentação 5: apresentacoes/apresentacao_5.md
     - Apresentação 6: apresentacoes/apresentacao_6.md
-    - Apresentação 7: apresentacoes/apresentacao_7.md
   - Atas:
     - 26/02/2021: atas/reuniao-26-02-2021.md
     - 11/03/2021: atas/reuniao-11-03-2021.md
