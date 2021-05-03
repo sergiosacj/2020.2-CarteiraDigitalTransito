@@ -1,11 +1,9 @@
 # First Things First
 
 ## 1. Introdução
-
 &emsp;&emsp; First Things First é uma técnica de priorização onde há um levantamento de dados de benefícios, custos e riscos relacionados a cada requisito. Ao utilizar essa técnica, nosso objetivo é estabelecer uma certa ordem de prioridade em relação à implementação das funcionalidades, tendo como base os fatores que impactam na disponibilização delas aos usuários finais.
 
 ## 2. Metodologia
-
 &emsp;&emsp; Nessa prática de priorização, construímos uma tabela de forma que equilibrou os posionamentos do cliente e do desenvolvedor. Para isso, seguimos os seguintes passos:
 
 [Link da planilha](https://unbbr-my.sharepoint.com/:x:/g/personal/180149687_aluno_unb_br/EYbUcaszohFEqgVuiObjgsUBHeqjZHPqLbHjg8SG-H90dQ?e=ldmCtO)

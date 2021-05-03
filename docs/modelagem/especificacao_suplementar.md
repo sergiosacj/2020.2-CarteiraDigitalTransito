@@ -3,12 +3,10 @@
 ## 1. Introdução
 
 ### 1.1 Finalidade
-
-Este documento tem o objetivo de apresentar os requisitos não-funcionais da aplicação CDT. A Especificação Suplementar mostra requisitos que não foram identificados em um primeiro momento.
+&emsp;&emsp;Este documento tem o objetivo de apresentar os requisitos não-funcionais da aplicação CDT. A Especificação Suplementar mostra requisitos que não foram identificados em um primeiro momento.
 
 ### 1.2 Escopo
-
-A CDT é um aplicativo de dispositivo móvel que tem o intuito de facilitar a vida do motorista, fazendo com que o mesmo não precise mais sair com documentos como sua CNH e os documentos de seu carro quando for digirir.
+&emsp;&emsp;A CDT é um aplicativo de dispositivo móvel que tem o intuito de facilitar a vida do motorista, fazendo com que o mesmo não precise mais sair com documentos como sua CNH e os documentos de seu carro quando for digirir.
 
 ## 2. Definições, Acrônimos e Abreviações
 
@@ -19,14 +17,12 @@ A CDT é um aplicativo de dispositivo móvel que tem o intuito de facilitar a vi
 | FURPS+ | Acrônimo de Funcionality(funcionalidade), Usability(usabilidade), Reliability(confiabilidade), Performance(Desempenho), Suportability(suportabilidade) e '+' que representa outros atributos |
 
 ## 3. Metodologia
-
-O levantamento de requisitos no documento foi feito com base no método FURPS+, aplicando-o de acordo com as características da aplicação.
+&emsp;&emsp;O levantamento de requisitos no documento foi feito com base no método FURPS+, aplicando-o de acordo com as características da aplicação.
 
 ## 4. Levantamento dos Requisitos
 
 ### 4.1 Requisitos de Funcionalidades
-
-Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em documentos anteriores.
+&emsp;&emsp;Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em documentos anteriores.
 
 ### 4.2 Requisitos de Usabilidade
 
@@ -85,15 +81,13 @@ Os requisitos referentes às funcionalidades do aplicativo CDT foram listados em
     A aplicação deve ser capaz de se ajustar ao tamanho da tela do dispositivo do usuário.
 
 ## 5. Licenciamento
-
-O uso das informações obtidas na aplicação é limitado ao cumprimento do que dispõe o Código de Trânsito Brasileiro(Lei 9.503, de 23 de setembro de 1997).
+&emsp;&emsp;O uso das informações obtidas na aplicação é limitado ao cumprimento do que dispõe o Código de Trânsito Brasileiro(Lei 9.503, de 23 de setembro de 1997).
 
 ## 6. Bibliografia
 
 > Projeto de Requisitos de Software Nubank Especificação Suplementar. Disponível em: https://requisitos-2017-2-nubank.github.io/Nubank/siki/esp-suplementar.html#:~:text=Finalidade%2C%20confiabilidade%2C%20desempenho%20e%20suportabilidade, acesso em: 18 de Mar. de 2021
 > Projeto de Software Floricultura Beija-flor Especificação Suplementar. Disponível em: https://silo.tips/download/php-software-company-samily-rocha-gois-francisco-luiz-sobrinho-projeto-de-softwa, acesso em: 20 de Mar. de 2021
 >Software Requirements Specification Amazing Lunch Indicator. Disponível em: http://www.cse.chalmers.se/~feldt/courses/reqeng/examples/srs_example_2010_group2.pdf, acesso em: 20 de Mar. de 2021
-
 
 ## 7. Versionamento
 | Versão | Data | Modificação | Autor |

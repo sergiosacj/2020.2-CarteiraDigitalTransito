@@ -4,7 +4,6 @@
 &emsp;&emsp;Este documento visa verificar os casos de uso em busca de possíveis erros a serem corrigidos no artefato. Para isso, deve-se considerar uma análise feita com regras bem definidas e de fácil entendimento.
 
 ### 1.1 Metodologia
-
 &emsp;&emsp;A estratégia escolhida para fazer essa verificação foi a de inspeção por checklist, pela sua simplicidade, objetividade e eficácia para a verificação.
 
 ## 2. Contexto

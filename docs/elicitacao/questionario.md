@@ -1,12 +1,10 @@
 # Questionário
 
 ## 1. Introdução
-
 &emsp;&emsp;O Questionário é uma técnica na qual é feito uma pesquisa com diversas perguntas para que os usuários possam responder e, por meio das respostas, é levantado os requisitos. Na fase de preparação deve ser indicado o tipo de informação que deseja obter, de forma clara e objetiva para captar respostas mais coesas.
 Essa técnica é muito importante, pois ela ajuda a ter uma visão melhor de como o usuário pensa, e ajuda a melhorar todos os pontos levantados por eles.
 
 ## 2. Metodologia
-
 &emsp;&emsp;As perguntas presentes no questionário foram elaboradas pelos integrantes do grupo, as mesmas são consideradas genéricas para saber o perfil dos participantes e também questionamentos relacionados ao aplicativo. Foram elaboradas 19 perguntas, dessas, 18 são obrigatórias e o tempo de duração máximo para respondê-las é de cerca de 3 minutos. 
 
 &emsp;&emsp;A construção do Questionário se deu através da criação de perguntas-chave, ou seja, perguntas que levam o usuário levam o usuário a um novo conjunto baseando-se em suas respostas anteriores, dessa forma obteve-se a construção do diagrama:

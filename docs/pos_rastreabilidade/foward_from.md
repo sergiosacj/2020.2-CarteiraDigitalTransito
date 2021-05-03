@@ -1,11 +1,9 @@
 # Matriz Foward-From
 
 ## 1. Introdução
-
 &emsp;&emsp;A pós-rastreabilidae está concentrada no ciclo de vida dos requisitos depois de sua especificação de requisitos. Permite identificar quais componentes do software implementam um determinado requisito. Também possibilita saber quais requisitos estão associados a um componente do software. A rastreabilidade **forward-from** liga requisitos a artefatos de desenho e implementação.
 
 ## 2. Metodologia
-
 &emsp;&emsp;Para criar a matriz foward-from, foi utilizada, para especificar os elos de rastreabilidade, o meta-modelo de Toranzo que classifica as informações a serem rastreadas em quatro níveis:</br></br>
 
 **Ambiental**: congrega informações oriundas do contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido;</br></br>

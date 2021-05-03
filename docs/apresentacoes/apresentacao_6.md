@@ -1,12 +1,10 @@
 # Apresentação Final
 
 ## 1. Introdução
-
-A apresentação foi por meio de vídeo. O grupo se organizou para realizar a gravação da apresentação e edição do video gravado. Utilizamos o teams para gravarmos a apresentação e para editar o vídeo foi utilizado o Youtube.
+&emsp;&emsp;A apresentação foi por meio de vídeo. O grupo se organizou para realizar a gravação da apresentação e edição do video gravado. Utilizamos o teams para gravarmos a apresentação e para editar o vídeo foi utilizado o Youtube.
 
 ## 2. Progresso
-
-O grupo produziu alguns documentos entre o início do projeto, arrumou todos os arquivos que precisavam para a finalização do projeto e fez a gravação da apresentação. Segue abaixo lista de documentos feitos nesse período:
+&emsp;&emsp;O grupo produziu alguns documentos entre o início do projeto, arrumou todos os arquivos que precisavam para a finalização do projeto e fez a gravação da apresentação. Segue abaixo lista de documentos feitos nesse período:
 
 - Pós-rastreabilidade ([Matriz Foward-From](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/pos_rastreabilidade/foward_from/) e [Matriz Backward-From](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/pos_rastreabilidade/backward_from/));
 

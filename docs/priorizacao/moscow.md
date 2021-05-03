@@ -1,8 +1,7 @@
 # MoSCoW
 
 ## 1. Introdução
-
-MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a importância das tarefas  que compõe um projeto. As tarefas são classificadas por Must, Should, Could e Won't, que juntas formam o acrônimo MoSCow.
+&emsp;&emsp;MoSCoW é uma técnica de priorização utilizada para definir  a prioridade e a importância das tarefas  que compõe um projeto. As tarefas são classificadas por Must, Should, Could e Won't, que juntas formam o acrônimo MoSCow.
 
 * Must: são os requisitos indispensáveis para a entrega. Se forem atrasados, todo o produto final atrasará em consequência.
 * Should: são importantes, mas não são vitais do ponto de vista estratégico para o produto final.

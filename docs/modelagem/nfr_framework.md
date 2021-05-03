@@ -1,13 +1,11 @@
 # NFR Framework
 
 ## 1. Introdução
-
 &emsp;&emsp;Inicialmente proposto em 1992 e desenvolvido por Dr. Lawrence Chung, em 1999. “O NFR Framework é uma abordagem orientada a processos, onde os requisitos não-funcionais são explicitamente representados como metas a serem obtidas” [CHUNG, 1995].<br>
 &emsp;&emsp;Estão relacionados com o comportamento dum sistema e não com as suas funcionalidades, pois descreve como o sistema funciona, não como o sistema faz.<br>
 &emsp;&emsp;São, normalmente, representados por gráficos SIG (Softgoal Interdependency Graph), que descrevem as dependências entre os softgoals e como eles são decompostos;
 
 ## 2. Metodologia
-
 &emsp;&emsp;Podem ser abordados diversos tipos de softgoals no NFR framework como: Usabilidade, Performance, Segurança, etc. Sendo assim, a aplicação da técnica deu-se, primeiramente, pela análise dos [requisitos não funcionais](../../elicitacao/requisitos/#requisitos-nao-funcionais) elicitados anteriormente. Tal análise teve como objetivo a identificação dos tipos de softgoals que os requisitos tentam cobrir.<br>
 &emsp;&emsp;Analisados os requistos, conclui-se que, no geral, os requisitos do projeto buscam englobar as seguintes softgoals:
 

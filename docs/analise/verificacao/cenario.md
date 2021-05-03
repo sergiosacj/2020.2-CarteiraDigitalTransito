@@ -1,22 +1,20 @@
 # Verificação - Cenários
 
 ## 1. Introdução
+&emsp;&emsp;Este documento visa verificar os cenários em busca de possíveis erros a serem corrigidos no artefato. A estratégia escolhida para fazer essa verificação a de inspeção por checklist.
 
-Este documento visa verificar os cenários em busca de possíveis erros a serem corrigidos no artefato. A estratégia escolhida para fazer essa verificação a de inspeção por checklist.
+## 2. Metodologia
+&emsp;&emsp;O objetivo básico de uma inspeção é verificar se o documento está de acordo com o que se espera dele, o uso de um checklist é importante pela objetividade e eficácia da técnica.
 
-### 1.1. Metodologia
-
-O objetivo básico de uma inspeção é verificar se o documento está de acordo com o que se espera dele, o uso de um checklist é importante pela objetividade e eficácia da técnica.
-
-## 2. Contexto
+## 3. Contexto
  - Técnica: Inspeção
  - Autores: Daniel Porto e Yan Andrade
  - Revisores: Enzo Gabriel e Emily Dias
  - Inspetores: Enzo Gabriel
 
-## 3. Checklist
+## 4. Checklist
 
-### 3.1. Perguntas
+### 4.1. Perguntas
 | Número | Pergunta |
 |:--:|--|
 | 1 | O título é auto-explicativo? |
@@ -30,14 +28,14 @@ O objetivo básico de uma inspeção é verificar se o documento está de acordo
 | 9 | Possui rastreabilidade? |
 | 10 | As abreviações e os acrônimos estão listados no documento? |
 
-### 3.2. Legenda
+### 4.2. Legenda
 
 |Símbolo|Descrição|
 |:-|:-|
 |OK|Contém|
 |X|Não contém|
 
-### 3.3. Resultados
+### 4.3. Resultados
 
 |Cenário|1|2|3|4|5|6|7|8|9|10| Resultado |
 |----|-|--|-|--|-|-|-|--|-| -| -|
@@ -80,11 +78,10 @@ O objetivo básico de uma inspeção é verificar se o documento está de acordo
 |C34|OK|OK|OK|OK|OK|OK|OK|OK|OK|X|90%|
 |C35|OK|OK|OK|OK|OK|OK|OK|OK|OK|X|90%|
 
-## 4. Conclusão
+## 5. Conclusão
+&emsp;&emsp;A inspeção com checklist mostra que o documento, apesar de bem satisfatório, ainda deixou a desejar quanto a listagem de abreviações e acrônimos utilizados dentro dos cenários.
 
-A inspeção com checklist mostra que o documento, apesar de bem satisfatório, ainda deixou a desejar quanto a listagem de abreviações e acrônimos utilizados dentro dos cenários.
-
-## 5. Bibliografia
+## 6. Bibliografia
 
 - [Página de verificação dos Cenários do grupo Mia Ajuda - 2020.1](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/analysis/verification/verificationScenario)
 

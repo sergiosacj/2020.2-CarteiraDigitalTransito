@@ -1,18 +1,15 @@
 # Léxico
 
 ## 1. Introdução
-
 &emsp;&emsp; Léxico é a técnica que se baseia na ideia de aquisição de
 vocabulário. Desse modo, o foco é entender a linguagem do problema, sem
 necessariamente precisar se preocupar em entender o problema como um todo.
 
 ## 2. Motivação
-
 &emsp;&emsp; Com essa técnica é possível representar aspectos abstratos de
 maneira mais concreta, o que irá simplificar o entendimento dos aspectos técnicos.
 
 ## 3. Metodologia
-
 &emsp;&emsp; **LAL - Léxico Ampliado da Linguagem**, metodologia trabalhada
 nesse documento, trata-se de um método para compor os cenários, descrevendo
 termos relacionados ao software avaliado.

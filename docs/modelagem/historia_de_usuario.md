@@ -1,11 +1,9 @@
 # História de Usuário 
 
 ## 1.Introdução 
-
 &emsp;&emsp; "Uma história de usuário é uma breve declaração que descreve algo que o sistema deve fazer para o usuário. É um tipo de especificação de requisitos adotado por muitas equipes de projetos 'ágeis'. Ela se restringe a definir o escopo sem entrar no detalhamento do passo a passo ou das regras de negócio que se aplicam à tarefa do software. Os detalhes do comportamento do sistema são desenvolvidos por meio de interações entre a equipe de desenvolvimento e o dono do produto; pela definição de um critério de aceitação." (VAZQUEZ, Carlos Eduardo, SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: Software Orientado ao Negócio).
 
 ## 2.Metodologia
-
 &emsp;&emsp; Para criarmos as histórias de usuário nos baseamos nos cenários da aplicação, criando as histórias a partir deles.
 A organização das histórias ficou da seguinte maneira:utilizamos a sigla 'EP' significando que será abordado os casos de uso de um dado épico seguido do número do épico e logo após o nome do épico. Exemplo:
 
@@ -20,7 +18,6 @@ O padrão de escrita será assim:
 Eu, como um < TIPO DE USUÁRIO >, desejo < OBJETIVO > para < UMA RAZÃO >
 
 ## 3.Histórias de Usuário
-
 
 ### EP01: Conta de Usuário
 |História de Usuário| Descrição|Critérios de Aceitação|

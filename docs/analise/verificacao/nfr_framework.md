@@ -1,8 +1,9 @@
 # Verificação - NFR Framework
 
-Para a verificação do NFR foi utilizado a estratégia de verificação por checklist, por ser mais simples, por ter uma visualização melhor do Framework e por ser mais objetivo. Este documento é bom para identificar as possíveis falhas e erros encontrados neste artefato.
+## 1. Introdução
+&emsp;&emsp;Para a verificação do NFR foi utilizado a estratégia de verificação por checklist, por ser mais simples, por ter uma visualização melhor do Framework e por ser mais objetivo. Este documento é bom para identificar as possíveis falhas e erros encontrados neste artefato.
 
-## 1. Contexto
+## 2. Contexto
 
 - Técnica utilizada: Técnica de Leitura Check-List
 - Autores do documento: Emily Dias e Daniel Porto.
@@ -11,16 +12,16 @@ Para a verificação do NFR foi utilizado a estratégia de verificação por che
 
 O documento verificado está disponível [aqui](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/nfr_framework/)
 
-## 2. Checklist
+## 3. Checklist
 
-### 2.1. Legenda
+### 3.1. Legenda
 
 |Símbolo|Descrição|
 |:-|:-|
 |OK|Contém|
 |X|Não contém|
 
-### 2.2. Resultados
+### 3.2. Resultados
 
 |Número|Itens|NFR Usabilidade|NFR Eficiência|NFR Confiabilidade|NFR Portabilidade|
 |:-|:-:|:-:|:-:|:-:|:-:|
@@ -41,17 +42,17 @@ O documento verificado está disponível [aqui](https://requisitos-de-software.g
 |15| NFR condiz com requisitos já apresentados?|OK|OK|OK|OK|
 ||**Porcentagem de sucesso**|**93%**|**93%**|**93%**|**87%**|
 
-## 3. Conclusão
+## 4. Conclusão
 
 Com este documento de verificação foi detectado que o documento de NFR ficou como esperado com resalvas em algumas coisas por exemplo, os critérios do app não são completamente satisfatórios e o NFR de Portabilidade não tem operadores que geram impactos em outros.
 
-## 4. Referências
+## 5. Referências
 
 - [Página de verificação do NFR do grupo Mia Ajuda - 2020.1](https://requisitos-de-software.github.io/2020.1-Mia-Ajuda/#/pages/analysis/verification/verificationNFR)
 
 - [Página de verificação do NFR do grupo Guardiões da Saúde - 2020.1](https://requisitos-de-software.github.io/2020.1-GuardioesdaSaude/verificacao-e-validacao/verificacao/NFR/)
 
-## 5. Versionamento
+## 6. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 10/04/2021 | Adição dos itens do documento | Emily Dias |

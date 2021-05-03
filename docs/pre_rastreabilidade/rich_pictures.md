@@ -1,7 +1,6 @@
 # Rich Picture
 
 ## 1. Introdução
-
 &emsp;&emsp; O Rich Picture é uma forma de representar o sistema e suas interações por meio de diagramas gráficos. É uma ferramenta que cabe muito bem em momentos iniciais ou de revisões do projeto fornecendo um modelo mental preliminar.
 
 ## 2. Metodologia
@@ -9,7 +8,6 @@
 &emsp;&emsp; Para o rich picture foi feito a divisão que cada membro faria um modelo desenhado dos diagramas em algum papel, com isto foi escolhido a rich picture com mais detalhes e mais correta, e por fim foi feito a evolução do sistema para obter a versão final do rich picture.
 
 ## 3. Diagrama de Partida
-
 &emsp;&emsp;Para a criação dos diagramas utilizamos a ferramenta LucidChart
 
 <img src="../../assets/rich_pictures/diagrama_de_partida.png">

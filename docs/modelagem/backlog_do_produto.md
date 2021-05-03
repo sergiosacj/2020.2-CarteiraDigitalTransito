@@ -1,11 +1,9 @@
 # Backlog do Produto
 
 ## 1. Introdução
-
 &emsp;&emsp; O backlog do produto é uma técnica geralmente utilizada no desenvolvimento ágil. É basicamente uma lista com breves descrições de funcionalidades ou desejos necessários para alcançar um objetivo. Essa lista traz os requisitos para um projeto, priorizados de acordo com o valor entregue para o cliente. Desse modo, por meio desse documento será possível ter uma visão mais ampla do produto.
 
 ## 2. Metodologia
-
 &emsp;&emsp; Criaremos uma tabela no seguinte molde:
 
 | Épico | História de Usuário | Rastreabilidade | Ator | Desejo | Objetivo | Prioridade |
@@ -15,7 +13,6 @@
 &emsp;&emsp; Desse modo, teremos catalogado todos os requisitos, com todas as suas prioridades, mais todos os épicos e histórias de usuário.
 
 ## 3. Backlog
-
 &emsp;&emsp; Para facilitar a visualização, a tabela feita no Excel está disponível.
 
 ### 4. Tabela em excel

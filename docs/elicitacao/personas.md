@@ -1,7 +1,6 @@
 # Personas
 
 ## 1. Descrição
-
 &emsp;&emsp; Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais, criada para descrever um usuário típico (Cooper et al., 2007; Pruitt e Adlin,2006; Cooper, 1999). É muito usada para representar um tipo de pessoa que são os possíveis usuários. As personas são definidas por várias características, mas a principal delas é seus objetivos. Essas personas são determinadas através de discussões dos designers e refinando as possibilidades se é capaz de chegar em uma população aceitável.
 
 &emsp;&emsp; Antes de prosseguirmos para as personas, vale ressaltar que todas as fotos foram retiradas do site <a href="https://thispersondoesnotexist.com/">ThisPersonDoesNotExist</a>. Esse site utiliza uma inteligência artificial para gerar imagens de pessoas fictícias, sendo assim, todas as imagens utilizadas não infringem nenhuma lei de direitos autorais.
@@ -11,11 +10,9 @@
 &emsp;&emsp;Os tipos de personalidade foram baseados no site [vittude](https://www.vittude.com/blog/eneagrama/) utilizando a técnica de eneagrama.
 
 ## 2. Motivação
-
 &emsp;&emsp; "É utilizada principalmente para representar um grupo de usuários finais durante discussões de design, mantendo todos focados no mesmo alvo. As personas são definidas principalmente por seus objetivos, que são determinados num processo de refinamentos sucessivos durante a investigação inicial do domínio de atividade do usuário. Em geral, começamos com uma aproximação razoável e convergimos numa população plausível de personas"(Barbosa e Silva, 2019, p. 176). 
 
 ## 3. Escolhas
-
 &emsp;&emsp; A decisão da quantidade de personas veio da seguinte afirmação: "Courage e Baxter (2005) apontam um cuidado na escolha do número de personas elaboradas. É importante que as personas sejam memoráveis e, para isso, o elenco de personas deve ser reduzido. Se houver muitas personas para representar os grupos de usuários, elas vão se misturar na mente dos designers e desenvolvedores, e com isso reduzimos os benefícios dessa técnica. No entanto, o elenco deve cobrir os principais grupos de usuários, para ajudar a desenvolver um produto que funciona para todos. Ao nos limitarmos a uma única persona, podemos deixar de fora dados valiosos de usuários finais que não correspondam a um mesmo grupo. Uma recomendação comum é que o elenco de personas inclua três personas primárias."(Barbosa e Silva, 2019, p. 180). 
 
 ## 4. Personas do CDT

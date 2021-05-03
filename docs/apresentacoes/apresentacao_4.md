@@ -1,12 +1,10 @@
 # Apresentação 4
 
 ## 1. Introdução
-
-A apresentação foi por meio de vídeo. O grupo se organizou para realizar a gravação da apresentação e edição do video gravado. Utilizamos o teams para gravarmos a apresentação e para editar o vídeo foi utilizado o Youtube.
+&emsp;&emsp;A apresentação foi por meio de vídeo. O grupo se organizou para realizar a gravação da apresentação e edição do video gravado. Utilizamos o teams para gravarmos a apresentação e para editar o vídeo foi utilizado o Youtube.
 
 ## 2. Progresso
-
-O grupo produziu alguns documentos entre o início do projeto e a gravação da apresentação. Segue abaixo lista de documentos feitos nesse período:
+&emsp;&emsp;O grupo produziu alguns documentos entre o início do projeto e a gravação da apresentação. Segue abaixo lista de documentos feitos nesse período:
 
 - Modelagem ([NFR Framework](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/nfr_framework/), [Backlog do produto](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/backlog_do_produto/) e [História de Usuário](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/modelagem/historia_de_usuario/));
 

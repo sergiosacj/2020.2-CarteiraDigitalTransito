@@ -1,12 +1,10 @@
 # Apresentação 5
 
 ## 1. Introdução
-
-A apresentação foi por meio de vídeo. O grupo se organizou para realizar a gravação da apresentação e edição do video gravado. Utilizamos o teams para gravarmos a apresentação e para editar o vídeo foi utilizado o Youtube.
+&emsp;&emsp;A apresentação foi por meio de vídeo. O grupo se organizou para realizar a gravação da apresentação e edição do video gravado. Utilizamos o teams para gravarmos a apresentação e para editar o vídeo foi utilizado o Youtube.
 
 ## 2. Progresso
-
-O grupo produziu alguns documentos entre o início do projeto e a gravação da apresentação. Segue abaixo lista de documentos feitos nesse período:
+&emsp;&emsp;O grupo produziu alguns documentos entre o início do projeto e a gravação da apresentação. Segue abaixo lista de documentos feitos nesse período:
 
 - Verificação ([Planejamento](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/planejamento/), [Rich Picture](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/rich_picture/), [Casos de uso](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/caso_de_uso/), [Cenários](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/cenario/), [Léxicos](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/lexico/), [NFR Framework](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/nfr_framework/), [Backlog](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/backlog/), [MoSCoW](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/moscow/) e [Histórias de usuário](https://requisitos-de-software.github.io/2020.2-CarteiraDigitalTransito/analise/verificacao/historia_de_usuario/));
 

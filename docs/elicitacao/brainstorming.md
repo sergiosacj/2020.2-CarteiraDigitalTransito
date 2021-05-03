@@ -1,7 +1,6 @@
 # Brainstorming
 
 ## 1. Introdução
-
 &emsp;&emsp;Podendo ser conduzida em aproximadamente uma hora, uma sessão de brainstorming visa, de forma livre, o levantamento de um conjunto amplo e abrangente de opiniões dos participantes em torno de um tema.
 
 &emsp;&emsp;Por se tratar de uma técnica muito dinâmica e, também, por permitir uma ampla discussão sobre os aspectos do sistema por todos os integrantes, a equipe optou em aplicar o brainstorming tendo como participantes os próprios integrantes da equipe e levando sempre em consideração as [Personas](personas.md) elaboradas bem como as seguintes perguntas guias:
@@ -12,7 +11,6 @@
 - O que você deseja encontrar no sistema?
 
 ## 2. Metodologia
-
 &emsp;&emsp; A aplicação da técnica deu-se por meio de chamada on-line na plataforma Teams na data 02/03/2021. Foi disponibilizada uma planilha editável do [Excel](https://unbbr-my.sharepoint.com/:x:/r/personal/180149687_aluno_unb_br/Documents/Brainstorming%20requisitos.xlsx?d=w6173de047437450a8401ee0b2dfaf37c&csf=1&web=1&e=Ip219r) na qual os participantes realizaram três rounds de um minuto e meio. Em cada round, cada participante adicionou em seus espaços da planilha as ideias e opiniões que julgassem cabíveis. Ao final dos rounds, todos os participantes escolheram, dentre todas as informações registradas por todos, as suas preferidas. Feito isso, houve uma discussão acerca dos requisitos escolhidos por todos onde cada participante teve a oportunidade de defender e justificar suas escolhas e questionar as escolhas dos demais.
 
 ## 3. Requisitos Elicitados
