@@ -89,7 +89,7 @@
 
 - - [Página de verificação dos Cenários do grupo Promobit - 2020.1](https://requisitos-de-software.github.io/2020.1-Promobit/analise/verificacao/cenario/)
 
-## 6. Versionamento
+## 7. Versionamento
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
 | 1.0 | 11/04/2021 | Criação do documento | Enzo Gabriel |
